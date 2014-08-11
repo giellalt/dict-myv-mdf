@@ -33,9 +33,9 @@
 <tg xml:lang="eng"><t pos="Pcle">more</t></tg>
 <tg xml:lang="mdf"><t pos="Pcle">сяда</t></tg>
 <tg xml:lang="rus"><t pos="Pcle">образует сравнительную степень</t></tg><xg><x>седе покш</x>
-<xt xml:lang="eng"><t pos="Pcle">bigger</xt>
-<xt xml:lang="mdf"><t pos="Pcle">сяда оцю</xt>
-<xt xml:lang="rus"><t pos="Pcle">больше</xt></xg></mg>
+<xt xml:lang="eng">bigger</xt>
+<xt xml:lang="mdf">сяда оцю</xt>
+<xt xml:lang="rus">больше</xt></xg></mg>
   </e>
   <e><lg><l pos="Pcle">сех</l></lg><mg>
 <tg xml:lang="mdf"><t pos="Pcle">сехта</t><t pos="Pcle">сембода</t><t pos="Pcle">инь</t></tg>
