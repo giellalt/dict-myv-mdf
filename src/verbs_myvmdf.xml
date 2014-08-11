@@ -1,0 +1,3300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="myv">
+  <e><lg><l pos="V">а смеямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">аф смендамс</t></tg>
+<tg xml:lang="rus"><t pos="V">не сметь</t><t pos="V">стесняться</t></tg></mg> </e>
+  <e><lg><l pos="V">абунгавтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">абонгофтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">испугать</t><t pos="V">заставить ощутить неловкость</t></tg></mg> </e>
+  <e><lg><l pos="V">абунгадокшномс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">абонготкшнемс</t></tg>
+<tg xml:lang="rus"><t pos="V">пугаться</t></tg></mg> </e>
+  <e><lg><l pos="V">абунгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">абонгодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">испугаться</t><t pos="V">растеряться</t></tg></mg> </e>
+  <e><lg><l pos="V">авардемс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to cry</t></tg>
+<tg xml:lang="mdf"><t pos="V">авардемс</t></tg>
+<tg xml:lang="rus"><t pos="V">плакать</t></tg></mg> </e>
+  <e><lg><l pos="V">аварьгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">аварьгодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">заплакать</t></tg></mg> </e>
+  <e><lg><l pos="V">авкстамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">авкстомс</t><t pos="V">кавкстомс</t></tg>
+<tg xml:lang="rus"><t pos="V">гавкнуть; тявкнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">авкстнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">авкснемс</t></tg>
+<tg xml:lang="rus"><t pos="V">гавкать</t></tg></mg> </e>
+  <e><lg><l pos="V">аволдамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">аволдамс</t></tg>
+<tg xml:lang="rus"><t pos="V">взмахнуть; махнуть; смести; стереть (пыль)</t></tg></mg> </e>
+  <e><lg><l pos="V">аволямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">аволямс</t></tg>
+<tg xml:lang="rus"><t pos="V">махать</t></tg></mg> </e>
+  <e><lg><l pos="V">автемс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to open (wide)</t></tg>
+<tg xml:lang="mdf"><t pos="V">афтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">раскрыть</t></tg></mg> </e>
+  <e><lg><l pos="V">автнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">афнемс</t></tg>
+<tg xml:lang="rus"><t pos="V">раскрывать</t></tg></mg> </e>
+  <e><lg><l pos="V">автордамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">цопадемс</t></tg>
+<tg xml:lang="rus"><t pos="V">цапнуть</t><t pos="V">быстро схватить</t></tg></mg> </e>
+  <e><lg><l pos="V">азаргавтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">азаргофтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">растравить; вызвать загноение</t></tg></mg> </e>
+  <e><lg><l pos="V">азаргадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">азаргодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">взбеситься; загноиться</t></tg></mg> </e>
+  <e><lg><l pos="V">азгондемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">азгондемс</t><t pos="V">азгодемс</t></tg>
+<tg xml:lang="rus"><t pos="V">шляться</t></tg></mg> </e>
+  <e><lg><l pos="V">аздамс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to be unaware of</t></tg>
+<tg xml:lang="mdf"><t pos="V">аф содамс</t></tg>
+<tg xml:lang="rus"><t pos="V">не знать</t></tg></mg> </e>
+  <e><lg><l pos="V">азоркстамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">азорондамс</t></tg>
+<tg xml:lang="rus"><t pos="V">хозяйничать</t></tg></mg> </e>
+  <e><lg><l pos="V">айгемс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to scoot (to one side)</t></tg>
+<tg xml:lang="mdf"><t pos="V">шаштомс</t></tg>
+<tg xml:lang="rus"><t pos="V">подвинуться</t></tg></mg> </e>
+  <e><lg><l pos="V">айдямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">айдямс</t></tg>
+<tg xml:lang="rus"><t pos="V">гнать</t></tg></mg> </e>
+  <e><lg><l pos="V">аймельдемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тятярдемс</t></tg>
+<tg xml:lang="rus"><t pos="V">шататься; кружиться (о голове)</t></tg></mg> </e>
+  <e><lg><l pos="V">аксоргавтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кяжияфтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">рассердить</t></tg></mg> </e>
+  <e><lg><l pos="V">аксордакшномс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">аксордакшнемс</t></tg>
+<tg xml:lang="rus"><t pos="V">харкать</t></tg></mg> </e>
+  <e><lg><l pos="V">аксордамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">аксордамс</t></tg>
+<tg xml:lang="rus"><t pos="V">харкнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">аксорямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">аксорямс</t></tg>
+<tg xml:lang="rus"><t pos="V">харкать</t></tg></mg> </e>
+  <e><lg><l pos="V">аксунгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кашангодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">закапризничать</t></tg></mg> </e>
+  <e><lg><l pos="V">аламолгавтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кирьфтамс</t></tg>
+<tg xml:lang="rus"><t pos="V">сократить</t><t pos="V">убавить</t></tg></mg> </e>
+  <e><lg><l pos="V">аламолгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">киремс</t></tg>
+<tg xml:lang="rus"><t pos="V">стать меньше</t><t pos="V">убавиться</t></tg></mg> </e>
+  <e><lg><l pos="V">алкалгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">алнялгодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">уменьшиться</t><t pos="V">сделаться ниже</t></tg></mg> </e>
+  <e><lg><l pos="V">алкиньгавтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">алнялгофтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">уменьшить</t><t pos="V">сделать ниже</t></tg></mg> </e>
+  <e><lg><l pos="V">алкиньгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">алнялгодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">уменьшиться (о росте, высоте, воде)</t><t pos="V">стать ниже</t></tg></mg> </e>
+  <e><lg><l pos="V">алтамс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to promise</t></tg>
+<tg xml:lang="mdf"><t pos="V">вал максомс</t></tg>
+<tg xml:lang="rus"><t pos="V">обещать; посвящать; пожелать</t></tg></mg> </e>
+  <e><lg><l pos="V">алыямс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to lay (eggs)</t></tg>
+<tg xml:lang="mdf"><t pos="V">алыямс</t></tg>
+<tg xml:lang="rus"><t pos="V">нестись</t></tg></mg> </e>
+  <e><lg><l pos="V">альнямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">шапамомс</t></tg>
+<tg xml:lang="rus"><t pos="V">прокиснуть</t></tg></mg> </e>
+  <e><lg><l pos="V">алялгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">алялгодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">возмужать</t></tg></mg> </e>
+  <e><lg><l pos="V">амольдямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">амолдамс</t></tg>
+<tg xml:lang="rus"><t pos="V">черпнуть; зачерпнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">амолямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">амолямс</t></tg>
+<tg xml:lang="rus"><t pos="V">черпать</t></tg></mg> </e>
+  <e><lg><l pos="V">амштадемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">амштадемс</t><t pos="V">тамштадемс</t></tg>
+<tg xml:lang="rus"><t pos="V">схватить (ртом); укусить</t></tg></mg> </e>
+  <e><lg><l pos="V">анамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">анамс</t></tg>
+<tg xml:lang="rus"><t pos="V">просить</t><t pos="V">выпрашивать</t></tg></mg> </e>
+  <e><lg><l pos="V">ангордамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ангордамс</t></tg>
+<tg xml:lang="rus"><t pos="V">царапнуть; схватить быстро; взять что-либо; растревожить</t><t pos="V">взволновать</t></tg></mg> </e>
+  <e><lg><l pos="V">ангорямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ангорямс</t></tg>
+<tg xml:lang="rus"><t pos="V">царапать</t><t pos="V">чесать</t></tg></mg> </e>
+  <e><lg><l pos="V">анднемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">аннемс</t></tg>
+<tg xml:lang="rus"><t pos="V">кормить</t><t pos="V">подкармливать</t></tg></mg> </e>
+  <e><lg><l pos="V">андомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">андомс</t></tg>
+<tg xml:lang="rus"><t pos="V">кормить; содержать</t></tg></mg> </e>
+  <e><lg><l pos="V">анелямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">анелямс</t></tg>
+<tg xml:lang="rus"><t pos="V">баловать; угощать</t><t pos="V">кормить</t></tg></mg> </e>
+  <e><lg><l pos="V">анокстамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">анокламс</t></tg>
+<tg xml:lang="rus"><t pos="V">подготовиться</t><t pos="V">готовить</t><t pos="V">приготовить</t></tg></mg> </e>
+  <e><lg><l pos="V">апаргадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">афпаролгодомс</t><t pos="V">кальдявгодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">ухудшиться; расстроиться</t><t pos="V">огорчиться</t></tg></mg> </e>
+  <e><lg><l pos="V">апаргалемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">афпаралготкшнемс</t><t pos="V">кальдявготкшнемс</t></tg>
+<tg xml:lang="rus"><t pos="V">ухудшаться; расстраиваться</t><t pos="V">огорчаться</t></tg></mg> </e>
+  <e><lg><l pos="V">аравтнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">арафнемс</t></tg>
+<tg xml:lang="rus"><t pos="V">расставить</t><t pos="V">расставлять</t></tg></mg> </e>
+  <e><lg><l pos="V">аравтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">арафтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">поставить; приладить; наставить; назначить; наладить</t></tg></mg> </e>
+  <e><lg><l pos="V">аракшномс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">арсемс</t></tg>
+<tg xml:lang="rus"><t pos="V">становиться</t></tg></mg> </e>
+  <e><lg><l pos="V">арамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">арамс</t></tg>
+<tg xml:lang="rus"><t pos="V">стать</t></tg></mg> </e>
+  <e><lg><l pos="V">арднемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">арнемс</t></tg>
+<tg xml:lang="rus"><t pos="V">ездить</t><t pos="V">кататься</t></tg></mg> </e>
+  <e><lg><l pos="V">ардомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ардомс</t></tg>
+<tg xml:lang="rus"><t pos="V">ехать</t><t pos="V">катиться</t></tg></mg> </e>
+  <e><lg><l pos="V">ардстомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">арфтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">прокатить</t></tg></mg> </e>
+  <e><lg><l pos="V">аржиямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">аржиямс</t></tg>
+<tg xml:lang="rus"><t pos="V">зазубриться</t></tg></mg> </e>
+  <e><lg><l pos="V">арсезевемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">арьсезевомс</t></tg>
+<tg xml:lang="rus"><t pos="V">задуматься</t></tg></mg> </e>
+  <e><lg><l pos="V">арсекшнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">арьсекшнемс</t></tg>
+<tg xml:lang="rus"><t pos="V">думать</t><t pos="V">размышлять</t><t pos="V">полагать</t><t pos="V">намереваться</t></tg></mg> </e>
+  <e><lg><l pos="V">арсемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">арьсемс</t></tg>
+<tg xml:lang="rus"><t pos="V">мыслить</t><t pos="V">думать</t><t pos="V">полагать</t><t pos="V">предполагать</t><t pos="V">намереваться</t><t pos="V">пытаться; желать</t><t pos="V">мечтать</t></tg></mg> </e>
+  <e><lg><l pos="V">артомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">архтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">покрасить</t></tg></mg> </e>
+  <e><lg><l pos="V">ахаемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ахиемс</t></tg>
+<tg xml:lang="rus"><t pos="V">ахать</t></tg></mg> </e>
+  <e><lg><l pos="V">ацамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ацамс</t></tg>
+<tg xml:lang="rus"><t pos="V">постлать</t><t pos="V">постелить</t><t pos="V">расстелить</t><t pos="V">настлать</t></tg></mg> </e>
+  <e><lg><l pos="V">ацирьгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ацергодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">расстроиться</t><t pos="V">раздражиться</t><t pos="V">огорчиться</t></tg></mg> </e>
+  <e><lg><l pos="V">ашкордамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ашкордамс</t></tg>
+<tg xml:lang="rus"><t pos="V">смотать (нитки)</t><t pos="V">завернуть</t><t pos="V">запеленать; обьять</t><t pos="V">охватить</t></tg></mg> </e>
+  <e><lg><l pos="V">ашкорямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ашкорямс</t></tg>
+<tg xml:lang="rus"><t pos="V">намотать (нитки)</t><t pos="V">заворачивать</t></tg></mg> </e>
+  <e><lg><l pos="V">ашолгавтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">акшелгофтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">побелить; почистить</t></tg></mg> </e>
+  <e><lg><l pos="V">ашолгадокшномс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">акшелготкшнемс</t></tg>
+<tg xml:lang="rus"><t pos="V">белеть; бледнеть</t><t pos="V">побледнеть; очиститься</t><t pos="V">проясниться</t><t pos="V">рассвести</t></tg></mg> </e>
+  <e><lg><l pos="V">ашолгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">акшелгодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">побелеть; очиститься (от грязи); светать</t><t pos="V">рассветать; проясниться (о небе)</t></tg></mg> </e>
+  <e><lg><l pos="V">ашолдомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">акшелдомс</t></tg>
+<tg xml:lang="rus"><t pos="V">белеть</t><t pos="V">белеться</t></tg></mg> </e>
+  <e><lg><l pos="V">аштекшнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ащекшнемс</t></tg>
+<tg xml:lang="rus"><t pos="V">пребывать (в каком-л. состоянии)</t></tg></mg> </e>
+  <e><lg><l pos="V">аштемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ащемс</t></tg>
+<tg xml:lang="rus"><t pos="V">1) находиться</t><t pos="V">быть (в каком-л. положении или состоянии); принадлежать; являться; состоять (из кого-чего); стоять; зависеть; сидеть как (об одежде); 2) заступаться; быть неизменным в чем-л.</t><t pos="V">строго придерживаться чего-л.</t></tg></mg> </e>
+  <e><lg><l pos="V">багордамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">цопадемс</t></tg>
+<tg xml:lang="rus"><t pos="V">быстро схватить</t></tg></mg> </e>
+  <e><lg><l pos="V">багордомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">цопадемс</t></tg>
+<tg xml:lang="rus"><t pos="V">быстро схватить</t></tg></mg> </e>
+  <e><lg><l pos="V">бажамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ёрамс</t><t pos="V">таколдомс</t><t pos="V">мяледемс</t></tg>
+<tg xml:lang="rus"><t pos="V">желать</t></tg></mg> </e>
+  <e><lg><l pos="V">баксордамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">искордамс</t></tg>
+<tg xml:lang="rus"><t pos="V">царапнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">бакулямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">корхтакшнемс</t><t pos="V">корхнемс</t></tg>
+<tg xml:lang="rus"><t pos="V">разговаривать</t></tg></mg> </e>
+  <e><lg><l pos="V">бангавтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">бангофтомс</t><t pos="V">увнафтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">ударить</t></tg></mg> </e>
+  <e><lg><l pos="V">басямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">корхтамс</t><t pos="V">басямс</t></tg>
+<tg xml:lang="rus"><t pos="V">разговаривать</t></tg></mg> </e>
+  <e><lg><l pos="V">бахадемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">бахадемс</t></tg>
+<tg xml:lang="rus"><t pos="V">бахнуть (прост.)</t></tg></mg> </e>
+  <e><lg><l pos="V">безардемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">безярдемс</t><t pos="V">нильгодемс</t></tg>
+<tg xml:lang="rus"><t pos="V">брезговать</t></tg></mg> </e>
+  <e><lg><l pos="V">бертядемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">цяподемс</t></tg>
+<tg xml:lang="rus"><t pos="V">боднуть</t><t pos="V">ударить</t></tg></mg> </e>
+  <e><lg><l pos="V">берякадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кальдявгодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">ухудшиться</t></tg></mg> </e>
+  <e><lg><l pos="V">беряньгавтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кальдявгофтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">ухудшить</t></tg></mg> </e>
+  <e><lg><l pos="V">беряньгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кальдявгодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">ухудшиться</t></tg></mg> </e>
+  <e><lg><l pos="V">бигельдемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">мянцявомс</t></tg>
+<tg xml:lang="rus"><t pos="V">гнуться</t></tg></mg> </e>
+  <e><lg><l pos="V">бизмолгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">бъзмолгодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">всполошиться</t></tg></mg> </e>
+  <e><lg><l pos="V">бизмолдомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">бъзмолдомс</t></tg>
+<tg xml:lang="rus"><t pos="V">кишеть</t><t pos="V">суетиться</t></tg></mg> </e>
+  <e><lg><l pos="V">бизнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">бъзнамс</t></tg>
+<tg xml:lang="rus"><t pos="V">жужжать</t></tg></mg> </e>
+  <e><lg><l pos="V">благойгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">благойгодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">рассердиться</t></tg></mg> </e>
+  <e><lg><l pos="V">болдордомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">булдордомс</t><t pos="V">бълдордомс</t></tg>
+<tg xml:lang="rus"><t pos="V">болтать</t><t pos="V">мешать</t></tg></mg> </e>
+  <e><lg><l pos="V">бороцямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">бороцямс</t></tg>
+<tg xml:lang="rus"><t pos="V">бороться</t></tg></mg> </e>
+  <e><lg><l pos="V">бринцядемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">бринтядемс</t></tg>
+<tg xml:lang="rus"><t pos="V">ударить</t></tg></mg> </e>
+  <e><lg><l pos="V">бузнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">шапамомс</t></tg>
+<tg xml:lang="rus"><t pos="V">прокиснуть</t></tg></mg> </e>
+  <e><lg><l pos="V">булдордомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">булдордомс</t></tg>
+<tg xml:lang="rus"><t pos="V">бултыхать</t><t pos="V">былтыхаться</t></tg></mg> </e>
+  <e><lg><l pos="V">булдорямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">булдорямс</t></tg>
+<tg xml:lang="rus"><t pos="V">замутить</t></tg></mg> </e>
+  <e><lg><l pos="V">булькадемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">булькадемс</t></tg>
+<tg xml:lang="rus"><t pos="V">булькнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">бутралгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">бутралгодомс</t><t pos="V">буторгодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">замутнеть</t></tg></mg> </e>
+  <e><lg><l pos="V">бухадемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">бухадемс</t></tg>
+<tg xml:lang="rus"><t pos="V">бухнуть</t><t pos="V">производить глухой звук</t><t pos="V">бухнуться</t></tg></mg> </e>
+  <e><lg><l pos="V">вадемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">вадемс</t></tg>
+<tg xml:lang="rus"><t pos="V">помазать</t><t pos="V">намазать</t></tg></mg> </e>
+  <e><lg><l pos="V">вадневемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">вадендевомс</t><t pos="V">вадевомс</t></tg>
+<tg xml:lang="rus"><t pos="V">намазаться</t><t pos="V">испачкаться</t></tg></mg> </e>
+  <e><lg><l pos="V">вадрякстомомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">цябярьгодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">похорошеть</t></tg></mg> </e>
+  <e><lg><l pos="V">вадрякстомтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">цебярьгофтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">улучшить</t></tg></mg> </e>
+  <e><lg><l pos="V">вадяшамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">вадерямс</t></tg>
+<tg xml:lang="rus"><t pos="V">гладить</t></tg></mg> </e>
+  <e><lg><l pos="V">важдямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">важдямс</t><t pos="V">важдамс</t><t pos="V">басямс</t></tg>
+<tg xml:lang="rus"><t pos="V">утешить</t></tg></mg> </e>
+  <e><lg><l pos="V">важодемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">путомс вийхть</t><t pos="V">покадемс</t></tg>
+<tg xml:lang="rus"><t pos="V">старательно работать</t><t pos="V">работать</t></tg></mg> </e>
+  <e><lg><l pos="V">вазыямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">вазыямс</t></tg>
+<tg xml:lang="rus"><t pos="V">отелиться</t></tg></mg> </e>
+  <e><lg><l pos="V">вайкстамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">вайкстомс</t></tg>
+<tg xml:lang="rus"><t pos="V">ойкнуть</t><t pos="V">ахнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">вайкстнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">вайкснемс</t></tg>
+<tg xml:lang="rus"><t pos="V">охать</t><t pos="V">ахать</t></tg></mg> </e>
+  <e><lg><l pos="V">вайсемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">вайсемс</t></tg>
+<tg xml:lang="rus"><t pos="V">тонуть (многокр. от ваямс)</t></tg></mg> </e>
+  <e><lg><l pos="V">валакавтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">валаськаптомс</t><t pos="V">валаськофтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">сделать гладким</t></tg></mg> </e>
+  <e><lg><l pos="V">валгомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">валгомс</t></tg>
+<tg xml:lang="rus"><t pos="V">спуститься</t><t pos="V">спускаться</t></tg></mg> </e>
+  <e><lg><l pos="V">валгстомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">валхтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">спустить</t><t pos="V">снять</t></tg></mg> </e>
+  <e><lg><l pos="V">валдомомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">валдомомс</t></tg>
+<tg xml:lang="rus"><t pos="V">посветлеть</t></tg></mg> </e>
+  <e><lg><l pos="V">валномс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">валондомс</t></tg>
+<tg xml:lang="rus"><t pos="V">поливать</t></tg></mg> </e>
+  <e><lg><l pos="V">валомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">валомс</t></tg>
+<tg xml:lang="rus"><t pos="V">полить</t><t pos="V">лить</t><t pos="V">вылить</t></tg></mg> </e>
+  <e><lg><l pos="V">валтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">валхтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">спустить; снять</t></tg></mg> </e>
+  <e><lg><l pos="V">вальсемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">вальсемс</t></tg>
+<tg xml:lang="rus"><t pos="V">заваливать; окучивать</t></tg></mg> </e>
+  <e><lg><l pos="V">валямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">валямс</t></tg>
+<tg xml:lang="rus"><t pos="V">завалить</t></tg></mg> </e>
+  <e><lg><l pos="V">валяямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">валяндамс</t></tg>
+<tg xml:lang="rus"><t pos="V">валяться</t></tg></mg> </e>
+  <e><lg><l pos="V">вандолдомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">вандолдомс</t></tg>
+<tg xml:lang="rus"><t pos="V">блестеть</t></tg></mg> </e>
+  <e><lg><l pos="V">ваномс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ваномс</t></tg>
+<tg xml:lang="rus"><t pos="V">смотреть</t></tg></mg> </e>
+  <e><lg><l pos="V">ваномс мель</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ваномс мяль</t></tg>
+<tg xml:lang="rus"><t pos="V">угождать</t></tg></mg> </e>
+  <e><lg><l pos="V">ванстомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ванфтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">охранять</t><t pos="V">защищать; беречь</t></tg></mg> </e>
+  <e><lg><l pos="V">ванськадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">аруямс</t></tg>
+<tg xml:lang="rus"><t pos="V">стать чистым</t></tg></mg> </e>
+  <e><lg><l pos="V">вариявтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">варяяфтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">продырявить</t><t pos="V">изрешетить</t></tg></mg> </e>
+  <e><lg><l pos="V">вариямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">варяямс</t></tg>
+<tg xml:lang="rus"><t pos="V">продырявиться</t></tg></mg> </e>
+  <e><lg><l pos="V">вармаськадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">вармаськодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">стать ветреным</t></tg></mg> </e>
+  <e><lg><l pos="V">варчамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">варжамс</t></tg>
+<tg xml:lang="rus"><t pos="V">попробовать</t></tg></mg> </e>
+  <e><lg><l pos="V">варштамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">варжакстомс</t></tg>
+<tg xml:lang="rus"><t pos="V">посмотреть</t></tg></mg> </e>
+  <e><lg><l pos="V">варялгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">варявгодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">продырявиться</t></tg></mg> </e>
+  <e><lg><l pos="V">васодемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">васедемс</t></tg>
+<tg xml:lang="rus"><t pos="V">встретиться</t></tg></mg> </e>
+  <e><lg><l pos="V">вастнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">васетькшнемс</t></tg>
+<tg xml:lang="rus"><t pos="V">встречаться</t></tg></mg> </e>
+  <e><lg><l pos="V">вастомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">васьфтемс</t></tg>
+<tg xml:lang="rus"><t pos="V">встретить</t><t pos="V">встретиться</t></tg></mg> </e>
+  <e><lg><l pos="V">васькамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">васькамс</t></tg>
+<tg xml:lang="rus"><t pos="V">жить в покое</t><t pos="V">надеяться</t></tg></mg> </e>
+  <e><lg><l pos="V">ваткамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ваткамс</t></tg>
+<tg xml:lang="rus"><t pos="V">содрать (кожу, шкуру, кору)</t><t pos="V">облупить</t><t pos="V">очистить</t></tg></mg> </e>
+  <e><lg><l pos="V">ватордомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">вякнамс</t><t pos="V">ватордомс</t></tg>
+<tg xml:lang="rus"><t pos="V">квакать</t></tg></mg> </e>
+  <e><lg><l pos="V">вачкамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">вачкамс</t></tg>
+<tg xml:lang="rus"><t pos="V">класть</t><t pos="V">сложить в кучу</t></tg></mg> </e>
+  <e><lg><l pos="V">вачкодемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">вачкодемс</t></tg>
+<tg xml:lang="rus"><t pos="V">ударить</t></tg></mg> </e>
+  <e><lg><l pos="V">вачомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">вачемс</t></tg>
+<tg xml:lang="rus"><t pos="V">проголодаться</t></tg></mg> </e>
+  <e><lg><l pos="V">вашиямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">вашиямс</t></tg>
+<tg xml:lang="rus"><t pos="V">ожеребиться</t></tg></mg> </e>
+  <e><lg><l pos="V">ваявтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ваяфтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">утопить</t></tg></mg> </e>
+  <e><lg><l pos="V">ваявтомс пря</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ваяфтомс пря</t></tg>
+<tg xml:lang="rus"><t pos="V">утопиться</t></tg></mg> </e>
+  <e><lg><l pos="V">ваямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ваямс</t></tg>
+<tg xml:lang="rus"><t pos="V">утонуть</t></tg></mg> </e>
+  <e><lg><l pos="V">ведувамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ведундамс</t></tg>
+<tg xml:lang="rus"><t pos="V">колдовать</t></tg></mg> </e>
+  <e><lg><l pos="V">вейкетямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тиемс фкакс</t><t pos="V">тиемс флаца</t></tg>
+<tg xml:lang="rus"><t pos="V">уподобить</t><t pos="V">сделать одинаковыми</t></tg></mg> </e>
+  <e><lg><l pos="V">вейсэндямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сотомс</t><t pos="V">поладомс</t><t pos="V">шовордамс</t></tg>
+<tg xml:lang="rus"><t pos="V">соединить</t></tg></mg> </e>
+  <e><lg><l pos="V">вельмевтемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">вельмофтемс</t></tg>
+<tg xml:lang="rus"><t pos="V">оживить</t></tg></mg> </e>
+  <e><lg><l pos="V">вельмемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">вельмомс</t></tg>
+<tg xml:lang="rus"><t pos="V">ожить</t></tg></mg> </e>
+  <e><lg><l pos="V">вельтнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">вельхнемс</t></tg>
+<tg xml:lang="rus"><t pos="V">покрывать</t></tg></mg> </e>
+  <e><lg><l pos="V">вельтямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">вельхтямс</t></tg>
+<tg xml:lang="rus"><t pos="V">покрыть</t><t pos="V">накрыть</t></tg></mg> </e>
+  <e><lg><l pos="V">велявтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">мърдамс</t></tg>
+<tg xml:lang="rus"><t pos="V">вернуться</t></tg></mg> </e>
+  <e><lg><l pos="V">велямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">шаромс</t></tg>
+<tg xml:lang="rus"><t pos="V">вертеться</t></tg></mg> </e>
+  <e><lg><l pos="V">венемемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">венемомс</t></tg>
+<tg xml:lang="rus"><t pos="V">растянуться</t></tg></mg> </e>
+  <e><lg><l pos="V">венстемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">венептемс</t></tg>
+<tg xml:lang="rus"><t pos="V">протянуть</t></tg></mg> </e>
+  <e><lg><l pos="V">венчамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">венцямс</t></tg>
+<tg xml:lang="rus"><t pos="V">венчать</t><t pos="V">венчаться; обвенчать</t><t pos="V">обвенчаться</t></tg></mg> </e>
+  <e><lg><l pos="V">вериямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">верыямс</t></tg>
+<tg xml:lang="rus"><t pos="V">окрававиться</t></tg></mg> </e>
+  <e><lg><l pos="V">ветямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">вятемс</t></tg>
+<tg xml:lang="rus"><t pos="V">руководить</t><t pos="V">вести</t></tg></mg> </e>
+  <e><lg><l pos="V">вецакадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">вецакодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">сделаться жидким</t></tg></mg> </e>
+  <e><lg><l pos="V">вечкемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кельгомс</t></tg>
+<tg xml:lang="rus"><t pos="V">любить</t></tg></mg> </e>
+  <e><lg><l pos="V">вешемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">вешемс</t></tg>
+<tg xml:lang="rus"><t pos="V">просить</t><t pos="V">выпросить</t></tg></mg> </e>
+  <e><lg><l pos="V">вешкемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">вяшкомс</t></tg>
+<tg xml:lang="rus"><t pos="V">свистеть</t></tg></mg> </e>
+  <e><lg><l pos="V">вешнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">вешендемс</t></tg>
+<tg xml:lang="rus"><t pos="V">искать</t></tg></mg> </e>
+  <e><lg><l pos="V">видемемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">видемомс</t></tg>
+<tg xml:lang="rus"><t pos="V">выпрямиться</t></tg></mg> </e>
+  <e><lg><l pos="V">видемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">видемс</t></tg>
+<tg xml:lang="rus"><t pos="V">сеять</t><t pos="V">посеять</t></tg></mg> </e>
+  <e><lg><l pos="V">видемтемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">видептемс</t></tg>
+<tg xml:lang="rus"><t pos="V">выпрямить</t></tg></mg> </e>
+  <e><lg><l pos="V">видькстамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">виденцямс</t></tg>
+<tg xml:lang="rus"><t pos="V">признаться</t></tg></mg> </e>
+  <e><lg><l pos="V">виевгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">вииямс</t></tg>
+<tg xml:lang="rus"><t pos="V">окрепнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">виемемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">вииямс</t></tg>
+<tg xml:lang="rus"><t pos="V">окрепнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">виемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">вимс</t></tg>
+<tg xml:lang="rus"><t pos="V">отнести</t></tg></mg> </e>
+  <e><lg><l pos="V">виензамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">виензамс</t></tg>
+<tg xml:lang="rus"><t pos="V">окрепнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">визавтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">възафтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">натравить</t></tg></mg> </e>
+  <e><lg><l pos="V">визделгавтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">визделгофтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">пристыдить</t></tg></mg> </e>
+  <e><lg><l pos="V">визделгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">визделгодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">устыдиться</t></tg></mg> </e>
+  <e><lg><l pos="V">виздемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">виздемс</t></tg>
+<tg xml:lang="rus"><t pos="V">стесняться</t><t pos="V">стыдиться</t></tg></mg> </e>
+  <e><lg><l pos="V">вииямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">вииямс</t></tg>
+<tg xml:lang="rus"><t pos="V">окрепнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">викшнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сёрмадомс</t></tg>
+<tg xml:lang="rus"><t pos="V">вышить</t></tg></mg> </e>
+  <e><lg><l pos="V">витемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">петемс</t></tg>
+<tg xml:lang="rus"><t pos="V">исправить</t><t pos="V">отремотировать</t></tg></mg> </e>
+  <e><lg><l pos="V">витемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">видептемс</t></tg>
+<tg xml:lang="rus"><t pos="V">выпрямить</t></tg></mg> </e>
+  <e><lg><l pos="V">витемс пря</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">парондомс пря</t></tg>
+<tg xml:lang="rus"><t pos="V">оправдываться</t></tg></mg> </e>
+  <e><lg><l pos="V">витнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">петнемс</t></tg>
+<tg xml:lang="rus"><t pos="V">ремонтировать</t></tg></mg> </e>
+  <e><lg><l pos="V">вишкалгавтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ёмлалгофтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">уменьшить</t></tg></mg> </e>
+  <e><lg><l pos="V">вишкалгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ёмлалгодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">уменьшиться</t></tg></mg> </e>
+  <e><lg><l pos="V">врадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">урадомс</t></tg>
+<tg xml:lang="rus"><t pos="V">околеть (о животных)</t><t pos="V">умереть (пренебр.) о человеке </t></tg></mg> </e>
+  <e><lg><l pos="V">выжновтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">въжнафтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">выбросить</t></tg></mg> </e>
+  <e><lg><l pos="V">габордомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">габардамс</t><t pos="V">цопадемс</t></tg>
+<tg xml:lang="rus"><t pos="V">схватить; ограбить</t></tg></mg> </e>
+  <e><lg><l pos="V">габорямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">габарямс</t><t pos="V">цопиемс</t></tg>
+<tg xml:lang="rus"><t pos="V">хватать; воровать</t></tg></mg> </e>
+  <e><lg><l pos="V">гавкадемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">гавкадемс</t><t pos="V">бавкстадемс</t></tg>
+<tg xml:lang="rus"><t pos="V">гавкнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">гагакснемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">гагакснемс</t></tg>
+<tg xml:lang="rus"><t pos="V">гоготать (о гусях)</t></tg></mg> </e>
+  <e><lg><l pos="V">гадямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">гастямс</t></tg>
+<tg xml:lang="rus"><t pos="V">испортить</t></tg></mg> </e>
+  <e><lg><l pos="V">гайгемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кайгомс</t></tg>
+<tg xml:lang="rus"><t pos="V">звучать</t></tg></mg> </e>
+  <e><lg><l pos="V">гайнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">гайнямс</t></tg>
+<tg xml:lang="rus"><t pos="V">звучать</t></tg></mg> </e>
+  <e><lg><l pos="V">галдордомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">калдордомс</t></tg>
+<tg xml:lang="rus"><t pos="V">греметь</t></tg></mg> </e>
+  <e><lg><l pos="V">годямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">угадямс</t></tg>
+<tg xml:lang="rus"><t pos="V">угодить</t></tg></mg> </e>
+  <e><lg><l pos="V">грузямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">марамс</t><t pos="V">грузямс</t></tg>
+<tg xml:lang="rus"><t pos="V">грузить</t></tg></mg> </e>
+  <e><lg><l pos="V">гувномс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">увнамс</t><t pos="V">унамс</t></tg>
+<tg xml:lang="rus"><t pos="V">гудеть</t><t pos="V">шуметь; пылать (об огне)</t></tg></mg> </e>
+  <e><lg><l pos="V">гулдордомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кулдордомс</t></tg>
+<tg xml:lang="rus"><t pos="V">ворковать</t></tg></mg> </e>
+  <e><lg><l pos="V">гумболдомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пиндолдомс</t></tg>
+<tg xml:lang="rus"><t pos="V">сверкать</t><t pos="V">блестеть</t></tg></mg> </e>
+  <e><lg><l pos="V">гурнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">урнамс</t></tg>
+<tg xml:lang="rus"><t pos="V">урчать</t></tg></mg> </e>
+  <e><lg><l pos="V">дирнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">дърнямс</t></tg>
+<tg xml:lang="rus"><t pos="V">звенить</t></tg></mg> </e>
+  <e><lg><l pos="V">добовамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">добувамс</t></tg>
+<tg xml:lang="rus"><t pos="V">добыть</t><t pos="V">достать</t></tg></mg> </e>
+  <e><lg><l pos="V">досадямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">аердамс</t><t pos="V">досадямс</t></tg>
+<tg xml:lang="rus"><t pos="V">досадить</t><t pos="V">огорчить</t></tg></mg> </e>
+  <e><lg><l pos="V">дразнямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">дразнямс</t></tg>
+<tg xml:lang="rus"><t pos="V">дразнить</t></tg></mg> </e>
+  <e><lg><l pos="V">дубордомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">дубордомс</t></tg>
+<tg xml:lang="rus"><t pos="V">греметь</t></tg></mg> </e>
+  <e><lg><l pos="V">дураскадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">дураскодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">одуреть</t></tg></mg> </e>
+  <e><lg><l pos="V">дырнэмс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">урнамс</t><t pos="V">канзердомс</t><t pos="V">зърнамс</t><t pos="V">дърнамс</t></tg>
+<tg xml:lang="rus"><t pos="V">дребезжать</t></tg></mg> </e>
+  <e><lg><l pos="V">дёркадемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">нотфтамс</t><t pos="V">дернофтамс</t></tg>
+<tg xml:lang="rus"><t pos="V">дернуть</t></tg></mg> </e>
+  <e><lg><l pos="V">жалямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ужяльдемс</t></tg>
+<tg xml:lang="rus"><t pos="V">жалеть</t><t pos="V">пожалеть</t></tg></mg> </e>
+  <e><lg><l pos="V">жойнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">жольнямс</t><t pos="V">жольдердемс</t></tg>
+<tg xml:lang="rus"><t pos="V">журчать</t><t pos="V">звенеть</t></tg></mg> </e>
+  <e><lg><l pos="V">жольнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">жольнямс</t></tg>
+<tg xml:lang="rus"><t pos="V">журчать</t></tg></mg> </e>
+  <e><lg><l pos="V">журямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">журямс</t></tg>
+<tg xml:lang="rus"><t pos="V">журить</t></tg></mg> </e>
+  <e><lg><l pos="V">заводямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">заводямс</t></tg>
+<tg xml:lang="rus"><t pos="V">начать; завести</t></tg></mg> </e>
+  <e><lg><l pos="V">згилямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">рахсемс</t><t pos="V">пеетькшнемс</t></tg>
+<tg xml:lang="rus"><t pos="V">болтать вздор</t><t pos="V">насмехаться</t></tg></mg> </e>
+  <e><lg><l pos="V">зэрнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">зярнямс</t></tg>
+<tg xml:lang="rus"><t pos="V">греметь</t><t pos="V">громыхать</t></tg></mg> </e>
+  <e><lg><l pos="V">зэрькадемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">зярькадемс</t><t pos="V">зярякофтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">грянуть</t></tg></mg> </e>
+  <e><lg><l pos="V">идевтемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">идефтемс</t></tg>
+<tg xml:lang="rus"><t pos="V">освободить</t><t pos="V">спасти (при помощи кого-л.)</t></tg></mg> </e>
+  <e><lg><l pos="V">идемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">идемс</t></tg>
+<tg xml:lang="rus"><t pos="V">освободить</t><t pos="V">спасти</t></tg></mg> </e>
+  <e><lg><l pos="V">изамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">инзамс</t></tg>
+<tg xml:lang="rus"><t pos="V">бороновать</t></tg></mg> </e>
+  <e><lg><l pos="V">изнямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сяськомс</t></tg>
+<tg xml:lang="rus"><t pos="V">победить</t></tg></mg> </e>
+  <e><lg><l pos="V">изырдямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">киськордамс</t></tg>
+<tg xml:lang="rus"><t pos="V">царапнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">икельдямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">инголдамс</t></tg>
+<tg xml:lang="rus"><t pos="V">опередить</t><t pos="V">обогнать</t></tg></mg> </e>
+  <e><lg><l pos="V">икнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">икамс</t><t pos="V">летнямс</t></tg>
+<tg xml:lang="rus"><t pos="V">икать</t></tg></mg> </e>
+  <e><lg><l pos="V">икнетемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">икамс</t><t pos="V">летнямс</t></tg>
+<tg xml:lang="rus"><t pos="V">икать</t></tg></mg> </e>
+  <e><lg><l pos="V">илештемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">илештемс</t></tg>
+<tg xml:lang="rus"><t pos="V">засучить (рукава); раскрыть (крышу)</t></tg></mg> </e>
+  <e><lg><l pos="V">ильведемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">эльбядемс</t></tg>
+<tg xml:lang="rus"><t pos="V">ошибиться</t></tg></mg> </e>
+  <e><lg><l pos="V">ильтямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ильхтемс</t></tg>
+<tg xml:lang="rus"><t pos="V">проводить</t></tg></mg> </e>
+  <e><lg><l pos="V">иля</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тят</t></tg>
+<tg xml:lang="rus"><t pos="V">не надо</t></tg></mg> </e>
+  <e><lg><l pos="V">инзэдемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">инзедемс</t></tg>
+<tg xml:lang="rus"><t pos="V">строгать</t><t pos="V">выстрогать</t></tg></mg> </e>
+  <e><lg><l pos="V">иредемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">иредемс</t></tg>
+<tg xml:lang="rus"><t pos="V">опьянеть</t></tg></mg> </e>
+  <e><lg><l pos="V">ирнэмс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ърнамс</t></tg>
+<tg xml:lang="rus"><t pos="V">рычать</t></tg></mg> </e>
+  <e><lg><l pos="V">истожамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">машфтомс</t><t pos="V">юмафтомс</t><t pos="V">стожамс</t></tg>
+<tg xml:lang="rus"><t pos="V">уничтожить</t></tg></mg> </e>
+  <e><lg><l pos="V">ихельдемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тихольдемс</t></tg>
+<tg xml:lang="rus"><t pos="V">хныкать</t></tg></mg> </e>
+  <e><lg><l pos="V">ицырдамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">искордамс</t><t pos="V">киськордамс</t></tg>
+<tg xml:lang="rus"><t pos="V">царапнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">ичемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ичемс</t></tg>
+<tg xml:lang="rus"><t pos="V">месить</t><t pos="V">замесить (тесто, глину и т.п.) </t></tg></mg> </e>
+  <e><lg><l pos="V">каванямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">каванямс</t></tg>
+<tg xml:lang="rus"><t pos="V">угостить</t></tg></mg> </e>
+  <e><lg><l pos="V">каволямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">каволямс</t></tg>
+<tg xml:lang="rus"><t pos="V">жевать</t></tg></mg> </e>
+  <e><lg><l pos="V">кавонзамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кафтонзамс</t></tg>
+<tg xml:lang="rus"><t pos="V">удвоить</t></tg></mg> </e>
+  <e><lg><l pos="V">кадномс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кадондомс</t></tg>
+<tg xml:lang="rus"><t pos="V">оставлять</t></tg></mg> </e>
+  <e><lg><l pos="V">кадовомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кадовомс</t><t pos="V">лядомс</t></tg>
+<tg xml:lang="rus"><t pos="V">остаться</t></tg></mg> </e>
+  <e><lg><l pos="V">кадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кадомс</t></tg>
+<tg xml:lang="rus"><t pos="V">оставить</t></tg></mg> </e>
+  <e><lg><l pos="V">кадстамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">катфтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">отучить</t><t pos="V">отвадить</t></tg></mg> </e>
+  <e><lg><l pos="V">казякадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">казямомс</t><t pos="V">казямгодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">стать жестким</t><t pos="V">шероховатым</t></tg></mg> </e>
+  <e><lg><l pos="V">кайсетемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кайгондемс</t></tg>
+<tg xml:lang="rus"><t pos="V">раздаваться</t></tg></mg> </e>
+  <e><lg><l pos="V">калавтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">калафтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">разрушить</t><t pos="V">сломать</t></tg></mg> </e>
+  <e><lg><l pos="V">каладомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">каладомс</t></tg>
+<tg xml:lang="rus"><t pos="V">разрушиться</t><t pos="V">сломаться; износиться</t></tg></mg> </e>
+  <e><lg><l pos="V">калгамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">калгамс</t><t pos="V">поремс</t></tg>
+<tg xml:lang="rus"><t pos="V">грызть</t><t pos="V">лущить</t></tg></mg> </e>
+  <e><lg><l pos="V">калгодкстомомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">калготкстомомс</t></tg>
+<tg xml:lang="rus"><t pos="V">сделаться твёрдым</t><t pos="V">отвердеть</t></tg></mg> </e>
+  <e><lg><l pos="V">калдордомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">калдордомс</t></tg>
+<tg xml:lang="rus"><t pos="V">греметь</t></tg></mg> </e>
+  <e><lg><l pos="V">калмамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">калмамс</t></tg>
+<tg xml:lang="rus"><t pos="V">похоронить</t></tg></mg> </e>
+  <e><lg><l pos="V">кальдердемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кальдердемс</t><t pos="V">колдордомс</t></tg>
+<tg xml:lang="rus"><t pos="V">греметь</t></tg></mg> </e>
+  <e><lg><l pos="V">кальцядемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кальхцядемс</t></tg>
+<tg xml:lang="rus"><t pos="V">звякнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">калядамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">калядамс</t></tg>
+<tg xml:lang="rus"><t pos="V">колядовать</t></tg></mg> </e>
+  <e><lg><l pos="V">кандомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кандомс</t></tg>
+<tg xml:lang="rus"><t pos="V">нести</t><t pos="V">принести</t></tg></mg> </e>
+  <e><lg><l pos="V">канзедемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">канзедемс</t></tg>
+<tg xml:lang="rus"><t pos="V">набить оскомину</t></tg></mg> </e>
+  <e><lg><l pos="V">капшамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кенордамс</t><t pos="V">эряскодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">торопиться</t></tg></mg> </e>
+  <e><lg><l pos="V">карамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">карамс</t></tg>
+<tg xml:lang="rus"><t pos="V">ковырять</t><t pos="V">долбить</t></tg></mg> </e>
+  <e><lg><l pos="V">кардамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кардамс</t></tg>
+<tg xml:lang="rus"><t pos="V">запретить</t><t pos="V">остановить</t></tg></mg> </e>
+  <e><lg><l pos="V">карксамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">карксамс</t></tg>
+<tg xml:lang="rus"><t pos="V">опоясать</t><t pos="V">окружить</t></tg></mg> </e>
+  <e><lg><l pos="V">кармамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кармамс</t></tg>
+<tg xml:lang="rus"><t pos="V">начать</t></tg></mg> </e>
+  <e><lg><l pos="V">карномс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">каркнамс</t></tg>
+<tg xml:lang="rus"><t pos="V">каркать</t></tg></mg> </e>
+  <e><lg><l pos="V">карсемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">карьсемс</t></tg>
+<tg xml:lang="rus"><t pos="V">обуваться</t></tg></mg> </e>
+  <e><lg><l pos="V">касомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">касомс</t></tg>
+<tg xml:lang="rus"><t pos="V">расти</t></tg></mg> </e>
+  <e><lg><l pos="V">кастомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">касфтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">вырастить</t></tg></mg> </e>
+  <e><lg><l pos="V">качадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">качадомс</t></tg>
+<tg xml:lang="rus"><t pos="V">дымить</t></tg></mg> </e>
+  <e><lg><l pos="V">каштангадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">каштангодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">возгордиться</t></tg></mg> </e>
+  <e><lg><l pos="V">каштмолемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кашт молемс</t></tg>
+<tg xml:lang="rus"><t pos="V">молчать</t></tg></mg> </e>
+  <e><lg><l pos="V">каштордомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">каштордомс</t></tg>
+<tg xml:lang="rus"><t pos="V">шуршать</t></tg></mg> </e>
+  <e><lg><l pos="V">каявомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">върьгятемс</t></tg>
+<tg xml:lang="rus"><t pos="V">напасть</t><t pos="V">налететь</t></tg></mg> </e>
+  <e><lg><l pos="V">каямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">каямс</t></tg>
+<tg xml:lang="rus"><t pos="V">ударить; налить</t></tg></mg> </e>
+  <e><lg><l pos="V">квакномс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">квакнамс</t><t pos="V">вякнамс</t></tg>
+<tg xml:lang="rus"><t pos="V">квакать</t></tg></mg> </e>
+  <e><lg><l pos="V">кевакадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кевакодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">окаменеть</t></tg></mg> </e>
+  <e><lg><l pos="V">кевендямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кевонзамс</t></tg>
+<tg xml:lang="rus"><t pos="V">окаменеть</t></tg></mg> </e>
+  <e><lg><l pos="V">кевензамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кевонзамс</t></tg>
+<tg xml:lang="rus"><t pos="V">окаменеть</t></tg></mg> </e>
+  <e><lg><l pos="V">кевензамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кевонзамс</t></tg>
+<tg xml:lang="rus"><t pos="V">окаменеть</t><t pos="V">отвердеть</t></tg></mg> </e>
+  <e><lg><l pos="V">кевердемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кевордемс</t></tg>
+<tg xml:lang="rus"><t pos="V">катить</t><t pos="V">покатить</t></tg></mg> </e>
+  <e><lg><l pos="V">кеверемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кеворемс</t></tg>
+<tg xml:lang="rus"><t pos="V">катиться</t></tg></mg> </e>
+  <e><lg><l pos="V">кевкстемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кизефтемс</t></tg>
+<tg xml:lang="rus"><t pos="V">спросить</t></tg></mg> </e>
+  <e><lg><l pos="V">кежиямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кяжиямс</t></tg>
+<tg xml:lang="rus"><t pos="V">разозлиться</t></tg></mg> </e>
+  <e><lg><l pos="V">кекшемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кяшемс</t></tg>
+<tg xml:lang="rus"><t pos="V">спрятать</t><t pos="V">спрятаться</t></tg></mg> </e>
+  <e><lg><l pos="V">келейгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">келемомс</t></tg>
+<tg xml:lang="rus"><t pos="V">расшириться</t></tg></mg> </e>
+  <e><lg><l pos="V">келемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кялемс</t></tg>
+<tg xml:lang="rus"><t pos="V">идти вброд</t></tg></mg> </e>
+  <e><lg><l pos="V">кельгемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тяльгомс</t></tg>
+<tg xml:lang="rus"><t pos="V">поместиться</t></tg></mg> </e>
+  <e><lg><l pos="V">кельмевтемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кельмофтемс</t></tg>
+<tg xml:lang="rus"><t pos="V">заморозить</t><t pos="V">охладить</t></tg></mg> </e>
+  <e><lg><l pos="V">кельмемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кельмомс</t></tg>
+<tg xml:lang="rus"><t pos="V">мерзнуть</t><t pos="V">зябнуть; остыть</t></tg></mg> </e>
+  <e><lg><l pos="V">кемевтемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">верондафтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">уверить</t></tg></mg> </e>
+  <e><lg><l pos="V">кемекстамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кемокстамс</t></tg>
+<tg xml:lang="rus"><t pos="V">укрепить</t><t pos="V">скрепить</t></tg></mg> </e>
+  <e><lg><l pos="V">кемемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кемамс</t><t pos="V">верондамс</t></tg>
+<tg xml:lang="rus"><t pos="V">верить</t></tg></mg> </e>
+  <e><lg><l pos="V">кенгелемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кяльготнемс</t></tg>
+<tg xml:lang="rus"><t pos="V">лгать</t></tg></mg> </e>
+  <e><lg><l pos="V">кенеремс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кенеремс</t></tg>
+<tg xml:lang="rus"><t pos="V">успеть</t></tg></mg> </e>
+  <e><lg><l pos="V">кенярдовтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кенярьфтемс</t></tg>
+<tg xml:lang="rus"><t pos="V">обрадовать</t></tg></mg> </e>
+  <e><lg><l pos="V">кенярдомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кенярдемс</t></tg>
+<tg xml:lang="rus"><t pos="V">радоваться</t></tg></mg> </e>
+  <e><lg><l pos="V">кепедемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кеподемс</t></tg>
+<tg xml:lang="rus"><t pos="V">поднять</t></tg></mg> </e>
+  <e><lg><l pos="V">кепедемс кедь</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кеподемс кядь</t></tg>
+<tg xml:lang="rus"><t pos="V">поднять руку</t></tg></mg> </e>
+  <e><lg><l pos="V">кепедемс судо</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кеподемс шалхка</t></tg>
+<tg xml:lang="rus"><t pos="V">возгордиться</t></tg></mg> </e>
+  <e><lg><l pos="V">керсемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">керсемс</t></tg>
+<tg xml:lang="rus"><t pos="V">нарезать</t></tg></mg> </e>
+  <e><lg><l pos="V">керьксамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кярьксамс</t></tg>
+<tg xml:lang="rus"><t pos="V">нанизать</t></tg></mg> </e>
+  <e><lg><l pos="V">керямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">керомс</t></tg>
+<tg xml:lang="rus"><t pos="V">рубить</t><t pos="V">срубить</t></tg></mg> </e>
+  <e><lg><l pos="V">кецямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кенярдемс</t></tg>
+<tg xml:lang="rus"><t pos="V">радоваться</t></tg></mg> </e>
+  <e><lg><l pos="V">кечкердемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кячкордемс</t></tg>
+<tg xml:lang="rus"><t pos="V">боднуть</t></tg></mg> </e>
+  <e><lg><l pos="V">кечкеремс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кячкорямс</t></tg>
+<tg xml:lang="rus"><t pos="V">бодаться</t></tg></mg> </e>
+  <e><lg><l pos="V">кивчкадемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">къфчядемс</t></tg>
+<tg xml:lang="rus"><t pos="V">сверкнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">кивчкаемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кифчиемс</t><t pos="V">къфчиемс</t></tg>
+<tg xml:lang="rus"><t pos="V">сверкать</t></tg></mg> </e>
+  <e><lg><l pos="V">кижнэмс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">къжнамс</t></tg>
+<tg xml:lang="rus"><t pos="V">хрипеть</t></tg></mg> </e>
+  <e><lg><l pos="V">кикстамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">китькстамс</t><t pos="V">таргамс китькс</t></tg>
+<tg xml:lang="rus"><t pos="V">провести линию</t></tg></mg> </e>
+  <e><lg><l pos="V">кикстнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">китькснемс</t><t pos="V">тарксемс китькст</t></tg>
+<tg xml:lang="rus"><t pos="V">чертить</t></tg></mg> </e>
+  <e><lg><l pos="V">кильдемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кильдемс</t></tg>
+<tg xml:lang="rus"><t pos="V">запрячь</t></tg></mg> </e>
+  <e><lg><l pos="V">килькштямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">килькштамс</t></tg>
+<tg xml:lang="rus"><t pos="V">затянуть петлей</t><t pos="V">зацепить</t></tg></mg> </e>
+  <e><lg><l pos="V">киневтемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">китнемс</t></tg>
+<tg xml:lang="rus"><t pos="V">чесать</t></tg></mg> </e>
+  <e><lg><l pos="V">киневтемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">китнемс</t></tg>
+<tg xml:lang="rus"><t pos="V">чесать</t></tg></mg> </e>
+  <e><lg><l pos="V">кирваземс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кърьвяземс</t></tg>
+<tg xml:lang="rus"><t pos="V">разгореться</t></tg></mg> </e>
+  <e><lg><l pos="V">кирвазтемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кърьвястемс</t></tg>
+<tg xml:lang="rus"><t pos="V">зажечь</t></tg></mg> </e>
+  <e><lg><l pos="V">киргамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">къргамс</t></tg>
+<tg xml:lang="rus"><t pos="V">скоблить</t></tg></mg> </e>
+  <e><lg><l pos="V">кирдемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кирдемс</t></tg>
+<tg xml:lang="rus"><t pos="V">держать</t><t pos="V">терпеть</t></tg></mg> </e>
+  <e><lg><l pos="V">кирдемс вал</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кирдемс вал</t></tg>
+<tg xml:lang="rus"><t pos="V">сдержать слово</t></tg></mg> </e>
+  <e><lg><l pos="V">кирдемс кеж</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кирдемс кяж</t></tg>
+<tg xml:lang="rus"><t pos="V">таить зло</t></tg></mg> </e>
+  <e><lg><l pos="V">кирдемс мельсэ</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кирдемс мяльса</t></tg>
+<tg xml:lang="rus"><t pos="V">помнить</t></tg></mg> </e>
+  <e><lg><l pos="V">киремемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">киремс</t></tg>
+<tg xml:lang="rus"><t pos="V">убавиться</t></tg></mg> </e>
+  <e><lg><l pos="V">кирксемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кърксемс</t></tg>
+<tg xml:lang="rus"><t pos="V">скоблить</t><t pos="V">выскоблить</t></tg></mg> </e>
+  <e><lg><l pos="V">кирнэмс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кърнамс</t></tg>
+<tg xml:lang="rus"><t pos="V">хрипеть</t><t pos="V">храпеть</t></tg></mg> </e>
+  <e><lg><l pos="V">кирнявтнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">комотнемс</t></tg>
+<tg xml:lang="rus"><t pos="V">прыгать</t></tg></mg> </e>
+  <e><lg><l pos="V">кирнявтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">комотемс</t></tg>
+<tg xml:lang="rus"><t pos="V">прыгнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">киртамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кърхтамс</t></tg>
+<tg xml:lang="rus"><t pos="V">опалить</t></tg></mg> </e>
+  <e><lg><l pos="V">киртнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кирьфнемс</t></tg>
+<tg xml:lang="rus"><t pos="V">укорачивать</t></tg></mg> </e>
+  <e><lg><l pos="V">киртямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кирьфтамс</t></tg>
+<tg xml:lang="rus"><t pos="V">укоротить</t></tg></mg> </e>
+  <e><lg><l pos="V">кирякстомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">курькстомс</t></tg>
+<tg xml:lang="rus"><t pos="V">скатиться</t></tg></mg> </e>
+  <e><lg><l pos="V">кирямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">киремс</t></tg>
+<tg xml:lang="rus"><t pos="V">сократиться</t><t pos="V">убавиться</t></tg></mg> </e>
+  <e><lg><l pos="V">киське ваткамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кедь ваткамс</t></tg>
+<tg xml:lang="rus"><t pos="V">снимать шкуру; пороть (разг.)</t><t pos="V">сечь</t><t pos="V">бить</t></tg></mg> </e>
+  <e><lg><l pos="V">кичкерьгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кичкоргодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">загнуться</t><t pos="V">искривиться</t></tg></mg> </e>
+  <e><lg><l pos="V">киштемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кштимс</t></tg>
+<tg xml:lang="rus"><t pos="V">плясать</t><t pos="V">танцевать</t></tg></mg> </e>
+  <e><lg><l pos="V">киштемс-морамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кштимс-морамс</t></tg>
+<tg xml:lang="rus"><t pos="V">веселиться</t></tg></mg> </e>
+  <e><lg><l pos="V">кодамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кодамс</t></tg>
+<tg xml:lang="rus"><t pos="V">ткать</t></tg></mg> </e>
+  <e><lg><l pos="V">кожодомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кожодомс</t><t pos="V">кожфтамс</t><t pos="V">суфтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">просушить</t></tg></mg> </e>
+  <e><lg><l pos="V">козкстамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">козкстамс</t></tg>
+<tg xml:lang="rus"><t pos="V">кашлянуть</t></tg></mg> </e>
+  <e><lg><l pos="V">козомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">козомс</t></tg>
+<tg xml:lang="rus"><t pos="V">кашлять</t></tg></mg> </e>
+  <e><lg><l pos="V">козякадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">козякодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">разбогатеть</t></tg></mg> </e>
+  <e><lg><l pos="V">коламс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лазомс</t></tg>
+<tg xml:lang="rus"><t pos="V">расколоть</t></tg></mg> </e>
+  <e><lg><l pos="V">колемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">колемс</t></tg>
+<tg xml:lang="rus"><t pos="V">испортиться</t></tg></mg> </e>
+  <e><lg><l pos="V">кольгемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кольгомс</t></tg>
+<tg xml:lang="rus"><t pos="V">протекать</t></tg></mg> </e>
+  <e><lg><l pos="V">кольнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">колендемс</t></tg>
+<tg xml:lang="rus"><t pos="V">баловаться</t></tg></mg> </e>
+  <e><lg><l pos="V">комавтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">комафтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">наклонить</t><t pos="V">поставить вверх дном</t></tg></mg> </e>
+  <e><lg><l pos="V">комамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">комамс</t></tg>
+<tg xml:lang="rus"><t pos="V">нагнуться</t></tg></mg> </e>
+  <e><lg><l pos="V">комболдомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">комболдомс</t></tg>
+<tg xml:lang="rus"><t pos="V">волноваться (об озере)</t></tg></mg> </e>
+  <e><lg><l pos="V">кончтамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кончтамс</t><t pos="V">чипордамс</t></tg>
+<tg xml:lang="rus"><t pos="V">моргнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">кончтнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кончнемс</t><t pos="V">кончамс</t><t pos="V">чипорямс</t></tg>
+<tg xml:lang="rus"><t pos="V">моргать</t></tg></mg> </e>
+  <e><lg><l pos="V">конямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">конемс: конемс сельмот</t></tg>
+<tg xml:lang="rus"><t pos="V">закрыть глаза</t></tg></mg> </e>
+  <e><lg><l pos="V">копордамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">копордамс</t></tg>
+<tg xml:lang="rus"><t pos="V">глотнуть</t><t pos="V">хлебнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">копорямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">копорямс</t></tg>
+<tg xml:lang="rus"><t pos="V">прихлебывать</t></tg></mg> </e>
+  <e><lg><l pos="V">кор кирдемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кор кирдемс</t></tg>
+<tg xml:lang="rus"><t pos="V">терпеть</t></tg></mg> </e>
+  <e><lg><l pos="V">корномс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">корнамс</t><t pos="V">кърнамс</t></tg>
+<tg xml:lang="rus"><t pos="V">храпеть</t></tg></mg> </e>
+  <e><lg><l pos="V">кортамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">корхтамс</t></tg>
+<tg xml:lang="rus"><t pos="V">говорить</t></tg></mg> </e>
+  <e><lg><l pos="V">коршамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">коршамс</t></tg>
+<tg xml:lang="rus"><t pos="V">хлебать</t></tg></mg> </e>
+  <e><lg><l pos="V">корштамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">корштамс</t></tg>
+<tg xml:lang="rus"><t pos="V">хлебнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">корямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кориндамс</t></tg>
+<tg xml:lang="rus"><t pos="V">укорить</t></tg></mg> </e>
+  <e><lg><l pos="V">костямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">косьфтамс</t></tg>
+<tg xml:lang="rus"><t pos="V">сушить</t><t pos="V">просушить</t></tg></mg> </e>
+  <e><lg><l pos="V">коськемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">коськомс</t></tg>
+<tg xml:lang="rus"><t pos="V">высохнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">котномс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кътнамс</t></tg>
+<tg xml:lang="rus"><t pos="V">кудахтать</t></tg></mg> </e>
+  <e><lg><l pos="V">котьмамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">капошамс</t></tg>
+<tg xml:lang="rus"><t pos="V">копошиться</t></tg></mg> </e>
+  <e><lg><l pos="V">коцькердамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">киськордамс</t></tg>
+<tg xml:lang="rus"><t pos="V">царапнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">коцькерямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">киськорямс</t></tg>
+<tg xml:lang="rus"><t pos="V">царапать</t></tg></mg> </e>
+  <e><lg><l pos="V">кочкамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кочкамс</t></tg>
+<tg xml:lang="rus"><t pos="V">собирать; выбирать </t></tg></mg> </e>
+  <e><lg><l pos="V">кочкомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кочкомс</t></tg>
+<tg xml:lang="rus"><t pos="V">прополоть</t></tg></mg> </e>
+  <e><lg><l pos="V">кочксемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кочксемс</t></tg>
+<tg xml:lang="rus"><t pos="V">собирать; выбирать</t></tg></mg> </e>
+  <e><lg><l pos="V">коштамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кожедомс</t><t pos="V">кожелдамс</t></tg>
+<tg xml:lang="rus"><t pos="V">подсушить</t></tg></mg> </e>
+  <e><lg><l pos="V">кружамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кружамс</t><t pos="V">перямс</t></tg>
+<tg xml:lang="rus"><t pos="V">кружиться</t><t pos="V">окружить</t></tg></mg> </e>
+  <e><lg><l pos="V">кувалгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кувалгодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">удлиниться</t></tg></mg> </e>
+  <e><lg><l pos="V">кувтолдомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">цифтордомс</t></tg>
+<tg xml:lang="rus"><t pos="V">сверкать</t><t pos="V">сиять</t></tg></mg> </e>
+  <e><lg><l pos="V">куземс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">куцемс</t></tg>
+<tg xml:lang="rus"><t pos="V">подниматься</t><t pos="V">подняться</t></tg></mg> </e>
+  <e><lg><l pos="V">кузтемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">куцьфтемс</t></tg>
+<tg xml:lang="rus"><t pos="V">поднять (вверх по лестнице, например)</t></tg></mg> </e>
+  <e><lg><l pos="V">кукордомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кукордомс</t><t pos="V">кукамс</t></tg>
+<tg xml:lang="rus"><t pos="V">куковать</t></tg></mg> </e>
+  <e><lg><l pos="V">кукшкадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кокшкодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">присесть</t></tg></mg> </e>
+  <e><lg><l pos="V">кулдордомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кулдордомс</t></tg>
+<tg xml:lang="rus"><t pos="V">курлыкать</t><t pos="V">ворковать</t></tg></mg> </e>
+  <e><lg><l pos="V">куловтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кулофтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">умертвить</t></tg></mg> </e>
+  <e><lg><l pos="V">куломс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">куломс</t></tg>
+<tg xml:lang="rus"><t pos="V">умереть</t></tg></mg> </e>
+  <e><lg><l pos="V">кумболдомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">комболдомс</t><t pos="V">цифторкшнемс</t><t pos="V">пиндолкшнемс</t></tg>
+<tg xml:lang="rus"><t pos="V">переливаться</t></tg></mg> </e>
+  <e><lg><l pos="V">кундамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кундамс</t></tg>
+<tg xml:lang="rus"><t pos="V">ловить</t><t pos="V">поймать</t></tg></mg> </e>
+  <e><lg><l pos="V">кунсоломс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кулхцондомс</t></tg>
+<tg xml:lang="rus"><t pos="V">слушать</t></tg></mg> </e>
+  <e><lg><l pos="V">куродомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">куродомс</t></tg>
+<tg xml:lang="rus"><t pos="V">окружить</t></tg></mg> </e>
+  <e><lg><l pos="V">кутмордамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кътмордамс</t></tg>
+<tg xml:lang="rus"><t pos="V">обнять</t></tg></mg> </e>
+  <e><lg><l pos="V">кутстямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">котьфтемс</t></tg>
+<tg xml:lang="rus"><t pos="V">щекотать</t></tg></mg> </e>
+  <e><lg><l pos="V">кутькавтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">котьфтемс</t></tg>
+<tg xml:lang="rus"><t pos="V">щекотать</t></tg></mg> </e>
+  <e><lg><l pos="V">кучкордомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кучкордемс</t></tg>
+<tg xml:lang="rus"><t pos="V">пнуть</t><t pos="V">лягнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">кучомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кучемс</t></tg>
+<tg xml:lang="rus"><t pos="V">послать</t></tg></mg> </e>
+  <e><lg><l pos="V">куштамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">куштамс</t></tg>
+<tg xml:lang="rus"><t pos="V">заплесневеть</t></tg></mg> </e>
+  <e><lg><l pos="V">куялгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">куялгодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">ожиреть</t></tg></mg> </e>
+  <e><lg><l pos="V">лабордомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лабордомс</t></tg>
+<tg xml:lang="rus"><t pos="V">болтать</t></tg></mg> </e>
+  <e><lg><l pos="V">лавгамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лавгамс</t></tg>
+<tg xml:lang="rus"><t pos="V">болтать</t></tg></mg> </e>
+  <e><lg><l pos="V">лавсадемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">цяподемс</t></tg>
+<tg xml:lang="rus"><t pos="V">ударить</t></tg></mg> </e>
+  <e><lg><l pos="V">лавшомомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лафчемомс</t></tg>
+<tg xml:lang="rus"><t pos="V">ослабеть</t></tg></mg> </e>
+  <e><lg><l pos="V">ладямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ладямс</t></tg>
+<tg xml:lang="rus"><t pos="V">наладить</t><t pos="V">настроить; сватать</t></tg></mg> </e>
+  <e><lg><l pos="V">лажадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кайгиста аварьгодомс</t><t pos="V">рангозевомс</t></tg>
+<tg xml:lang="rus"><t pos="V">завопить</t><t pos="V">зареветь</t></tg></mg> </e>
+  <e><lg><l pos="V">лажномс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">жалномс</t><t pos="V">лажнамс</t></tg>
+<tg xml:lang="rus"><t pos="V">шуметь</t></tg></mg> </e>
+  <e><lg><l pos="V">лазномс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лазондомс</t></tg>
+<tg xml:lang="rus"><t pos="V">колоть</t></tg></mg> </e>
+  <e><lg><l pos="V">лазнотомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лазондовомс</t></tg>
+<tg xml:lang="rus"><t pos="V">потрескаться</t></tg></mg> </e>
+  <e><lg><l pos="V">лазомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лазомс</t></tg>
+<tg xml:lang="rus"><t pos="V">расколоть</t></tg></mg> </e>
+  <e><lg><l pos="V">лайшемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">авардемс</t></tg>
+<tg xml:lang="rus"><t pos="V">плакать</t><t pos="V">причитать</t></tg></mg> </e>
+  <e><lg><l pos="V">лакамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лакамс</t></tg>
+<tg xml:lang="rus"><t pos="V">кипеть</t></tg></mg> </e>
+  <e><lg><l pos="V">лаксемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лаксемс</t></tg>
+<tg xml:lang="rus"><t pos="V">тесать</t><t pos="V">обтесать </t></tg></mg> </e>
+  <e><lg><l pos="V">лакштордомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лакштордомс</t></tg>
+<tg xml:lang="rus"><t pos="V">трещать</t></tg></mg> </e>
+  <e><lg><l pos="V">лакштядемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лакштадемс</t></tg>
+<tg xml:lang="rus"><t pos="V">ударить</t><t pos="V">щёлкнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">ламбавтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ламбафтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">развесить</t></tg></mg> </e>
+  <e><lg><l pos="V">ламбаськадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ламбаськодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">сделаться сладким</t></tg></mg> </e>
+  <e><lg><l pos="V">ламокстамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ламокстамс</t></tg>
+<tg xml:lang="rus"><t pos="V">умножить</t></tg></mg> </e>
+  <e><lg><l pos="V">ламолгавтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ламолгофтомс</t><t pos="V">касфтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">увеличить</t><t pos="V">умножить</t></tg></mg> </e>
+  <e><lg><l pos="V">лападемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лападемс</t></tg>
+<tg xml:lang="rus"><t pos="V">ударить ладонью</t></tg></mg> </e>
+  <e><lg><l pos="V">лапушкадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лапшкодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">сплющиться</t></tg></mg> </e>
+  <e><lg><l pos="V">ластямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ластямс</t></tg>
+<tg xml:lang="rus"><t pos="V">оседлать</t><t pos="V">сесть верхом</t></tg></mg> </e>
+  <e><lg><l pos="V">левксыямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лефксыямс</t><t pos="V">лефксозамс</t></tg>
+<tg xml:lang="rus"><t pos="V">родить (о зверях и животных, кроме лошади и коровы)</t></tg></mg> </e>
+  <e><lg><l pos="V">ледемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лядемс<t/>ляцемс</t></tg>
+<tg xml:lang="rus"><t pos="V">косить; стрелять</t></tg></mg> </e>
+  <e><lg><l pos="V">леднемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ляцендемс</t></tg>
+<tg xml:lang="rus"><t pos="V">стрелять</t></tg></mg> </e>
+  <e><lg><l pos="V">леднемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лядендемс</t></tg>
+<tg xml:lang="rus"><t pos="V">многократ. ф. от ледемс</t><t pos="V">лядемс</t></tg></mg> </e>
+  <e><lg><l pos="V">ледстямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лятьфтамс</t><t pos="V">лятфтамс</t></tg>
+<tg xml:lang="rus"><t pos="V">вспомнить</t></tg></mg> </e>
+  <e><lg><l pos="V">лездамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лездомс</t></tg>
+<tg xml:lang="rus"><t pos="V">помочь</t></tg></mg> </e>
+  <e><lg><l pos="V">лексемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ляксемс</t><t pos="V">тарксемс вайме</t></tg>
+<tg xml:lang="rus"><t pos="V">дышать</t></tg></mg> </e>
+  <e><lg><l pos="V">лекстямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лякстомс</t><t pos="V">таргамс вайме</t></tg>
+<tg xml:lang="rus"><t pos="V">вздохнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">лекшиямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лешиямс</t></tg>
+<tg xml:lang="rus"><t pos="V">покрыться инеем</t></tg></mg> </e>
+  <e><lg><l pos="V">лембендемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лямбондемс</t><t pos="V">лямбомомс</t></tg>
+<tg xml:lang="rus"><t pos="V">потеплеть</t></tg></mg> </e>
+  <e><lg><l pos="V">лемдемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лемдемс</t></tg>
+<tg xml:lang="rus"><t pos="V">дать имя</t><t pos="V">назвать</t></tg></mg> </e>
+  <e><lg><l pos="V">лепиямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ляпиямс</t></tg>
+<tg xml:lang="rus"><t pos="V">захлебнуться</t><t pos="V">задохнуться</t></tg></mg> </e>
+  <e><lg><l pos="V">лепштямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">люпштамс</t></tg>
+<tg xml:lang="rus"><t pos="V">давить</t></tg></mg> </e>
+  <e><lg><l pos="V">летькелгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">летькомомс</t></tg>
+<tg xml:lang="rus"><t pos="V">стать влажным</t></tg></mg> </e>
+  <e><lg><l pos="V">летькемемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">летькомомс</t></tg>
+<tg xml:lang="rus"><t pos="V">стать влажным</t></tg></mg> </e>
+  <e><lg><l pos="V">либордомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">либордемс</t></tg>
+<tg xml:lang="rus"><t pos="V">шелестеть</t><t pos="V">трепетать (крыльями)</t></tg></mg> </e>
+  <e><lg><l pos="V">ливезиямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ливоськодомс</t><t pos="V">ливозиямс</t></tg>
+<tg xml:lang="rus"><t pos="V">вспотеть</t></tg></mg> </e>
+  <e><lg><l pos="V">ливезькадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ливоськодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">вспотеть</t></tg></mg> </e>
+  <e><lg><l pos="V">ливтемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лифтемс</t><t pos="V">лихтемс</t></tg>
+<tg xml:lang="rus"><t pos="V">вынести</t><t pos="V">вывести</t></tg></mg> </e>
+  <e><lg><l pos="V">ливтямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лиемс</t></tg>
+<tg xml:lang="rus"><t pos="V">лететь</t><t pos="V">вылететь</t></tg></mg> </e>
+  <e><lg><l pos="V">лиемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лиемс</t></tg>
+<tg xml:lang="rus"><t pos="V">сновать ( в ткацком деле); лететь</t></tg></mg> </e>
+  <e><lg><l pos="V">липнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">липнамс</t><t pos="V">цифтордомс</t></tg>
+<tg xml:lang="rus"><t pos="V">мерцать</t><t pos="V">сверкать</t></tg></mg> </e>
+  <e><lg><l pos="V">липнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">чипорямс</t><t pos="V">цифторкшнемс</t></tg>
+<tg xml:lang="rus"><t pos="V">мигать</t></tg></mg> </e>
+  <e><lg><l pos="V">лисемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лисемс</t></tg>
+<tg xml:lang="rus"><t pos="V">выйти</t></tg></mg> </e>
+  <e><lg><l pos="V">лисемс-совамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лисемс-сувамс</t></tg>
+<tg xml:lang="rus"><t pos="V">выходить и заходить</t></tg></mg> </e>
+  <e><lg><l pos="V">лиядомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лядомс</t></tg>
+<tg xml:lang="rus"><t pos="V">остаться</t></tg></mg> </e>
+  <e><lg><l pos="V">ловномс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лувомс</t><t pos="V">морафтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">читать</t></tg></mg> </e>
+  <e><lg><l pos="V">ловномс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лувомс</t></tg>
+<tg xml:lang="rus"><t pos="V">считать</t></tg></mg> </e>
+  <e><lg><l pos="V">ловомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лувомс</t></tg>
+<tg xml:lang="rus"><t pos="V">считать</t></tg></mg> </e>
+  <e><lg><l pos="V">ловташкадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лофташкодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">побледнеть</t></tg></mg> </e>
+  <e><lg><l pos="V">лондадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лондядемс</t><t pos="V">лонтядемс</t></tg>
+<tg xml:lang="rus"><t pos="V">осесть</t><t pos="V">провалиться</t></tg></mg> </e>
+  <e><lg><l pos="V">лопавтемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лопафтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">намочить</t><t pos="V">замочить</t></tg></mg> </e>
+  <e><lg><l pos="V">лопавтнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лопафнемс</t></tg>
+<tg xml:lang="rus"><t pos="V">мочить; стирать</t></tg></mg> </e>
+  <e><lg><l pos="V">лоподемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лоподемс</t></tg>
+<tg xml:lang="rus"><t pos="V">промокнуть</t><t pos="V">размокнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">лоськавтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лоськофтомс</t><t pos="V">лознефтемс</t></tg>
+<tg xml:lang="rus"><t pos="V">хлынуть (о дожде); вылить</t></tg></mg> </e>
+  <e><lg><l pos="V">лоткамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лоткамс</t></tg>
+<tg xml:lang="rus"><t pos="V">остановиться</t></tg></mg> </e>
+  <e><lg><l pos="V">лотксемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лотксемс</t></tg>
+<tg xml:lang="rus"><t pos="V">останавливаться</t></tg></mg> </e>
+  <e><lg><l pos="V">луводемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лунгамс</t><t pos="V">лунгодемс</t></tg>
+<tg xml:lang="rus"><t pos="V">отделиться</t><t pos="V">отлупиться</t></tg></mg> </e>
+  <e><lg><l pos="V">лужакадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лужакодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">горько заплакать</t></tg></mg> </e>
+  <e><lg><l pos="V">лутамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лункфтамс</t></tg>
+<tg xml:lang="rus"><t pos="V">оторвать</t><t pos="V">отлупить</t><t pos="V">отлепить</t></tg></mg> </e>
+  <e><lg><l pos="V">лыйнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">либордемс</t></tg>
+<tg xml:lang="rus"><t pos="V">колыхаться</t></tg></mg> </e>
+  <e><lg><l pos="V">лыкамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">люкамс</t></tg>
+<tg xml:lang="rus"><t pos="V">качаться</t></tg></mg> </e>
+  <e><lg><l pos="V">лытамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лытамс</t></tg>
+<tg xml:lang="rus"><t pos="V">шляться</t></tg></mg> </e>
+  <e><lg><l pos="V">люкштядемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">люкштядемс</t></tg>
+<tg xml:lang="rus"><t pos="V">качнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">мавномс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">мявкснемс</t></tg>
+<tg xml:lang="rus"><t pos="V">мяукать</t></tg></mg> </e>
+  <e><lg><l pos="V">мадемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">мадомс</t></tg>
+<tg xml:lang="rus"><t pos="V">лечь (спать и т.д.)</t></tg></mg> </e>
+  <e><lg><l pos="V">мадстемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">матомс</t></tg>
+<tg xml:lang="rus"><t pos="V">потушить; уложить спать</t></tg></mg> </e>
+  <e><lg><l pos="V">мазылгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">мазолгодомс</t><t pos="V">мазомомс</t></tg>
+<tg xml:lang="rus"><t pos="V">похорошеть</t><t pos="V">сделаться красивым</t></tg></mg> </e>
+  <e><lg><l pos="V">мазялгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">мацялгодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">обмелеть</t></tg></mg> </e>
+  <e><lg><l pos="V">майсемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">майсемс</t><t pos="V">маятамс</t></tg>
+<tg xml:lang="rus"><t pos="V">маяться</t><t pos="V">мучиться</t></tg></mg> </e>
+  <e><lg><l pos="V">максомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">максомс</t></tg>
+<tg xml:lang="rus"><t pos="V">дать</t><t pos="V">отдать</t><t pos="V">передать</t></tg></mg> </e>
+  <e><lg><l pos="V">максомс вал</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">максомс вал</t></tg>
+<tg xml:lang="rus"><t pos="V">обещать</t><t pos="V">дать слово</t></tg></mg> </e>
+  <e><lg><l pos="V">макшиямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">макшиямс</t></tg>
+<tg xml:lang="rus"><t pos="V">превратиться в гнилушку</t></tg></mg> </e>
+  <e><lg><l pos="V">малавгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">маладомс</t><t pos="V">маласькодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">приблизиться</t><t pos="V">сблизиться</t></tg></mg> </e>
+  <e><lg><l pos="V">маладомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">маладомс</t></tg>
+<tg xml:lang="rus"><t pos="V">приблизиться</t></tg></mg> </e>
+  <e><lg><l pos="V">манейгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">манелгодомс</t><t pos="V">манендемс</t><t pos="V">маниямс</t></tg>
+<tg xml:lang="rus"><t pos="V">проясниться</t></tg></mg> </e>
+  <e><lg><l pos="V">манчемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">васькафнемс</t><t pos="V">кяльготнемс</t></tg>
+<tg xml:lang="rus"><t pos="V">лгать</t><t pos="V">обманывать</t></tg></mg> </e>
+  <e><lg><l pos="V">марамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">марамс</t></tg>
+<tg xml:lang="rus"><t pos="V">сложить</t><t pos="V">уложить</t></tg></mg> </e>
+  <e><lg><l pos="V">марномс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">мърнамс</t></tg>
+<tg xml:lang="rus"><t pos="V">мурлыкать</t></tg></mg> </e>
+  <e><lg><l pos="V">марямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">марямс</t></tg>
+<tg xml:lang="rus"><t pos="V">слышать</t><t pos="V">услышать</t></tg></mg> </e>
+  <e><lg><l pos="V">марямс ёжо</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">марямс ёжа</t></tg>
+<tg xml:lang="rus"><t pos="V">чувствовать </t></tg></mg> </e>
+  <e><lg><l pos="V">матрамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">матрамс</t></tg>
+<tg xml:lang="rus"><t pos="V">спрессовать</t><t pos="V">утрамбовать</t></tg></mg> </e>
+  <e><lg><l pos="V">машнетемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">машнемс</t></tg>
+<tg xml:lang="rus"><t pos="V">злиться</t><t pos="V">раздражаться</t><t pos="V">быть не в духе</t></tg></mg> </e>
+  <e><lg><l pos="V">маштомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">машфтомс</t><t pos="V">маштомс</t></tg>
+<tg xml:lang="rus"><t pos="V">уничтожить</t></tg></mg> </e>
+  <e><lg><l pos="V">маштомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">маштомс</t></tg>
+<tg xml:lang="rus"><t pos="V">уметь</t><t pos="V">владеть (умением)</t></tg></mg> </e>
+  <e><lg><l pos="V">мель ваномс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">мяль ваномс</t></tg>
+<tg xml:lang="rus"><t pos="V">почитать</t><t pos="V">угождать</t><t pos="V">ухаживать</t></tg></mg> </e>
+  <e><lg><l pos="V">мель молемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">мяль молемс</t><t pos="V">мяль мольфтемс</t><t pos="V">машневтемс</t></tg>
+<tg xml:lang="rus"><t pos="V">надоесть</t></tg></mg> </e>
+  <e><lg><l pos="V">мельга якамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">мельге якамс</t></tg>
+<tg xml:lang="rus"><t pos="V">ухаживать</t></tg></mg> </e>
+  <e><lg><l pos="V">мельс ледемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">мяльс лядемс</t></tg>
+<tg xml:lang="rus"><t pos="V">вспомнить</t></tg></mg> </e>
+  <e><lg><l pos="V">мельс самс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">мяльс самс</t></tg>
+<tg xml:lang="rus"><t pos="V">прийти на ум</t></tg></mg> </e>
+  <e><lg><l pos="V">мельс тукшномс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">мяльс тумс</t></tg>
+<tg xml:lang="rus"><t pos="V">понравиться</t></tg></mg> </e>
+  <e><lg><l pos="V">мельсэ кирдемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">мяльса кирдемс</t></tg>
+<tg xml:lang="rus"><t pos="V">помнить</t></tg></mg> </e>
+  <e><lg><l pos="V">мелявтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пичедемс</t><t pos="V">ризнамс</t></tg>
+<tg xml:lang="rus"><t pos="V">заботиться</t><t pos="V">переживать</t><t pos="V">беспокоиться</t></tg></mg> </e>
+  <e><lg><l pos="V">мендердямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">мяндерямс</t></tg>
+<tg xml:lang="rus"><t pos="V">очистить от шелухи</t><t pos="V">кожуры</t></tg></mg> </e>
+  <e><lg><l pos="V">мендямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">мяндемс</t></tg>
+<tg xml:lang="rus"><t pos="V">загнуть</t><t pos="V">согнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">менемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">мянемс</t></tg>
+<tg xml:lang="rus"><t pos="V">убежать</t><t pos="V">освободиться</t></tg></mg> </e>
+  <e><lg><l pos="V">менстемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">мяндемс</t><t pos="V">нолдамс</t></tg>
+<tg xml:lang="rus"><t pos="V">освободить</t><t pos="V">упустить</t><t pos="V">недоглядеть</t></tg></mg> </e>
+  <e><lg><l pos="V">менчемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">мяннемс</t><t pos="V">мянцемс</t></tg>
+<tg xml:lang="rus"><t pos="V">сгибать</t></tg></mg> </e>
+  <e><lg><l pos="V">меремс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">мярьгомс</t></tg>
+<tg xml:lang="rus"><t pos="V">сказать; приказать; разрешить</t></tg></mg> </e>
+  <e><lg><l pos="V">мерькамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">мядондамс</t><t pos="V">сърмосемс</t></tg>
+<tg xml:lang="rus"><t pos="V">помять</t><t pos="V">измят; раздавить</t></tg></mg> </e>
+  <e><lg><l pos="V">мешамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">мешамс</t><t pos="V">шорсемс</t></tg>
+<tg xml:lang="rus"><t pos="V">мешать</t></tg></mg> </e>
+  <e><lg><l pos="V">мизолдомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">мъзолдомс</t></tg>
+<tg xml:lang="rus"><t pos="V">улыбаться</t></tg></mg> </e>
+  <e><lg><l pos="V">миледемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">миледемс</t></tg>
+<tg xml:lang="rus"><t pos="V">грести (веслами)</t></tg></mg> </e>
+  <e><lg><l pos="V">мирямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">мирендамс</t></tg>
+<tg xml:lang="rus"><t pos="V">помириться</t></tg></mg> </e>
+  <e><lg><l pos="V">модерямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">модярямс</t></tg>
+<tg xml:lang="rus"><t pos="V">измять</t></tg></mg> </e>
+  <e><lg><l pos="V">мокномс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">мокнамс</t></tg>
+<tg xml:lang="rus"><t pos="V">заикаться</t><t pos="V">мямлить</t></tg></mg> </e>
+  <e><lg><l pos="V">молемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">молемс</t></tg>
+<tg xml:lang="rus"><t pos="V">идти; прийти; пойти</t></tg></mg> </e>
+  <e><lg><l pos="V">моравтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">морафтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">заставить</t><t pos="V">попросить петь; петь молитву; читать нараспев; прославить</t><t pos="V">отпеть (покойника)</t><t pos="V">читать</t></tg></mg> </e>
+  <e><lg><l pos="V">морамс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to sing</t></tg>
+<tg xml:lang="mdf"><t pos="V">морамс</t></tg>
+<tg xml:lang="rus"><t pos="V">петь; играть ( на музыкальном инструменте)</t></tg></mg> </e>
+  <e><lg><l pos="V">муемс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to find</t></tg>
+<tg xml:lang="mdf"><t pos="V">мумс</t></tg>
+<tg xml:lang="rus"><t pos="V">найти</t></tg></mg> </e>
+  <e><lg><l pos="V">мукстнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">мукснемс</t></tg>
+<tg xml:lang="rus"><t pos="V">мычать</t></tg></mg> </e>
+  <e><lg><l pos="V">мурдамс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to turn back</t></tg>
+<tg xml:lang="mdf"><t pos="V">мърдамс</t></tg>
+<tg xml:lang="rus"><t pos="V">возвратиться</t><t pos="V">вернуться</t></tg></mg> </e>
+  <e><lg><l pos="V">мурнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сюцемс</t><t pos="V">мърнамс</t></tg>
+<tg xml:lang="rus"><t pos="V">бранить</t><t pos="V">ругать</t><t pos="V">бурчать</t></tg></mg> </e>
+  <e><lg><l pos="V">мурномс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">мърнамс</t></tg>
+<tg xml:lang="rus"><t pos="V">мурлыкать</t></tg></mg> </e>
+  <e><lg><l pos="V">муськемс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to wash (laundry)</t></tg>
+<tg xml:lang="mdf"><t pos="V">муськомс</t></tg>
+<tg xml:lang="rus"><t pos="V">стирать</t></tg></mg> </e>
+  <e><lg><l pos="V">мутямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">мутендамс</t></tg>
+<tg xml:lang="rus"><t pos="V">мутить</t><t pos="V">замутить</t></tg></mg> </e>
+  <e><lg><l pos="V">муцямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">муцямс</t><t pos="V">мучендамс</t></tg>
+<tg xml:lang="rus"><t pos="V">мучить</t></tg></mg> </e>
+  <e><lg><l pos="V">мучкамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">мучкомс</t><t pos="V">нучкамс</t><t pos="V">вешендемс</t></tg>
+<tg xml:lang="rus"><t pos="V">обыскать</t><t pos="V">обшарить</t></tg></mg> </e>
+  <e><lg><l pos="V">мявкстнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">мявкснемс</t></tg>
+<tg xml:lang="rus"><t pos="V">мяукать</t></tg></mg> </e>
+  <e><lg><l pos="V">навамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">навамс</t></tg>
+<tg xml:lang="rus"><t pos="V">окунуть</t><t pos="V">сунуть</t></tg></mg> </e>
+  <e><lg><l pos="V">навозыявтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">назёмондамс</t><t pos="V">навозыяфтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">унавозить</t></tg></mg> </e>
+  <e><lg><l pos="V">наволгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">навлавгодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">сделаться скользким</t></tg></mg> </e>
+  <e><lg><l pos="V">навсемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">навсемс</t></tg>
+<tg xml:lang="rus"><t pos="V">окунать</t><t pos="V">совать</t></tg></mg> </e>
+  <e><lg><l pos="V">наказамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">наказамс</t></tg>
+<tg xml:lang="rus"><t pos="V">наказать; дать поручение</t></tg></mg> </e>
+  <e><lg><l pos="V">наксадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">наксадомс</t></tg>
+<tg xml:lang="rus"><t pos="V">сгнить</t></tg></mg> </e>
+  <e><lg><l pos="V">наксатвомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">наксафтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">сгноить</t></tg></mg> </e>
+  <e><lg><l pos="V">налксемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">налхксемс</t></tg>
+<tg xml:lang="rus"><t pos="V">играть</t></tg></mg> </e>
+  <e><lg><l pos="V">налкстамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">нильгодемс</t><t pos="V">молемс мяль</t></tg>
+<tg xml:lang="rus"><t pos="V">опротиветь</t><t pos="V">надоесть; прийти в дурное расположение духа</t></tg></mg> </e>
+  <e><lg><l pos="V">напустямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тумс ласькозь</t></tg>
+<tg xml:lang="rus"><t pos="V">броситься бежать</t></tg></mg> </e>
+  <e><lg><l pos="V">нарамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">нарамс</t></tg>
+<tg xml:lang="rus"><t pos="V">брить</t><t pos="V">бриться</t><t pos="V">стричь</t><t pos="V">стричься</t></tg></mg> </e>
+  <e><lg><l pos="V">нардамс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to wipe</t></tg>
+<tg xml:lang="mdf"><t pos="V">нардамс</t></tg>
+<tg xml:lang="rus"><t pos="V">вытереть</t></tg></mg> </e>
+  <e><lg><l pos="V">нарьгамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">наругамс</t></tg>
+<tg xml:lang="rus"><t pos="V">насмехаться</t><t pos="V">издеваться</t><t pos="V">надругаться</t></tg></mg> </e>
+  <e><lg><l pos="V">наряжамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">наряжамс</t></tg>
+<tg xml:lang="rus"><t pos="V">нарядить</t><t pos="V">нарядиться</t></tg></mg> </e>
+  <e><lg><l pos="V">начкомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">начкомс</t></tg>
+<tg xml:lang="rus"><t pos="V">промокнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">начтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">начфтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">намочить</t></tg></mg> </e>
+  <e><lg><l pos="V">невелемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">наволемс</t><t pos="V">неволемс</t></tg>
+<tg xml:lang="rus"><t pos="V">облезть (о коже)</t></tg></mg> </e>
+  <e><lg><l pos="V">невельдемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">навольдемс</t><t pos="V">невольдемс</t></tg>
+<tg xml:lang="rus"><t pos="V">снять (кожу); палить</t><t pos="V">обжигать</t><t pos="V">ошпарить</t></tg></mg> </e>
+  <e><lg><l pos="V">невтемс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to show</t></tg>
+<tg xml:lang="mdf"><t pos="V">няфтемс</t></tg>
+<tg xml:lang="rus"><t pos="V">показать</t></tg></mg> </e>
+  <e><lg><l pos="V">невтямс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to pluck (a bird)</t></tg>
+<tg xml:lang="mdf"><t pos="V">нефтемс</t></tg>
+<tg xml:lang="rus"><t pos="V">терзать</t><t pos="V">растерзать; теребить (лён)</t><t pos="V">трепать (волокно); щипать (птицу)</t></tg></mg> </e>
+  <e><lg><l pos="V">недямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">недямс</t></tg>
+<tg xml:lang="rus"><t pos="V">нанизать</t><t pos="V">навешать</t></tg></mg> </e>
+  <e><lg><l pos="V">неемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">няемс</t></tg>
+<tg xml:lang="rus"><t pos="V">видеть</t><t pos="V">увидеть</t></tg></mg> </e>
+  <e><lg><l pos="V">нежедемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">нежедемс</t></tg>
+<tg xml:lang="rus"><t pos="V">опереться</t><t pos="V">подпереть</t></tg></mg> </e>
+  <e><lg><l pos="V">нельгемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">нельгомс</t></tg>
+<tg xml:lang="rus"><t pos="V">отнять</t><t pos="V">отобрать; захватить</t></tg></mg> </e>
+  <e><lg><l pos="V">немойгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">немойгодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">онеметь</t></tg></mg> </e>
+  <e><lg><l pos="V">нерьгстамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пялемс</t><t pos="V">сялгомс</t></tg>
+<tg xml:lang="rus"><t pos="V">ткнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">неявомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">няевомс</t></tg>
+<tg xml:lang="rus"><t pos="V">быть видимым</t><t pos="V">виднеться</t><t pos="V">казаться</t></tg></mg> </e>
+  <e><lg><l pos="V">низэльдемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">низелдомс</t></tg>
+<tg xml:lang="rus"><t pos="V">скалить зубы</t></tg></mg> </e>
+  <e><lg><l pos="V">никсемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">никсамс</t></tg>
+<tg xml:lang="rus"><t pos="V">нюхать</t><t pos="V">понюхать</t></tg></mg> </e>
+  <e><lg><l pos="V">нилемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">нилемс</t></tg>
+<tg xml:lang="rus"><t pos="V">проглотить</t></tg></mg> </e>
+  <e><lg><l pos="V">новолемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">новолемс</t></tg>
+<tg xml:lang="rus"><t pos="V">опуститься</t></tg></mg> </e>
+  <e><lg><l pos="V">нокамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">нокамс</t><t pos="V">тярьвадамс</t></tg>
+<tg xml:lang="rus"><t pos="V">пытаться</t></tg></mg> </e>
+  <e><lg><l pos="V">ноламс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ноламс</t></tg>
+<tg xml:lang="rus"><t pos="V">лизнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">нолдамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">нолдамс</t></tg>
+<tg xml:lang="rus"><t pos="V">выпустить</t><t pos="V">освободить</t></tg></mg> </e>
+  <e><lg><l pos="V">нолсемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">нолсемс</t></tg>
+<tg xml:lang="rus"><t pos="V">лизать</t></tg></mg> </e>
+  <e><lg><l pos="V">нолштамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">нолштамс</t><t pos="V">ноламс</t></tg>
+<tg xml:lang="rus"><t pos="V">лизнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">норовамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тяряфтомс</t><t pos="V">норавамс</t><t pos="V">варжамс</t></tg>
+<tg xml:lang="rus"><t pos="V">пытаться</t></tg></mg> </e>
+  <e><lg><l pos="V">ноцкадемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ноцкадемс</t><t pos="V">нодордамс</t><t pos="V">норхцадемс</t></tg>
+<tg xml:lang="rus"><t pos="V">дернуть</t></tg></mg> </e>
+  <e><lg><l pos="V">ноцордамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сяземс</t></tg>
+<tg xml:lang="rus"><t pos="V">сорвать</t><t pos="V">порвать</t><t pos="V">оторвать; задеть (за что-либо)</t></tg></mg> </e>
+  <e><lg><l pos="V">ношкалгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ношкалгодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">притупиться</t></tg></mg> </e>
+  <e><lg><l pos="V">ношкстамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сязькстамс</t></tg>
+<tg xml:lang="rus"><t pos="V">броситься бежать</t></tg></mg> </e>
+  <e><lg><l pos="V">нувазевемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">нувазевомс</t></tg>
+<tg xml:lang="rus"><t pos="V">задремать</t></tg></mg> </e>
+  <e><lg><l pos="V">нуваргадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">нусманьгадомс</t></tg>
+<tg xml:lang="rus"><t pos="V">поникнуть</t><t pos="V">сделаться печальным</t></tg></mg> </e>
+  <e><lg><l pos="V">нуемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">нумс</t></tg>
+<tg xml:lang="rus"><t pos="V">жать</t></tg></mg> </e>
+  <e><lg><l pos="V">нузялдомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">нолгадомс</t></tg>
+<tg xml:lang="rus"><t pos="V">лениться</t></tg></mg> </e>
+  <e><lg><l pos="V">нулгодемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">нильгодемс</t><t pos="V">туткодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">брезговать</t></tg></mg> </e>
+  <e><lg><l pos="V">нуртямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">нюрьхтямс</t><t pos="V">каямс</t></tg>
+<tg xml:lang="rus"><t pos="V">налить</t></tg></mg> </e>
+  <e><lg><l pos="V">нурьгемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">нюрьгомс</t></tg>
+<tg xml:lang="rus"><t pos="V">свисать</t></tg></mg> </e>
+  <e><lg><l pos="V">нурькалгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">нюрьхкалгодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">укоротиться</t></tg></mg> </e>
+  <e><lg><l pos="V">нурямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">нюрямс</t></tg>
+<tg xml:lang="rus"><t pos="V">качаться</t></tg></mg> </e>
+  <e><lg><l pos="V">нусмакадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">нусманьгодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">опечалиться</t></tg></mg> </e>
+  <e><lg><l pos="V">нусманьгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">нусманьгодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">опечалиться</t></tg></mg> </e>
+  <e><lg><l pos="V">обедамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">обедамс</t></tg>
+<tg xml:lang="rus"><t pos="V">обедать</t></tg></mg> </e>
+  <e><lg><l pos="V">обидямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">обжамс</t><t pos="V">обижамс</t><t pos="V">аердамс</t></tg>
+<tg xml:lang="rus"><t pos="V">обидеть</t></tg></mg> </e>
+  <e><lg><l pos="V">одкстомомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">одкстомомс</t></tg>
+<tg xml:lang="rus"><t pos="V">помолодеть</t></tg></mg> </e>
+  <e><lg><l pos="V">одолгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">одкстомомс</t></tg>
+<tg xml:lang="rus"><t pos="V">помолодеть</t></tg></mg> </e>
+  <e><lg><l pos="V">ожолгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тюжалгодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">пожелтеть</t></tg></mg> </e>
+  <e><lg><l pos="V">озавтнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">озафнемс</t></tg>
+<tg xml:lang="rus"><t pos="V">сажать</t></tg></mg> </e>
+  <e><lg><l pos="V">озавтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">озафтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">посадить</t></tg></mg> </e>
+  <e><lg><l pos="V">озамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">озамс</t></tg>
+<tg xml:lang="rus"><t pos="V">сесть</t></tg></mg> </e>
+  <e><lg><l pos="V">озномс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">озондомс</t></tg>
+<tg xml:lang="rus"><t pos="V">молиться</t></tg></mg> </e>
+  <e><lg><l pos="V">озямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">шумофтомс</t><t pos="V">возендамс</t></tg>
+<tg xml:lang="rus"><t pos="V">возиться</t><t pos="V">копошиться</t></tg></mg> </e>
+  <e><lg><l pos="V">оиямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ваиямс</t></tg>
+<tg xml:lang="rus"><t pos="V">испачкаться маслом</t><t pos="V">пропитаться маслом</t></tg></mg> </e>
+  <e><lg><l pos="V">ойкстамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">вайкстомс</t><t pos="V">ойкстамс</t><t pos="V">ойкстомс</t></tg>
+<tg xml:lang="rus"><t pos="V">ойкнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">оймамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ваймамс</t></tg>
+<tg xml:lang="rus"><t pos="V">успокоиться</t><t pos="V">отдохнуть; отстояться (об осадке в жидкости)</t></tg></mg> </e>
+  <e><lg><l pos="V">ойме саемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">вайме сявомс</t></tg>
+<tg xml:lang="rus"><t pos="V">убить</t></tg></mg> </e>
+  <e><lg><l pos="V">оламс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">оламс</t></tg>
+<tg xml:lang="rus"><t pos="V">полинять</t><t pos="V">потерять цвет</t></tg></mg> </e>
+  <e><lg><l pos="V">оложамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лудиндамс</t></tg>
+<tg xml:lang="rus"><t pos="V">лудить</t></tg></mg> </e>
+  <e><lg><l pos="V">олякстомомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">мянемс воляс</t></tg>
+<tg xml:lang="rus"><t pos="V">освободиться</t></tg></mg> </e>
+  <e><lg><l pos="V">онгомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">увамс</t></tg>
+<tg xml:lang="rus"><t pos="V">лаять</t></tg></mg> </e>
+  <e><lg><l pos="V">онкстамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ункстамс</t></tg>
+<tg xml:lang="rus"><t pos="V">измерить</t><t pos="V">взвесить</t></tg></mg> </e>
+  <e><lg><l pos="V">онкстямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">онкстамс</t><t pos="V">овостамс</t><t pos="V">овостямс</t></tg>
+<tg xml:lang="rus"><t pos="V">взнуздать</t></tg></mg> </e>
+  <e><lg><l pos="V">опамомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">опамомс</t><t pos="V">сетьмомс</t><t pos="V">лоткамс корхтамда</t></tg>
+<tg xml:lang="rus"><t pos="V">потерять сознание (от духоты); успокоиться</t><t pos="V">утихнуть</t><t pos="V">замолчать</t></tg></mg> </e>
+  <e><lg><l pos="V">оргодемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ворьгодемс</t></tg>
+<tg xml:lang="rus"><t pos="V">сбежать</t><t pos="V">убежать</t></tg></mg> </e>
+  <e><lg><l pos="V">ордадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ордадомс</t><t pos="V">ордашкодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">обидеться</t><t pos="V">закапризничать</t></tg></mg> </e>
+  <e><lg><l pos="V">ормалгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">урмаськодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">заболеть</t></tg></mg> </e>
+  <e><lg><l pos="V">орожиямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">воражиямс</t></tg>
+<tg xml:lang="rus"><t pos="V">ворожить</t></tg></mg> </e>
+  <e><lg><l pos="V">оршамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">щамс</t></tg>
+<tg xml:lang="rus"><t pos="V">одеть</t><t pos="V">одеться</t><t pos="V">надеть</t></tg></mg> </e>
+  <e><lg><l pos="V">охаемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">охиемс</t><t pos="V">охкснемс</t></tg>
+<tg xml:lang="rus"><t pos="V">охать</t></tg></mg> </e>
+  <e><lg><l pos="V">пакштядемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пакштадемс</t></tg>
+<tg xml:lang="rus"><t pos="V">лопнуть; ударить</t></tg></mg> </e>
+  <e><lg><l pos="V">паламс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">паламс</t></tg>
+<tg xml:lang="rus"><t pos="V">поцеловать</t></tg></mg> </e>
+  <e><lg><l pos="V">паломс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">паломс</t></tg>
+<tg xml:lang="rus"><t pos="V">гореть</t></tg></mg> </e>
+  <e><lg><l pos="V">палсемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">палсемс</t></tg>
+<tg xml:lang="rus"><t pos="V">целовать</t><t pos="V">целоваться</t></tg></mg> </e>
+  <e><lg><l pos="V">памордемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">памордемс</t></tg>
+<tg xml:lang="rus"><t pos="V">крошить</t><t pos="V">раскрошить</t></tg></mg> </e>
+  <e><lg><l pos="V">паморемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">паморемс</t></tg>
+<tg xml:lang="rus"><t pos="V">крошиться</t></tg></mg> </e>
+  <e><lg><l pos="V">пандомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пандомс</t></tg>
+<tg xml:lang="rus"><t pos="V">платить</t></tg></mg> </e>
+  <e><lg><l pos="V">пандомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пандомс</t></tg>
+<tg xml:lang="rus"><t pos="V">залатать</t></tg></mg> </e>
+  <e><lg><l pos="V">пандомс кеж</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пандомс кяж</t></tg>
+<tg xml:lang="rus"><t pos="V">отомстить</t></tg></mg> </e>
+  <e><lg><l pos="V">панемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">панемс</t></tg>
+<tg xml:lang="rus"><t pos="V">выгнать</t><t pos="V">изгнать</t></tg></mg> </e>
+  <e><lg><l pos="V">панемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">панемс</t></tg>
+<tg xml:lang="rus"><t pos="V">печь</t></tg></mg> </e>
+  <e><lg><l pos="V">панжомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">панжемс</t></tg>
+<tg xml:lang="rus"><t pos="V">открыть</t></tg></mg> </e>
+  <e><lg><l pos="V">парамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">парамс</t></tg>
+<tg xml:lang="rus"><t pos="V">реветь; блеять (об овце); мычать (о корове)</t></tg></mg> </e>
+  <e><lg><l pos="V">паркстамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пъркстамс</t></tg>
+<tg xml:lang="rus"><t pos="V">фыркнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">паролгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">паролгадомс</t><t pos="V">цебярьгодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">похорошеть</t></tg></mg> </e>
+  <e><lg><l pos="V">парямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">парямс</t></tg>
+<tg xml:lang="rus"><t pos="V">парить</t><t pos="V">париться</t></tg></mg> </e>
+  <e><lg><l pos="V">пацькамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пацькамс</t></tg>
+<tg xml:lang="rus"><t pos="V">испачкать</t></tg></mg> </e>
+  <e><lg><l pos="V">пачкодемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пачкодемс</t></tg>
+<tg xml:lang="rus"><t pos="V">прийти</t><t pos="V">дойти</t><t pos="V">доехать</t></tg></mg> </e>
+  <e><lg><l pos="V">пачтямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пачфтемс</t></tg>
+<tg xml:lang="rus"><t pos="V">довести до сведения</t><t pos="V">доставить</t><t pos="V">довести до определённого места </t></tg></mg> </e>
+  <e><lg><l pos="V">певердемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пяярдемс</t></tg>
+<tg xml:lang="rus"><t pos="V">рассыпать; ронять</t></tg></mg> </e>
+  <e><lg><l pos="V">певеремс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пяяремс</t></tg>
+<tg xml:lang="rus"><t pos="V">осыпаться</t><t pos="V">падать</t></tg></mg> </e>
+  <e><lg><l pos="V">педявтнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">петьфнемс</t><t pos="V">петфнемс</t></tg>
+<tg xml:lang="rus"><t pos="V">оклеивать</t></tg></mg> </e>
+  <e><lg><l pos="V">педявтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">петьфтамс</t><t pos="V">петфтамс</t></tg>
+<tg xml:lang="rus"><t pos="V">приклеить</t></tg></mg> </e>
+  <e><lg><l pos="V">педямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">педемс</t></tg>
+<tg xml:lang="rus"><t pos="V">прилипнуть</t><t pos="V">приклеиться</t></tg></mg> </e>
+  <e><lg><l pos="V">педямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">педямс</t></tg>
+<tg xml:lang="rus"><t pos="V">цедить</t><t pos="V">процедить</t></tg></mg> </e>
+  <e><lg><l pos="V">пеедькшнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пеетькшнемс</t></tg>
+<tg xml:lang="rus"><t pos="V">посмеиваться</t><t pos="V">насмехаться</t></tg></mg> </e>
+  <e><lg><l pos="V">пезнавтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пезфтамс</t></tg>
+<tg xml:lang="rus"><t pos="V">воткнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">пезнамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пезомс</t></tg>
+<tg xml:lang="rus"><t pos="V">воткнуться; увязнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">пезэмс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пезомс</t></tg>
+<tg xml:lang="rus"><t pos="V">мыть</t><t pos="V">вымать (голову)</t></tg></mg> </e>
+  <e><lg><l pos="V">пейдемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пейдемс</t></tg>
+<tg xml:lang="rus"><t pos="V">смеяться</t><t pos="V">улыбаться; насмехаться</t></tg></mg> </e>
+  <e><lg><l pos="V">пекиямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пекиямс</t></tg>
+<tg xml:lang="rus"><t pos="V">забеременеть</t></tg></mg> </e>
+  <e><lg><l pos="V">пекстамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пякстамс</t></tg>
+<tg xml:lang="rus"><t pos="V">запереть</t><t pos="V">закрыть</t></tg></mg> </e>
+  <e><lg><l pos="V">пелемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пелемс</t></tg>
+<tg xml:lang="rus"><t pos="V">бояться</t></tg></mg> </e>
+  <e><lg><l pos="V">пелемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пялемс</t></tg>
+<tg xml:lang="rus"><t pos="V">сверлить</t><t pos="V">проткнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">пельдемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пяльдемс</t></tg>
+<tg xml:lang="rus"><t pos="V">сучить</t></tg></mg> </e>
+  <e><lg><l pos="V">пелькстамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пялькстамс</t></tg>
+<tg xml:lang="rus"><t pos="V">соревноваться</t><t pos="V">спорить</t></tg></mg> </e>
+  <e><lg><l pos="V">пенгедемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пянгодемс</t></tg>
+<tg xml:lang="rus"><t pos="V">обдирать </t></tg></mg> </e>
+  <e><lg><l pos="V">пензамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пензамс</t><t pos="V">кизефнемс</t></tg>
+<tg xml:lang="rus"><t pos="V">выспрашивать</t><t pos="V">выведывать; рассматривать</t></tg></mg> </e>
+  <e><lg><l pos="V">пеняцямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пеняцямс</t></tg>
+<tg xml:lang="rus"><t pos="V">жаловаться</t></tg></mg> </e>
+  <e><lg><l pos="V">перьгавтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пърьгафтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">распрячь</t></tg></mg> </e>
+  <e><lg><l pos="V">петемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">петемс</t></tg>
+<tg xml:lang="rus"><t pos="V">заправить (суп и т.д.)</t></tg></mg> </e>
+  <e><lg><l pos="V">петнямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">путнямс</t><t pos="V">путердемс</t></tg>
+<tg xml:lang="rus"><t pos="V">капать</t></tg></mg> </e>
+  <e><lg><l pos="V">петядемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">путядемс</t><t pos="V">путькстамс</t></tg>
+<tg xml:lang="rus"><t pos="V">капнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">печкемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">печкомс</t></tg>
+<tg xml:lang="rus"><t pos="V">зарезать; отрезать</t></tg></mg> </e>
+  <e><lg><l pos="V">пешкедемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пяшкодемс</t></tg>
+<tg xml:lang="rus"><t pos="V">наполниться</t><t pos="V">наполнить</t></tg></mg> </e>
+  <e><lg><l pos="V">пештямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пяшкодемс</t></tg>
+<tg xml:lang="rus"><t pos="V">наполнить</t></tg></mg> </e>
+  <e><lg><l pos="V">пивсэмс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тялямс</t></tg>
+<tg xml:lang="rus"><t pos="V">молотить</t></tg></mg> </e>
+  <e><lg><l pos="V">пивтемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пихтемс</t></tg>
+<tg xml:lang="rus"><t pos="V">пахтать</t></tg></mg> </e>
+  <e><lg><l pos="V">пидемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пидемс</t></tg>
+<tg xml:lang="rus"><t pos="V">варить</t></tg></mg> </e>
+  <e><lg><l pos="V">пидемс-панемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пидемс-панемс</t></tg>
+<tg xml:lang="rus"><t pos="V">стряпать</t></tg></mg> </e>
+  <e><lg><l pos="V">пидсемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пицемс</t></tg>
+<tg xml:lang="rus"><t pos="V">варить (многокр.); обжигать</t></tg></mg> </e>
+  <e><lg><l pos="V">пижелгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пижелгодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">зазеленеть</t></tg></mg> </e>
+  <e><lg><l pos="V">пижелдомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пижелдомс</t></tg>
+<tg xml:lang="rus"><t pos="V">зеленеть</t></tg></mg> </e>
+  <e><lg><l pos="V">пижнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ювадемс</t><t pos="V">пешкодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">кричать</t></tg></mg> </e>
+  <e><lg><l pos="V">пиземс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пиземс</t></tg>
+<tg xml:lang="rus"><t pos="V">идти (о дожде)</t></tg></mg> </e>
+  <e><lg><l pos="V">пиксемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лакамс</t></tg>
+<tg xml:lang="rus"><t pos="V">кипеть</t></tg></mg> </e>
+  <e><lg><l pos="V">пикстердемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лакштордомс</t><t pos="V">лъбордомс</t></tg>
+<tg xml:lang="rus"><t pos="V">трещать (при горении); плескаться (о рыбе)</t></tg></mg> </e>
+  <e><lg><l pos="V">пилямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пиламс</t></tg>
+<tg xml:lang="rus"><t pos="V">пилить</t></tg></mg> </e>
+  <e><lg><l pos="V">пингедемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пингодемс</t></tg>
+<tg xml:lang="rus"><t pos="V">набить обручи (на кадушку и т.п.)</t></tg></mg> </e>
+  <e><lg><l pos="V">пиндолдомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пиндолдомс</t></tg>
+<tg xml:lang="rus"><t pos="V">блестеть</t></tg></mg> </e>
+  <e><lg><l pos="V">пирямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">перямс</t></tg>
+<tg xml:lang="rus"><t pos="V">городить</t><t pos="V">загородить</t></tg></mg> </e>
+  <e><lg><l pos="V">пичкавтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пъчкафтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">лечить</t><t pos="V">вылечить; кастрировать</t></tg></mg> </e>
+  <e><lg><l pos="V">пичкамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пъчкамс</t></tg>
+<tg xml:lang="rus"><t pos="V">выздороветь</t><t pos="V">зажить (о ране)</t></tg></mg> </e>
+  <e><lg><l pos="V">плетямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">понамс</t><t pos="V">кодамс</t></tg>
+<tg xml:lang="rus"><t pos="V">плести</t><t pos="V">заплести</t></tg></mg> </e>
+  <e><lg><l pos="V">повамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">повамс</t></tg>
+<tg xml:lang="rus"><t pos="V">удушить</t><t pos="V">повесить</t></tg></mg> </e>
+  <e><lg><l pos="V">поводемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">повфтамс</t></tg>
+<tg xml:lang="rus"><t pos="V">повесить</t><t pos="V">привязать</t></tg></mg> </e>
+  <e><lg><l pos="V">поздаямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">поздамс</t></tg>
+<tg xml:lang="rus"><t pos="V">опоздать</t></tg></mg> </e>
+  <e><lg><l pos="V">покордамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">аердомс</t><t pos="V">покордамс</t></tg>
+<tg xml:lang="rus"><t pos="V">оскорбить</t><t pos="V">обидеть</t></tg></mg> </e>
+  <e><lg><l pos="V">поксардамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сюволдамс</t><t pos="V">почаксамс</t></tg>
+<tg xml:lang="rus"><t pos="V">копнуть</t><t pos="V">разворотить; растревожить </t></tg></mg> </e>
+  <e><lg><l pos="V">покшкавтнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">оцюлгофнемс</t></tg>
+<tg xml:lang="rus"><t pos="V">важничать</t><t pos="V">держать себя надменно</t></tg></mg> </e>
+  <e><lg><l pos="V">покшолгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">оцюлгодомс</t><t pos="V">касомс</t></tg>
+<tg xml:lang="rus"><t pos="V">увеличиться</t></tg></mg> </e>
+  <e><lg><l pos="V">полавтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">полафтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">изменить</t><t pos="V">разменять</t></tg></mg> </e>
+  <e><lg><l pos="V">поладомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">поладомс</t></tg>
+<tg xml:lang="rus"><t pos="V">добавить</t><t pos="V">присоединить; продлить</t></tg></mg> </e>
+  <e><lg><l pos="V">получамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">получамс</t></tg>
+<tg xml:lang="rus"><t pos="V">получить</t></tg></mg> </e>
+  <e><lg><l pos="V">польдядемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">польдядемс</t><t pos="V">кячкордемс</t><t pos="V">пъстядемс</t></tg>
+<tg xml:lang="rus"><t pos="V">щёлкнуть пальцем; лягнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">понамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">понамс</t></tg>
+<tg xml:lang="rus"><t pos="V">вить</t><t pos="V">плести</t></tg></mg> </e>
+  <e><lg><l pos="V">понгавтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">повфтамс</t></tg>
+<tg xml:lang="rus"><t pos="V">повесить (на гвоздь и т.д.)</t></tg></mg> </e>
+  <e><lg><l pos="V">понгомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">повомс</t></tg>
+<tg xml:lang="rus"><t pos="V">попасть</t></tg></mg> </e>
+  <e><lg><l pos="V">понжавтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">понжафтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">веять</t></tg></mg> </e>
+  <e><lg><l pos="V">поремс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">поремс</t></tg>
+<tg xml:lang="rus"><t pos="V">жевать; грызть</t><t pos="V">глодать</t><t pos="V">лущить</t></tg></mg> </e>
+  <e><lg><l pos="V">порксамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">коламс</t><t pos="V">лазомс</t></tg>
+<tg xml:lang="rus"><t pos="V">разбить</t><t pos="V">расколоть</t></tg></mg> </e>
+  <e><lg><l pos="V">потамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">потамс</t></tg>
+<tg xml:lang="rus"><t pos="V">отступать</t><t pos="V">отойти</t><t pos="V">пятиться</t></tg></mg> </e>
+  <e><lg><l pos="V">потомдамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пандомс</t><t pos="V">потомламс</t></tg>
+<tg xml:lang="rus"><t pos="V">заткнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">потямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">потямс</t></tg>
+<tg xml:lang="rus"><t pos="V">доить; сосать</t></tg></mg> </e>
+  <e><lg><l pos="V">поцердемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">почердомс</t></tg>
+<tg xml:lang="rus"><t pos="V">капать</t><t pos="V">моросить</t></tg></mg> </e>
+  <e><lg><l pos="V">почаксамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">почаксамс</t></tg>
+<tg xml:lang="rus"><t pos="V">разбросать</t></tg></mg> </e>
+  <e><lg><l pos="V">почодомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">почедомс</t></tg>
+<tg xml:lang="rus"><t pos="V">посыпать</t></tg></mg> </e>
+  <e><lg><l pos="V">появамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">появамс</t><t pos="V">эвондамс</t></tg>
+<tg xml:lang="rus"><t pos="V">появиться</t></tg></mg> </e>
+  <e><lg><l pos="V">правтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">прафтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">уронить</t></tg></mg> </e>
+  <e><lg><l pos="V">прамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">прамс</t></tg>
+<tg xml:lang="rus"><t pos="V">упасть</t></tg></mg> </e>
+  <e><lg><l pos="V">превейгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ёниямс</t><t pos="V">прявиямс</t></tg>
+<tg xml:lang="rus"><t pos="V">поумнеть</t></tg></mg> </e>
+  <e><lg><l pos="V">превиямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ёниямс</t><t pos="V">прявиямс</t></tg>
+<tg xml:lang="rus"><t pos="V">поумнеть</t></tg></mg> </e>
+  <e><lg><l pos="V">прибавамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">прибавамс</t></tg>
+<tg xml:lang="rus"><t pos="V">прибавить</t></tg></mg> </e>
+  <e><lg><l pos="V">примамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">примамс</t></tg>
+<tg xml:lang="rus"><t pos="V">принять</t></tg></mg> </e>
+  <e><lg><l pos="V">промомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пуромомс</t></tg>
+<tg xml:lang="rus"><t pos="V">собраться</t></tg></mg> </e>
+  <e><lg><l pos="V">пря путомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пря путомс</t></tg>
+<tg xml:lang="rus"><t pos="V">сложить голову</t><t pos="V">отдать жизнь</t></tg></mg> </e>
+  <e><lg><l pos="V">пря шнамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пря шнамс</t><t pos="V">пря шнафтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">хвалиться</t></tg></mg> </e>
+  <e><lg><l pos="V">прядомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">аделамс</t><t pos="V">шумордамс</t><t pos="V">прядомс</t></tg>
+<tg xml:lang="rus"><t pos="V">закончить</t><t pos="V">завершить</t></tg></mg> </e>
+  <e><lg><l pos="V">псилгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">псилгодомс</t><t pos="V">ливоськодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">согреться</t><t pos="V">вспотеть</t></tg></mg> </e>
+  <e><lg><l pos="V">пстидемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пстидемс</t><t pos="V">кячкордемс</t></tg>
+<tg xml:lang="rus"><t pos="V">лягнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">пувамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">уфамс</t></tg>
+<tg xml:lang="rus"><t pos="V">дуть</t></tg></mg> </e>
+  <e><lg><l pos="V">пувордамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пувордамс</t></tg>
+<tg xml:lang="rus"><t pos="V">повернуть; выжать (бельё)</t></tg></mg> </e>
+  <e><lg><l pos="V">пужомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пужемс</t></tg>
+<tg xml:lang="rus"><t pos="V">завянуть</t></tg></mg> </e>
+  <e><lg><l pos="V">пукштядемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пъкштадемс</t><t pos="V">ляцемс</t></tg>
+<tg xml:lang="rus"><t pos="V">произвести выстрел</t></tg></mg> </e>
+  <e><lg><l pos="V">пулиямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пулиямс</t></tg>
+<tg xml:lang="rus"><t pos="V">запылиться</t></tg></mg> </e>
+  <e><lg><l pos="V">пултамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пълхтамс</t></tg>
+<tg xml:lang="rus"><t pos="V">жечь</t><t pos="V">сжечь</t></tg></mg> </e>
+  <e><lg><l pos="V">пульзямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пульзямс</t></tg>
+<tg xml:lang="rus"><t pos="V">упасть на колени</t></tg></mg> </e>
+  <e><lg><l pos="V">пупамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пупамс</t><t pos="V">сялгомс</t></tg>
+<tg xml:lang="rus"><t pos="V">уколоть</t><t pos="V">ужалить</t></tg></mg> </e>
+  <e><lg><l pos="V">пупордемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пупордамс</t></tg>
+<tg xml:lang="rus"><t pos="V">споткнуться</t></tg></mg> </e>
+  <e><lg><l pos="V">пупордямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пупордамс</t></tg>
+<tg xml:lang="rus"><t pos="V">споткнуться</t></tg></mg> </e>
+  <e><lg><l pos="V">пупорькшнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пупорямс</t></tg>
+<tg xml:lang="rus"><t pos="V">спотыкаться</t></tg></mg> </e>
+  <e><lg><l pos="V">пупстамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пупамс</t><t pos="V">сялгомс</t></tg>
+<tg xml:lang="rus"><t pos="V">кольнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">пургамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пъргамс</t></tg>
+<tg xml:lang="rus"><t pos="V">брызнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">пурдамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пурдамс</t></tg>
+<tg xml:lang="rus"><t pos="V">свернуть</t><t pos="V">повернуть</t><t pos="V">скрутить</t></tg></mg> </e>
+  <e><lg><l pos="V">пурксемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пърксемс</t></tg>
+<tg xml:lang="rus"><t pos="V">брызгать</t></tg></mg> </e>
+  <e><lg><l pos="V">пурнамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пуроптомс</t></tg>
+<tg xml:lang="rus"><t pos="V">собрать; созвать</t></tg></mg> </e>
+  <e><lg><l pos="V">путнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">путнемс</t></tg>
+<tg xml:lang="rus"><t pos="V">класть</t><t pos="V">расставлять</t></tg></mg> </e>
+  <e><lg><l pos="V">путомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">путомс</t></tg>
+<tg xml:lang="rus"><t pos="V">положить</t><t pos="V">поставить</t></tg></mg> </e>
+  <e><lg><l pos="V">пуштамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пуштомс</t></tg>
+<tg xml:lang="rus"><t pos="V">калить (семена); жарить</t></tg></mg> </e>
+  <e><lg><l pos="V">пшкадемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пъшкядемс</t></tg>
+<tg xml:lang="rus"><t pos="V">обратиться</t><t pos="V">заговорить</t></tg></mg> </e>
+  <e><lg><l pos="V">пштидемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пштидемс</t></tg>
+<tg xml:lang="rus"><t pos="V">прижаться</t></tg></mg> </e>
+  <e><lg><l pos="V">радовакшномс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кенярькшнемс</t></tg>
+<tg xml:lang="rus"><t pos="V">радоваться</t></tg></mg> </e>
+  <e><lg><l pos="V">радовамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кенярдемс</t></tg>
+<tg xml:lang="rus"><t pos="V">обрадоваться</t></tg></mg> </e>
+  <e><lg><l pos="V">раздемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сязендемс</t></tg>
+<tg xml:lang="rus"><t pos="V">рвать</t><t pos="V">разорвать</t></tg></mg> </e>
+  <e><lg><l pos="V">раздемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">киськорямс</t><t pos="V">ангорямс</t></tg>
+<tg xml:lang="rus"><t pos="V">царапать</t></tg></mg> </e>
+  <e><lg><l pos="V">ракамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">рахамс</t></tg>
+<tg xml:lang="rus"><t pos="V">смеяться</t></tg></mg> </e>
+  <e><lg><l pos="V">раксемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">рахсемс</t></tg>
+<tg xml:lang="rus"><t pos="V">посмеиваться</t><t pos="V">высмеивать</t></tg></mg> </e>
+  <e><lg><l pos="V">рамамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">рамамс</t></tg>
+<tg xml:lang="rus"><t pos="V">купить</t></tg></mg> </e>
+  <e><lg><l pos="V">рангомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">рангомс</t></tg>
+<tg xml:lang="rus"><t pos="V">вопить</t><t pos="V">кричать</t><t pos="V">рыдать</t></tg></mg> </e>
+  <e><lg><l pos="V">рангстамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ювадемс</t><t pos="V">пешкодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">крикнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">раужкадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">равчкодомс</t><t pos="V">равжелгодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">почернеть</t></tg></mg> </e>
+  <e><lg><l pos="V">рашкондамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">рашкондамс</t></tg>
+<tg xml:lang="rus"><t pos="V">разветвиться; сесть верхом</t><t pos="V">раскорячиться</t></tg></mg> </e>
+  <e><lg><l pos="V">раштамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">раштамс</t></tg>
+<tg xml:lang="rus"><t pos="V">размножиться</t><t pos="V">расплодиться</t><t pos="V">родить</t></tg></mg> </e>
+  <e><lg><l pos="V">редямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">няемс</t><t pos="V">мумс ванфса</t></tg>
+<tg xml:lang="rus"><t pos="V">увидеть</t><t pos="V">заметить</t></tg></mg> </e>
+  <e><lg><l pos="V">резэмс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">рязомс</t></tg>
+<tg xml:lang="rus"><t pos="V">чахнуть</t><t pos="V">хиреть</t></tg></mg> </e>
+  <e><lg><l pos="V">ремшамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">рямшамс</t><t pos="V">ремштыемс</t></tg>
+<tg xml:lang="rus"><t pos="V">жевать жвачку ( о животных)</t></tg></mg> </e>
+  <e><lg><l pos="V">рестамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пуштомс</t><t pos="V">рястамс</t></tg>
+<tg xml:lang="rus"><t pos="V">жарить</t></tg></mg> </e>
+  <e><lg><l pos="V">решамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">арьсемс</t><t pos="V">решандамс</t></tg>
+<tg xml:lang="rus"><t pos="V">решить</t></tg></mg> </e>
+  <e><lg><l pos="V">рисовамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">рисовандамс</t></tg>
+<tg xml:lang="rus"><t pos="V">рисовать</t></tg></mg> </e>
+  <e><lg><l pos="V">роботамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">покамс</t><t pos="V">работамс</t></tg>
+<tg xml:lang="rus"><t pos="V">работать</t></tg></mg> </e>
+  <e><lg><l pos="V">ровнямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ровнандамс</t></tg>
+<tg xml:lang="rus"><t pos="V">ровнять</t></tg></mg> </e>
+  <e><lg><l pos="V">розорямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">аборьгофтомс</t><t pos="V">розарямс</t></tg>
+<tg xml:lang="rus"><t pos="V">разорить</t></tg></mg> </e>
+  <e><lg><l pos="V">рокамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">рохамс</t></tg>
+<tg xml:lang="rus"><t pos="V">хрюкать</t></tg></mg> </e>
+  <e><lg><l pos="V">рудазкавтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ърдазыяфтомс</t><t pos="V">ърдаскофтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">загрязнить</t></tg></mg> </e>
+  <e><lg><l pos="V">рудазыямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ърдазыямс</t><t pos="V">пяндраямс</t><t pos="V">лебониямс</t></tg>
+<tg xml:lang="rus"><t pos="V">загрязниться</t></tg></mg> </e>
+  <e><lg><l pos="V">саемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сявомс</t></tg>
+<tg xml:lang="rus"><t pos="V">взять</t></tg></mg> </e>
+  <e><lg><l pos="V">саламс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">саламс</t></tg>
+<tg xml:lang="rus"><t pos="V">красть</t><t pos="V">украсть</t></tg></mg> </e>
+  <e><lg><l pos="V">салыямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">салыямс</t></tg>
+<tg xml:lang="rus"><t pos="V">просолиться</t><t pos="V">засолиться</t></tg></mg> </e>
+  <e><lg><l pos="V">сандемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сандемс</t></tg>
+<tg xml:lang="rus"><t pos="V">корчевать</t><t pos="V">раскорчевать</t></tg></mg> </e>
+  <e><lg><l pos="V">саныямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">саныямс</t></tg>
+<tg xml:lang="rus"><t pos="V">сделаться вязким</t><t pos="V">тягучим</t></tg></mg> </e>
+  <e><lg><l pos="V">сасамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сатомс</t></tg>
+<tg xml:lang="rus"><t pos="V">догнать</t></tg></mg> </e>
+  <e><lg><l pos="V">сатомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сатомс</t></tg>
+<tg xml:lang="rus"><t pos="V">хватать</t><t pos="V">достаться</t></tg></mg> </e>
+  <e><lg><l pos="V">седямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">морамс</t><t pos="V">седямс</t></tg>
+<tg xml:lang="rus"><t pos="V">играть (на музыкальном инструменте)</t></tg></mg> </e>
+  <e><lg><l pos="V">сееремс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ювадемс</t><t pos="V">пешкодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">кричать</t></tg></mg> </e>
+  <e><lg><l pos="V">сеземс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сяземс</t></tg>
+<tg xml:lang="rus"><t pos="V">сорвать; взорвать</t><t pos="V">разорвать</t></tg></mg> </e>
+  <e><lg><l pos="V">сезнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сязендемс</t></tg>
+<tg xml:lang="rus"><t pos="V">рвать</t></tg></mg> </e>
+  <e><lg><l pos="V">сельгемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сельгомс</t></tg>
+<tg xml:lang="rus"><t pos="V">плюнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">сельмедемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сельмодемс</t></tg>
+<tg xml:lang="rus"><t pos="V">сглазить</t></tg></mg> </e>
+  <e><lg><l pos="V">серьгедемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">серьгядемс</t></tg>
+<tg xml:lang="rus"><t pos="V">пригласить; крикнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">сиведемс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to hire</t></tg>
+<tg xml:lang="mdf"><t pos="V">сиводемс</t></tg>
+<tg xml:lang="rus"><t pos="V">нанять</t></tg></mg> </e>
+  <e><lg><l pos="V">сивемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">синдевомс</t><t pos="V">синневомс</t></tg>
+<tg xml:lang="rus"><t pos="V">сломаться</t></tg></mg> </e>
+  <e><lg><l pos="V">сиземс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to tire</t></tg>
+<tg xml:lang="mdf"><t pos="V">сиземс</t></tg>
+<tg xml:lang="rus"><t pos="V">устать</t></tg></mg> </e>
+  <e><lg><l pos="V">симдемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">симдемс</t></tg>
+<tg xml:lang="rus"><t pos="V">поить</t><t pos="V">напоить</t></tg></mg> </e>
+  <e><lg><l pos="V">симемс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to drink</t></tg>
+<tg xml:lang="mdf"><t pos="V">симомс</t></tg>
+<tg xml:lang="rus"><t pos="V">пить</t><t pos="V">выпить</t></tg></mg> </e>
+  <e><lg><l pos="V">синдемс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to break</t></tg>
+<tg xml:lang="mdf"><t pos="V">синдемс</t></tg>
+<tg xml:lang="rus"><t pos="V">ломать</t><t pos="V">сломать</t></tg></mg> </e>
+  <e><lg><l pos="V">синтремс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">синнемс</t></tg>
+<tg xml:lang="rus"><t pos="V">ломать</t><t pos="V">изломать</t></tg></mg> </e>
+  <e><lg><l pos="V">скирдамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">киськордамс</t><t pos="V">пувордамс</t></tg>
+<tg xml:lang="rus"><t pos="V">ущипнуть</t><t pos="V">царапнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">скирдямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">киськордамс</t><t pos="V">пувордамс</t></tg>
+<tg xml:lang="rus"><t pos="V">ущипнуть</t><t pos="V">царапнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">служамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">служамс</t></tg>
+<tg xml:lang="rus"><t pos="V">служить</t></tg></mg> </e>
+  <e><lg><l pos="V">снартнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тяряфнемс</t><t pos="V">ёрамс</t></tg>
+<tg xml:lang="rus"><t pos="V">пробовать</t><t pos="V">пытаться</t><t pos="V">стремиться</t></tg></mg> </e>
+  <e><lg><l pos="V">совавтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сувафтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">внести</t><t pos="V">ввести; пригласить зайти</t></tg></mg> </e>
+  <e><lg><l pos="V">совамс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to enter</t></tg>
+<tg xml:lang="mdf"><t pos="V">сувамс</t></tg>
+<tg xml:lang="rus"><t pos="V">зайти</t></tg></mg> </e>
+  <e><lg><l pos="V">содамс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to know; to recognize</t></tg>
+<tg xml:lang="mdf"><t pos="V">содамс</t><t pos="V">сюлмамс</t></tg>
+<tg xml:lang="rus"><t pos="V">знать</t><t pos="V">узнать</t></tg></mg> </e>
+  <e><lg><l pos="V">содомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сотомс</t></tg>
+<tg xml:lang="rus"><t pos="V">привязать</t><t pos="V">завязать; повесить</t></tg></mg> </e>
+  <e><lg><l pos="V">содыямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">содыямс</t></tg>
+<tg xml:lang="rus"><t pos="V">испачкаться в саже</t></tg></mg> </e>
+  <e><lg><l pos="V">сокамс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to plow</t></tg>
+<tg xml:lang="mdf"><t pos="V">сокамс</t></tg>
+<tg xml:lang="rus"><t pos="V">пахать</t></tg></mg> </e>
+  <e><lg><l pos="V">сокоргадомс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to go blind</t></tg>
+<tg xml:lang="mdf"><t pos="V">сокоргодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">слепнуть</t><t pos="V">ослепнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">солавтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">солафтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">растопить; расплавить; растворить</t></tg></mg> </e>
+  <e><lg><l pos="V">соламс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to melt</t></tg>
+<tg xml:lang="mdf"><t pos="V">соламс</t></tg>
+<tg xml:lang="rus"><t pos="V">растаять</t><t pos="V">оттаять; растопиться; раствориться</t></tg></mg> </e>
+  <e><lg><l pos="V">сормамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сърмамс</t><t pos="V">сормамс</t></tg>
+<tg xml:lang="rus"><t pos="V">сморщить</t></tg></mg> </e>
+  <e><lg><l pos="V">сорномс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">търантомс</t><t pos="V">шерьхкомс</t><t pos="V">зърнамс</t><t pos="V">сокотамс</t><t pos="V">вачкотомс</t></tg>
+<tg xml:lang="rus"><t pos="V">дрожать</t></tg></mg> </e>
+  <e><lg><l pos="V">сорыямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сорыямс</t></tg>
+<tg xml:lang="rus"><t pos="V">засориться</t></tg></mg> </e>
+  <e><lg><l pos="V">сравтнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">срафнемс</t></tg>
+<tg xml:lang="rus"><t pos="V">разбрасывать</t><t pos="V">расстилать; разрушать</t></tg></mg> </e>
+  <e><lg><l pos="V">сравтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">срафтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">разбросать</t><t pos="V">разостлать</t><t pos="V">разложить</t><t pos="V">рассыпать</t><t pos="V">распустить; расчесать; разрушить</t></tg></mg> </e>
+  <e><lg><l pos="V">срадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">срадомс</t></tg>
+<tg xml:lang="rus"><t pos="V">рассыпаться</t><t pos="V">расходиться</t><t pos="V">рассеяться; раскинуться</t></tg></mg> </e>
+  <e><lg><l pos="V">сралемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сраткшнемс</t></tg>
+<tg xml:lang="rus"><t pos="V">расходиться</t><t pos="V">распространяться</t><t pos="V">рассеиваться; раскидываться</t></tg></mg> </e>
+  <e><lg><l pos="V">стакалгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">стакалгодомс</t><t pos="V">сталгодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">отяжалеть</t></tg></mg> </e>
+  <e><lg><l pos="V">стамс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to sew</t></tg>
+<tg xml:lang="mdf"><t pos="V">стамс</t></tg>
+<tg xml:lang="rus"><t pos="V">шить</t><t pos="V">сшить </t></tg></mg> </e>
+  <e><lg><l pos="V">строямс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to build</t></tg>
+<tg xml:lang="mdf"><t pos="V">строямс</t></tg>
+<tg xml:lang="rus"><t pos="V">строить</t></tg></mg> </e>
+  <e><lg><l pos="V">стувтомс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to forget</t></tg>
+<tg xml:lang="mdf"><t pos="V">юкстамс</t></tg>
+<tg xml:lang="rus"><t pos="V">забыть</t></tg></mg> </e>
+  <e><lg><l pos="V">стукамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">чакамс</t></tg>
+<tg xml:lang="rus"><t pos="V">стучать</t></tg></mg> </e>
+  <e><lg><l pos="V">стявтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">стяфтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">разбудить; поднять</t><t pos="V">поставить</t></tg></mg> </e>
+  <e><lg><l pos="V">стямс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to stand up</t></tg>
+<tg xml:lang="mdf"><t pos="V">стямс</t></tg>
+<tg xml:lang="rus"><t pos="V">встать; взойти (о солнце)</t></tg></mg> </e>
+  <e><lg><l pos="V">сувтамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">суфтамс</t></tg>
+<tg xml:lang="rus"><t pos="V">окурить</t></tg></mg> </e>
+  <e><lg><l pos="V">судрямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сеендемс</t></tg>
+<tg xml:lang="rus"><t pos="V">чесать</t><t pos="V">расчесывать (волосы)</t></tg></mg> </e>
+  <e><lg><l pos="V">судямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">судендамс</t></tg>
+<tg xml:lang="rus"><t pos="V">судить</t><t pos="V">осудить</t></tg></mg> </e>
+  <e><lg><l pos="V">сундерьгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сюнерьгодомс</t><t pos="V">шопотькшнемс</t></tg>
+<tg xml:lang="rus"><t pos="V">смеркаться</t></tg></mg> </e>
+  <e><lg><l pos="V">сускомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сускомс</t></tg>
+<tg xml:lang="rus"><t pos="V">откусить</t><t pos="V">закусить</t><t pos="V">укусить </t></tg></mg> </e>
+  <e><lg><l pos="V">сыргамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сърхкамс</t></tg>
+<tg xml:lang="rus"><t pos="V">собраться</t><t pos="V">тронуться (с места)</t><t pos="V">направиться (в сторону чего-л.); забродить</t></tg></mg> </e>
+  <e><lg><l pos="V">сыргоземс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">съргоземс</t></tg>
+<tg xml:lang="rus"><t pos="V">проснуться</t></tg></mg> </e>
+  <e><lg><l pos="V">сыргостемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">съргозьфтемс</t></tg>
+<tg xml:lang="rus"><t pos="V">разбудить</t></tg></mg> </e>
+  <e><lg><l pos="V">сыредемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сиредемс</t></tg>
+<tg xml:lang="rus"><t pos="V">постареть</t></tg></mg> </e>
+  <e><lg><l pos="V">сыремемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">серемомс</t></tg>
+<tg xml:lang="rus"><t pos="V">сильно гореть</t><t pos="V">разгореться</t><t pos="V">накалиться </t></tg></mg> </e>
+  <e><lg><l pos="V">сыремтемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">серептемс</t></tg>
+<tg xml:lang="rus"><t pos="V">разжечь</t><t pos="V">поджечь</t><t pos="V">накалить</t></tg></mg> </e>
+  <e><lg><l pos="V">сыртемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">серептемс</t></tg>
+<tg xml:lang="rus"><t pos="V">калить</t><t pos="V">раскалить</t></tg></mg> </e>
+  <e><lg><l pos="V">сыявтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сыяфтомс</t><t pos="V">акшелгофтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">нарывать</t></tg></mg> </e>
+  <e><lg><l pos="V">ськирдамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">киськордамс</t><t pos="V">пувордамс</t></tg>
+<tg xml:lang="rus"><t pos="V">ущипнуть</t><t pos="V">царапнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">сэвемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сивомс</t></tg>
+<tg xml:lang="rus"><t pos="V">съесть</t></tg></mg> </e>
+  <e><lg><l pos="V">сэвтемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сехтемс</t></tg>
+<tg xml:lang="rus"><t pos="V">чесать</t><t pos="V">трепать (шерсть)</t></tg></mg> </e>
+  <e><lg><l pos="V">сэвтнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сехтемс</t></tg>
+<tg xml:lang="rus"><t pos="V">чесать</t><t pos="V">трепать (шерсть)</t></tg></mg> </e>
+  <e><lg><l pos="V">сэдямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">седямс</t></tg>
+<tg xml:lang="rus"><t pos="V">мостить</t></tg></mg> </e>
+  <e><lg><l pos="V">сэредемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сяредемс</t></tg>
+<tg xml:lang="rus"><t pos="V">болеть</t></tg></mg> </e>
+  <e><lg><l pos="V">сэрейгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">серийгодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">стать выше; стать глубже</t></tg></mg> </e>
+  <e><lg><l pos="V">сэтьмемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сетьмомс</t></tg>
+<tg xml:lang="rus"><t pos="V">успокоиться</t><t pos="V">утихнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">сювордамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сювордомс</t></tg>
+<tg xml:lang="rus"><t pos="V">зажать</t><t pos="V">стиснуть</t></tg></mg> </e>
+  <e><lg><l pos="V">сюдомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сюдомс</t></tg>
+<tg xml:lang="rus"><t pos="V">проклинать</t><t pos="V">проклясть</t></tg></mg> </e>
+  <e><lg><l pos="V">сюконямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сюконямс</t></tg>
+<tg xml:lang="rus"><t pos="V">поклониться</t><t pos="V">приветствовать</t></tg></mg> </e>
+  <e><lg><l pos="V">сюлмамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сотомс</t></tg>
+<tg xml:lang="rus"><t pos="V">соединить</t><t pos="V">завязать</t><t pos="V">повязать</t><t pos="V">связать</t><t pos="V">привязать</t></tg></mg> </e>
+  <e><lg><l pos="V">сюлмамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сюлмамс</t></tg>
+<tg xml:lang="rus"><t pos="V">завязать (узел на верёвке)</t></tg></mg> </e>
+  <e><lg><l pos="V">сюмордомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сюмордемс</t></tg>
+<tg xml:lang="rus"><t pos="V">печалиться</t><t pos="V">горевать</t><t pos="V">плакать</t></tg></mg> </e>
+  <e><lg><l pos="V">сюпалгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">козякодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">разбогатеть</t></tg></mg> </e>
+  <e><lg><l pos="V">сявордомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сявордемс</t><t pos="V">веляфтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">свалить</t><t pos="V">опрокинуть</t></tg></mg> </e>
+  <e><lg><l pos="V">сяворемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сяворемс</t><t pos="V">прамс</t></tg>
+<tg xml:lang="rus"><t pos="V">свалиться</t><t pos="V">упасть; прилечь</t></tg></mg> </e>
+  <e><lg><l pos="V">сялгомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сялгомс</t></tg>
+<tg xml:lang="rus"><t pos="V">вонзить</t><t pos="V">кольнуть</t><t pos="V">приколоть</t></tg></mg> </e>
+  <e><lg><l pos="V">сялдомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сялдомс</t></tg>
+<tg xml:lang="rus"><t pos="V">осудить</t><t pos="V">опорочить</t><t pos="V">злословить</t></tg></mg> </e>
+  <e><lg><l pos="V">сятордомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">цятордомс</t></tg>
+<tg xml:lang="rus"><t pos="V">трещать</t></tg></mg> </e>
+  <e><lg><l pos="V">сёвномс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сюцемс</t><t pos="V">сялондомс</t></tg>
+<tg xml:lang="rus"><t pos="V">ругать</t><t pos="V">поругать</t><t pos="V">ругаться</t></tg></mg> </e>
+  <e><lg><l pos="V">сёлгомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сёлгомс</t></tg>
+<tg xml:lang="rus"><t pos="V">закрыть</t></tg></mg> </e>
+  <e><lg><l pos="V">сёпомс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to hide</t></tg>
+<tg xml:lang="mdf"><t pos="V">сёпомс</t></tg>
+<tg xml:lang="rus"><t pos="V">скрыть</t><t pos="V">утаить</t></tg></mg> </e>
+  <e><lg><l pos="V">сёрмадомс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to write</t></tg>
+<tg xml:lang="mdf"><t pos="V">сёрмадомс</t></tg>
+<tg xml:lang="rus"><t pos="V">писать</t><t pos="V">написать; вышивать</t></tg></mg> </e>
+  <e><lg><l pos="V">сёрмадстомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сёрматфтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">подписать</t><t pos="V">подписаться; записаться</t></tg></mg> </e>
+  <e><lg><l pos="V">сёрмамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сърмамс</t></tg>
+<tg xml:lang="rus"><t pos="V">сморщить</t></tg></mg> </e>
+  <e><lg><l pos="V">тавадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тавадомс</t></tg>
+<tg xml:lang="rus"><t pos="V">покрыть</t><t pos="V">укрыть</t></tg></mg> </e>
+  <e><lg><l pos="V">тазыямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тазыямс</t></tg>
+<tg xml:lang="rus"><t pos="V">запаршиветь</t><t pos="V">заболеть чесоткой</t></tg></mg> </e>
+  <e><lg><l pos="V">таймазкадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">таймаскодомс</t><t pos="V">таяскодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">утихнуть</t><t pos="V">оцепенеть; онеметь</t></tg></mg> </e>
+  <e><lg><l pos="V">талакадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">талакадомс</t></tg>
+<tg xml:lang="rus"><t pos="V">растеряться</t><t pos="V">заволноваться</t></tg></mg> </e>
+  <e><lg><l pos="V">талномс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">комболдомс</t><t pos="V">пичедемс</t><t pos="V">ризнамс</t></tg>
+<tg xml:lang="rus"><t pos="V">волноваться</t><t pos="V">переживать</t></tg></mg> </e>
+  <e><lg><l pos="V">тандавтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">эвфтемс</t></tg>
+<tg xml:lang="rus"><t pos="V">напугать</t></tg></mg> </e>
+  <e><lg><l pos="V">тандадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">эводемс</t></tg>
+<tg xml:lang="rus"><t pos="V">испугаться</t></tg></mg> </e>
+  <e><lg><l pos="V">тантейгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">танцтилгодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">стать вкусным</t><t pos="V">сладким</t></tg></mg> </e>
+  <e><lg><l pos="V">тапамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тапамс</t></tg>
+<tg xml:lang="rus"><t pos="V">разбить; разгромить; вытоптать</t><t pos="V">измельчить</t></tg></mg> </e>
+  <e><lg><l pos="V">тапардамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тапардамс</t><t pos="V">тапордамс</t></tg>
+<tg xml:lang="rus"><t pos="V">завернуть</t><t pos="V">обвернуть</t><t pos="V">намотать</t></tg></mg> </e>
+  <e><lg><l pos="V">тапарямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тапарямс</t><t pos="V">ашкодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">завернуть</t><t pos="V">обвернуть</t><t pos="V">намотать </t></tg></mg> </e>
+  <e><lg><l pos="V">тапарямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тапарямс</t><t pos="V">тапорямс</t></tg>
+<tg xml:lang="rus"><t pos="V">путать</t><t pos="V">запутать</t></tg></mg> </e>
+  <e><lg><l pos="V">тапсемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тапсемс</t></tg>
+<tg xml:lang="rus"><t pos="V">разбивать</t><t pos="V">громить; вытаптывать</t><t pos="V">измельчать</t></tg></mg> </e>
+  <e><lg><l pos="V">таргамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">таргамс</t></tg>
+<tg xml:lang="rus"><t pos="V">вытащить</t><t pos="V">вынуть; курить</t></tg></mg> </e>
+  <e><lg><l pos="V">таргоземс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">таргоземс</t></tg>
+<tg xml:lang="rus"><t pos="V">опухнуть</t><t pos="V">отечь</t></tg></mg> </e>
+  <e><lg><l pos="V">тардемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">эрькстомс</t><t pos="V">эрькстамс</t><t pos="V">тарькстамс</t><t pos="V">эйндамс</t></tg>
+<tg xml:lang="rus"><t pos="V">окоченеть</t><t pos="V">продрогнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">тармаскадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">таяскодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">онеметь</t><t pos="V">оцепенеть</t></tg></mg> </e>
+  <e><lg><l pos="V">тарномс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">търнатомс</t></tg>
+<tg xml:lang="rus"><t pos="V">дрожать</t><t pos="V">трепетать</t></tg></mg> </e>
+  <e><lg><l pos="V">тарькстамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">эрькстамс</t><t pos="V">тарькстамс</t><t pos="V">эйндамс</t></tg>
+<tg xml:lang="rus"><t pos="V">промерзнуть</t><t pos="V">окоченеть</t></tg></mg> </e>
+  <e><lg><l pos="V">таштамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пуроптомс</t></tg>
+<tg xml:lang="rus"><t pos="V">копить</t><t pos="V">накопить</t></tg></mg> </e>
+  <e><lg><l pos="V">таштомомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">таштомомс</t></tg>
+<tg xml:lang="rus"><t pos="V">постареть (о предметах)</t></tg></mg> </e>
+  <e><lg><l pos="V">теемс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to make</t></tg>
+<tg xml:lang="mdf"><t pos="V">тиемс</t></tg>
+<tg xml:lang="rus"><t pos="V">делать</t><t pos="V">сделать</t><t pos="V">совершить</t></tg></mg> </e>
+  <e><lg><l pos="V">тейнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тиендемс</t></tg>
+<tg xml:lang="rus"><t pos="V">делать</t><t pos="V">совершать; воздвигать; притворяться</t></tg></mg> </e>
+  <e><lg><l pos="V">телькемемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">сиземс</t></tg>
+<tg xml:lang="rus"><t pos="V">утомиться</t></tg></mg> </e>
+  <e><lg><l pos="V">тенсемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тяемс</t></tg>
+<tg xml:lang="rus"><t pos="V">мести</t><t pos="V">подмести</t></tg></mg> </e>
+  <e><lg><l pos="V">тердемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тердемс</t></tg>
+<tg xml:lang="rus"><t pos="V">пригласить</t><t pos="V">позвать</t><t pos="V">призвать</t></tg></mg> </e>
+  <e><lg><l pos="V">тертямс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to tether</t></tg>
+<tg xml:lang="mdf"><t pos="V">тярдямс</t></tg>
+<tg xml:lang="rus"><t pos="V">путать</t><t pos="V">запутать</t><t pos="V">стреножить</t></tg></mg> </e>
+  <e><lg><l pos="V">терявтнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тяряфнемс</t></tg>
+<tg xml:lang="rus"><t pos="V">пробовать</t><t pos="V">пытаться</t></tg></mg> </e>
+  <e><lg><l pos="V">терявтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тяряфтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">попробовать</t><t pos="V">попытаться</t></tg></mg> </e>
+  <e><lg><l pos="V">тесьмадемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тесьмадемс</t><t pos="V">тосьмядемс</t><t pos="V">тостядемс</t></tg>
+<tg xml:lang="rus"><t pos="V">расшивать</t><t pos="V">расшить тесьмой; боднуть</t><t pos="V">ударить</t></tg></mg> </e>
+  <e><lg><l pos="V">тетькемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тетькомс</t></tg>
+<tg xml:lang="rus"><t pos="V">раскрыть (глаза)</t></tg></mg> </e>
+  <e><lg><l pos="V">тешкстамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тяштемс</t></tg>
+<tg xml:lang="rus"><t pos="V">обозначить</t><t pos="V">отметить</t></tg></mg> </e>
+  <e><lg><l pos="V">тештямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тяштемс</t></tg>
+<tg xml:lang="rus"><t pos="V">писать</t><t pos="V">написать; отметить</t><t pos="V">пометить</t></tg></mg> </e>
+  <e><lg><l pos="V">теялгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тяйнялгодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">сузиться</t></tg></mg> </e>
+  <e><lg><l pos="V">тикшиямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тишиямс</t></tg>
+<tg xml:lang="rus"><t pos="V">зарастать</t><t pos="V">покрываться травой</t></tg></mg> </e>
+  <e><lg><l pos="V">токавтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">токафтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">дотронуться</t><t pos="V">притронуться</t><t pos="V">коснуться</t></tg></mg> </e>
+  <e><lg><l pos="V">токамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">токамс</t></tg>
+<tg xml:lang="rus"><t pos="V">тронуть</t></tg></mg> </e>
+  <e><lg><l pos="V">токномс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тотнамс</t></tg>
+<tg xml:lang="rus"><t pos="V">биться (о сердце)</t></tg></mg> </e>
+  <e><lg><l pos="V">токшемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">токсемс</t></tg>
+<tg xml:lang="rus"><t pos="V">трогать; посещать</t></tg></mg> </e>
+  <e><lg><l pos="V">толгиямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">толгаямс</t></tg>
+<tg xml:lang="rus"><t pos="V">опериться</t></tg></mg> </e>
+  <e><lg><l pos="V">томбамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">томбамс</t></tg>
+<tg xml:lang="rus"><t pos="V">толочь</t><t pos="V">мять; ушибить</t></tg></mg> </e>
+  <e><lg><l pos="V">тонавтнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тонафнемс</t></tg>
+<tg xml:lang="rus"><t pos="V">учиться</t><t pos="V">изучать</t></tg></mg> </e>
+  <e><lg><l pos="V">тонадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тонадомс</t></tg>
+<tg xml:lang="rus"><t pos="V">научиться</t><t pos="V">освоить</t><t pos="V">привыкнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">тонгомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тонгомс</t></tg>
+<tg xml:lang="rus"><t pos="V">сунуть</t><t pos="V">засунуть</t><t pos="V">просунуть</t><t pos="V">дать взятку</t></tg></mg> </e>
+  <e><lg><l pos="V">топавтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пяшкодемс</t></tg>
+<tg xml:lang="rus"><t pos="V">наполнить; выполнить</t><t pos="V">исполнить</t></tg></mg> </e>
+  <e><lg><l pos="V">топавтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">топафтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">выполнить</t><t pos="V">обеспечить; насытить</t></tg></mg> </e>
+  <e><lg><l pos="V">топодемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">топодемс</t></tg>
+<tg xml:lang="rus"><t pos="V">насытиться; исполниться</t></tg></mg> </e>
+  <e><lg><l pos="V">тормодемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ношкстамс</t><t pos="V">арадозь тумс (о животных)</t><t pos="V">ласькозь тумс (о человеке)</t></tg>
+<tg xml:lang="rus"><t pos="V">помчаться</t><t pos="V">понести</t></tg></mg> </e>
+  <e><lg><l pos="V">тормозямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тормозиндамс</t></tg>
+<tg xml:lang="rus"><t pos="V">тормозить</t></tg></mg> </e>
+  <e><lg><l pos="V">тормошамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тормошиндамс</t></tg>
+<tg xml:lang="rus"><t pos="V">тормошить</t></tg></mg> </e>
+  <e><lg><l pos="V">тородемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">валомс</t><t pos="V">лознямс</t></tg>
+<tg xml:lang="rus"><t pos="V">лить</t><t pos="V">хлестать (о дожде)</t></tg></mg> </e>
+  <e><lg><l pos="V">тородемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">педямс</t></tg>
+<tg xml:lang="rus"><t pos="V">цедить</t></tg></mg> </e>
+  <e><lg><l pos="V">торцадемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">вачкодемс</t><t pos="V">цяподемс</t><t pos="V">цятадемс</t><t pos="V">эрьхтемс</t></tg>
+<tg xml:lang="rus"><t pos="V">дернуть</t><t pos="V">рвануть</t><t pos="V">вздрогнуть</t><t pos="V">ударить</t></tg></mg> </e>
+  <e><lg><l pos="V">тостеемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тостиемс</t></tg>
+<tg xml:lang="rus"><t pos="V">толкать</t></tg></mg> </e>
+  <e><lg><l pos="V">тостядемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тостядемс</t><t pos="V">тутмадемс</t><t pos="V">толхмадемс</t></tg>
+<tg xml:lang="rus"><t pos="V">толкнуть; боднуть</t></tg></mg> </e>
+  <e><lg><l pos="V">тостядемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тостядемс</t><t pos="V">тутмадемс</t><t pos="V">толхмадемс</t></tg>
+<tg xml:lang="rus"><t pos="V">толкнуть; боднуть</t></tg></mg> </e>
+  <e><lg><l pos="V">тоцямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">шовамс</t></tg>
+<tg xml:lang="rus"><t pos="V">точить</t></tg></mg> </e>
+  <e><lg><l pos="V">тошналгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тошналгодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">заскучать</t><t pos="V">затосковать</t></tg></mg> </e>
+  <e><lg><l pos="V">травамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">травамс</t><t pos="V">кяжияфтомс</t><t pos="V">дразнямс</t></tg>
+<tg xml:lang="rus"><t pos="V">дразнить</t><t pos="V">подстрекать к нападению; изводить клеветой</t></tg></mg> </e>
+  <e><lg><l pos="V">тренькаемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тренькиемс</t><t pos="V">динькиемс</t></tg>
+<tg xml:lang="rus"><t pos="V">бренчать</t></tg></mg> </e>
+  <e><lg><l pos="V">трудямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">покамс</t><t pos="V">трудямс</t></tg>
+<tg xml:lang="rus"><t pos="V">работать</t><t pos="V">трудиться</t></tg></mg> </e>
+  <e><lg><l pos="V">трямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">трямс</t><t pos="V">трямс-касфтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">кормить</t><t pos="V">содержать</t><t pos="V">воспитывать</t></tg></mg> </e>
+  <e><lg><l pos="V">трямс-ваномс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">трямс-ваномс</t></tg>
+<tg xml:lang="rus"><t pos="V">воспитывать</t><t pos="V">содержать</t></tg></mg> </e>
+  <e><lg><l pos="V">туемс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to depart</t><t pos="V">to leave</t></tg>
+<tg xml:lang="mdf"><t pos="V">тумс</t></tg>
+<tg xml:lang="rus"><t pos="V">уйти</t><t pos="V">уехать</t><t pos="V">удалиться</t></tg></mg> </e>
+  <e><lg><l pos="V">тукномс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">шавомс</t><t pos="V">тотнамс</t></tg>
+<tg xml:lang="rus"><t pos="V">биться (о сердце, о пульсе)</t></tg></mg> </e>
+  <e><lg><l pos="V">тукшномс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тушендомс</t></tg>
+<tg xml:lang="rus"><t pos="V">уходить</t><t pos="V">уезжать</t><t pos="V">разъезжаться</t><t pos="V">расходиться</t></tg></mg> </e>
+  <e><lg><l pos="V">тулкадемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тулкадемс</t><t pos="V">тостядемс</t></tg>
+<tg xml:lang="rus"><t pos="V">толкнуть</t><t pos="V">вытолкнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">тулкаемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тостиемс</t><t pos="V">тулкиемс</t></tg>
+<tg xml:lang="rus"><t pos="V">толкать</t><t pos="V">выталкивать</t></tg></mg> </e>
+  <e><lg><l pos="V">тулодомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пякстамс тулоса</t><t pos="V">тулодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">закрыть</t><t pos="V">заткнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">тустомомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тустомомс</t></tg>
+<tg xml:lang="rus"><t pos="V">загустеть</t></tg></mg> </e>
+  <e><lg><l pos="V">тутмадемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тутмадемс</t><t pos="V">тостядемс</t></tg>
+<tg xml:lang="rus"><t pos="V">толкнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">тюнгольдемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тюнгольдемс</t><t pos="V">тюнгольгодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">презирать</t></tg></mg> </e>
+  <e><lg><l pos="V">тюремс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to fight</t></tg>
+<tg xml:lang="mdf"><t pos="V">тюремс</t></tg>
+<tg xml:lang="rus"><t pos="V">драться</t><t pos="V">бороться</t></tg></mg> </e>
+  <e><lg><l pos="V">тюрьгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">търгадомс</t></tg>
+<tg xml:lang="rus"><t pos="V">подраться</t></tg></mg> </e>
+  <e><lg><l pos="V">увноземс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">увназевомс</t></tg>
+<tg xml:lang="rus"><t pos="V">загудеть</t><t pos="V">завыть</t></tg></mg> </e>
+  <e><lg><l pos="V">увномс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">увнамс</t><t pos="V">унамс</t></tg>
+<tg xml:lang="rus"><t pos="V">гудеть</t><t pos="V">выть</t></tg></mg> </e>
+  <e><lg><l pos="V">увтнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">утнемс</t></tg>
+<tg xml:lang="rus"><t pos="V">перетягивать (о весе); пригибать (ветку)</t></tg></mg> </e>
+  <e><lg><l pos="V">увтямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">утямс</t></tg>
+<tg xml:lang="rus"><t pos="V">весить</t><t pos="V">тянуть; нагнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">угодямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">угадямс</t></tg>
+<tg xml:lang="rus"><t pos="V">угодить</t><t pos="V">оказаться</t></tg></mg> </e>
+  <e><lg><l pos="V">удаламс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">удаламс</t></tg>
+<tg xml:lang="rus"><t pos="V">удаться</t><t pos="V">удастся</t></tg></mg> </e>
+  <e><lg><l pos="V">удомс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to sleep</t></tg>
+<tg xml:lang="mdf"><t pos="V">удомс</t></tg>
+<tg xml:lang="rus"><t pos="V">спать</t></tg></mg> </e>
+  <e><lg><l pos="V">удсемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">утцемс</t></tg>
+<tg xml:lang="rus"><t pos="V">ночевать (многокр. от удомс спать) </t></tg></mg> </e>
+  <e><lg><l pos="V">уемс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to swim</t></tg>
+<tg xml:lang="mdf"><t pos="V">уемс</t></tg>
+<tg xml:lang="rus"><t pos="V">плыть</t></tg></mg> </e>
+  <e><lg><l pos="V">ужинамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ужнамс</t></tg>
+<tg xml:lang="rus"><t pos="V">ужинать</t></tg></mg> </e>
+  <e><lg><l pos="V">узавтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">възафтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">натравить (собаку); настроить враждебно</t></tg></mg> </e>
+  <e><lg><l pos="V">уйнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">уендемс</t></tg>
+<tg xml:lang="rus"><t pos="V">плавать</t></tg></mg> </e>
+  <e><lg><l pos="V">уксномс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to vomit</t></tg>
+<tg xml:lang="mdf"><t pos="V">уксондомс</t></tg>
+<tg xml:lang="rus"><t pos="V">рвать (о тошноте)</t><t pos="V">блевать</t></tg></mg> </e>
+  <e><lg><l pos="V">укстамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">охстамс</t><t pos="V">таргамс вайме</t></tg>
+<tg xml:lang="rus"><t pos="V">вздохнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">улемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">улемс</t></tg>
+<tg xml:lang="rus"><t pos="V">быть</t><t pos="V">являться</t></tg></mg> </e>
+  <e><lg><l pos="V">ульмамс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to angle</t><t pos="V">to fish</t></tg>
+<tg xml:lang="mdf"><t pos="V">ульмамс</t></tg>
+<tg xml:lang="rus"><t pos="V">удить</t></tg></mg> </e>
+  <e><lg><l pos="V">ульнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">улендемс</t></tg>
+<tg xml:lang="rus"><t pos="V">бывать</t></tg></mg> </e>
+  <e><lg><l pos="V">уракадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">урокодомс</t><t pos="V">уркодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">заплакать; завыть</t></tg></mg> </e>
+  <e><lg><l pos="V">урнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">урьнямс</t></tg>
+<tg xml:lang="rus"><t pos="V">причитать</t></tg></mg> </e>
+  <e><lg><l pos="V">урномс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to howl</t></tg>
+<tg xml:lang="mdf"><t pos="V">урокодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">выть</t><t pos="V">реветь</t></tg></mg> </e>
+  <e><lg><l pos="V">урозкадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">уроскодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">осиротеть</t></tg></mg> </e>
+  <e><lg><l pos="V">урьвакстомс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to get married (of a man)</t></tg>
+<tg xml:lang="mdf"><t pos="V">ърьвяямс</t></tg>
+<tg xml:lang="rus"><t pos="V">жениться</t></tg></mg> </e>
+  <e><lg><l pos="V">урядамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">урядамс</t></tg>
+<tg xml:lang="rus"><t pos="V">убирать</t><t pos="V">убрать</t></tg></mg> </e>
+  <e><lg><l pos="V">ускомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ускомс</t></tg>
+<tg xml:lang="rus"><t pos="V">везти</t><t pos="V">привезти; увезти</t></tg></mg> </e>
+  <e><lg><l pos="V">усксемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">усксемс</t></tg>
+<tg xml:lang="rus"><t pos="V">возить</t><t pos="V">привозить; отвозить</t></tg></mg> </e>
+  <e><lg><l pos="V">уставамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ушедомс</t></tg>
+<tg xml:lang="rus"><t pos="V">начать</t></tg></mg> </e>
+  <e><lg><l pos="V">учомс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to wait; to expect</t></tg>
+<tg xml:lang="mdf"><t pos="V">учемс</t></tg>
+<tg xml:lang="rus"><t pos="V">ждать</t><t pos="V">ожидать</t></tg></mg> </e>
+  <e><lg><l pos="V">ушодомс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to begin</t></tg>
+<tg xml:lang="mdf"><t pos="V">ушедомс</t></tg>
+<tg xml:lang="rus"><t pos="V">начать</t></tg></mg> </e>
+  <e><lg><l pos="V">уштомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">уштомс</t></tg>
+<tg xml:lang="rus"><t pos="V">топить</t><t pos="V">истопить (печь)</t></tg></mg> </e>
+  <e><lg><l pos="V">фатямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">фатямс</t></tg>
+<tg xml:lang="rus"><t pos="V">догадаться</t></tg></mg> </e>
+  <e><lg><l pos="V">хлопадемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">хлопадемс</t></tg>
+<tg xml:lang="rus"><t pos="V">хлопнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">хрюкадемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">хрюкадемс</t></tg>
+<tg xml:lang="rus"><t pos="V">хрюкнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">цападемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">цападемс</t><t pos="V">цопадемс</t></tg>
+<tg xml:lang="rus"><t pos="V">цапнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">цветямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">панжемс</t></tg>
+<tg xml:lang="rus"><t pos="V">цвести</t></tg></mg> </e>
+  <e><lg><l pos="V">целямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">целямс</t></tg>
+<tg xml:lang="rus"><t pos="V">целиться</t></tg></mg> </e>
+  <e><lg><l pos="V">цивтёлдомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">цифтордомс</t></tg>
+<tg xml:lang="rus"><t pos="V">блестеть</t><t pos="V">сверкать</t><t pos="V">мерцать</t></tg></mg> </e>
+  <e><lg><l pos="V">цивтёрдомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">цифтордомс</t></tg>
+<tg xml:lang="rus"><t pos="V">блестеть</t><t pos="V">сверкать</t><t pos="V">мерцать</t></tg></mg> </e>
+  <e><lg><l pos="V">цидярдомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">судардомс</t><t pos="V">кирдемс</t></tg>
+<tg xml:lang="rus"><t pos="V">выдержать</t><t pos="V">выстоять</t><t pos="V">удержаться</t></tg></mg> </e>
+  <e><lg><l pos="V">цийнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">цийнямс</t><t pos="V">цильнямс</t><t pos="V">циннямс</t><t pos="V">цифнямс</t></tg>
+<tg xml:lang="rus"><t pos="V">визжать</t><t pos="V">пищать</t></tg></mg> </e>
+  <e><lg><l pos="V">циледемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">циледемс</t><t pos="V">чильнямс</t></tg>
+<tg xml:lang="rus"><t pos="V">чирикать</t><t pos="V">щебетать</t></tg></mg> </e>
+  <e><lg><l pos="V">цирькадемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">цирькстамс</t><t pos="V">къркштадемс</t><t pos="V">чиркадемс</t></tg>
+<tg xml:lang="rus"><t pos="V">чиркнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">цитердемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">цифтордомс</t></tg>
+<tg xml:lang="rus"><t pos="V">блестеть</t><t pos="V">сверкать</t><t pos="V">мерцать</t></tg></mg> </e>
+  <e><lg><l pos="V">цитнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">цифтордомс</t></tg>
+<tg xml:lang="rus"><t pos="V">блестеть</t><t pos="V">сверкать</t></tg></mg> </e>
+  <e><lg><l pos="V">цяпадемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">цяподемс</t></tg>
+<tg xml:lang="rus"><t pos="V">ударить</t><t pos="V">стукнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">цяпамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">цяпамс</t></tg>
+<tg xml:lang="rus"><t pos="V">аплодировать</t></tg></mg> </e>
+  <e><lg><l pos="V">цяподемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">цяподемс</t></tg>
+<tg xml:lang="rus"><t pos="V">ударить</t><t pos="V">стукнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">цярадемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">торазевомс</t></tg>
+<tg xml:lang="rus"><t pos="V">грянуть (о громе)</t></tg></mg> </e>
+  <e><lg><l pos="V">цярномс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">торамс</t></tg>
+<tg xml:lang="rus"><t pos="V">греметь</t></tg></mg> </e>
+  <e><lg><l pos="V">цятадемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">цятадемс</t></tg>
+<tg xml:lang="rus"><t pos="V">ударить</t><t pos="V">разбить</t></tg></mg> </e>
+  <e><lg><l pos="V">цятордомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">цятордомс</t></tg>
+<tg xml:lang="rus"><t pos="V">трещать</t><t pos="V">хрустеть</t></tg></mg> </e>
+  <e><lg><l pos="V">цяхамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">цяфамс</t></tg>
+<tg xml:lang="rus"><t pos="V">ржать</t></tg></mg> </e>
+  <e><lg><l pos="V">цёкордомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">цёкордомс</t><t pos="V">цёфнамс</t></tg>
+<tg xml:lang="rus"><t pos="V">петь (о соловье)</t><t pos="V">заливаться соловьём</t></tg></mg> </e>
+  <e><lg><l pos="V">цётамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лувомс</t></tg>
+<tg xml:lang="rus"><t pos="V">считать</t><t pos="V">сосчитать</t></tg></mg> </e>
+  <e><lg><l pos="V">чавомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">шавомс</t></tg>
+<tg xml:lang="rus"><t pos="V">убить; бить</t><t pos="V">забить; биться (о сердце)</t></tg></mg> </e>
+  <e><lg><l pos="V">чадомс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to flood</t></tg>
+<tg xml:lang="mdf"><t pos="V">шадомс</t></tg>
+<tg xml:lang="rus"><t pos="V">уйти через край (при кипении)</t></tg></mg> </e>
+  <e><lg><l pos="V">чакамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">чакамс</t></tg>
+<tg xml:lang="rus"><t pos="V">стучать</t></tg></mg> </e>
+  <e><lg><l pos="V">чалгамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">шятямс</t></tg>
+<tg xml:lang="rus"><t pos="V">наступить (ногой)</t></tg></mg> </e>
+  <e><lg><l pos="V">чамдомс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to empty</t></tg>
+<tg xml:lang="mdf"><t pos="V">шамдомс</t></tg>
+<tg xml:lang="rus"><t pos="V">опорожнить</t><t pos="V">выгрузить</t></tg></mg> </e>
+  <e><lg><l pos="V">чамордомс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to limp</t></tg>
+<tg xml:lang="mdf"><t pos="V">шамордомс</t></tg>
+<tg xml:lang="rus"><t pos="V">хромать</t><t pos="V">ковылять</t></tg></mg> </e>
+  <e><lg><l pos="V">чапавтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">шапафтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">квасить</t><t pos="V">заквасить</t></tg></mg> </e>
+  <e><lg><l pos="V">чапаськадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">шапамомс</t></tg>
+<tg xml:lang="rus"><t pos="V">прокиснуть</t></tg></mg> </e>
+  <e><lg><l pos="V">чапомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">шапомс</t></tg>
+<tg xml:lang="rus"><t pos="V">рубить (сруб)</t></tg></mg> </e>
+  <e><lg><l pos="V">чаравтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">шарфтомс</t><t pos="V">шарфнемс</t></tg>
+<tg xml:lang="rus"><t pos="V">вертеть</t><t pos="V">крутить</t></tg></mg> </e>
+  <e><lg><l pos="V">чаракадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">шаракодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">закружиться</t></tg></mg> </e>
+  <e><lg><l pos="V">чарамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">шаромс</t></tg>
+<tg xml:lang="rus"><t pos="V">вертеться</t><t pos="V">кружиться</t></tg></mg> </e>
+  <e><lg><l pos="V">чарамс-велямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">шарондомс</t><t pos="V">шаромс-велямс</t></tg>
+<tg xml:lang="rus"><t pos="V">крутиться</t><t pos="V">вертеться</t><t pos="V">кружиться</t></tg></mg> </e>
+  <e><lg><l pos="V">чарькодемс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to understand</t></tg>
+<tg xml:lang="mdf"><t pos="V">шарьхкодемс</t></tg>
+<tg xml:lang="rus"><t pos="V">понять</t><t pos="V">понимать</t></tg></mg> </e>
+  <e><lg><l pos="V">чатьмонемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">аф корхтамс</t></tg>
+<tg xml:lang="rus"><t pos="V">молчать</t></tg></mg> </e>
+  <e><lg><l pos="V">чачомс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to be born</t></tg>
+<tg xml:lang="mdf"><t pos="V">шачемс</t></tg>
+<tg xml:lang="rus"><t pos="V">родиться</t></tg></mg> </e>
+  <e><lg><l pos="V">чачтомс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to give birth</t></tg>
+<tg xml:lang="mdf"><t pos="V">шачфтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">родить (о женщине)</t></tg></mg> </e>
+  <e><lg><l pos="V">чевелямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">шяфтелгофтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">мять</t><t pos="V">жевать</t></tg></mg> </e>
+  <e><lg><l pos="V">чевтемемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ляпомомс</t><t pos="V">шяпоптемс</t></tg>
+<tg xml:lang="rus"><t pos="V">смягчиться</t></tg></mg> </e>
+  <e><lg><l pos="V">чекамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">озондомс</t></tg>
+<tg xml:lang="rus"><t pos="V">молиться</t></tg></mg> </e>
+  <e><lg><l pos="V">чемердемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">лочамс</t></tg>
+<tg xml:lang="rus"><t pos="V">шелушить</t><t pos="V">лущить</t></tg></mg> </e>
+  <e><lg><l pos="V">чемердемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">муськомс</t><t pos="V">шимордемс</t></tg>
+<tg xml:lang="rus"><t pos="V">усиленно стирать</t></tg></mg> </e>
+  <e><lg><l pos="V">ченгемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">шяемс</t></tg>
+<tg xml:lang="rus"><t pos="V">обуглиться</t><t pos="V">сгореть</t></tg></mg> </e>
+  <e><lg><l pos="V">ченярдомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">коцамс</t></tg>
+<tg xml:lang="rus"><t pos="V">тлеть</t></tg></mg> </e>
+  <e><lg><l pos="V">черькстамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">таргамс китькс</t><t pos="V">чертамс</t></tg>
+<tg xml:lang="rus"><t pos="V">провести черту</t></tg></mg> </e>
+  <e><lg><l pos="V">чиемс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to run</t></tg>
+<tg xml:lang="mdf"><t pos="V">ласькомс</t></tg>
+<tg xml:lang="rus"><t pos="V">бежать</t></tg></mg> </e>
+  <e><lg><l pos="V">чийнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ласькондемс</t></tg>
+<tg xml:lang="rus"><t pos="V">бегать</t></tg></mg> </e>
+  <e><lg><l pos="V">чикоргадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">чикоргодомс</t><t pos="V">читоргодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">заскрипеть</t><t pos="V">затрещать</t></tg></mg> </e>
+  <e><lg><l pos="V">чикордомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">чакордомс</t><t pos="V">чикордомс</t><t pos="V">читордомс</t></tg>
+<tg xml:lang="rus"><t pos="V">скрипеть</t><t pos="V">скрежетать</t><t pos="V">хрустеть</t></tg></mg> </e>
+  <e><lg><l pos="V">чиремемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ширемомс</t></tg>
+<tg xml:lang="rus"><t pos="V">покривиться</t><t pos="V">покоситься</t></tg></mg> </e>
+  <e><lg><l pos="V">чиямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кудаламс</t></tg>
+<tg xml:lang="rus"><t pos="V">сватать</t><t pos="V">свататься</t></tg></mg> </e>
+  <e><lg><l pos="V">човамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">шовамс</t></tg>
+<tg xml:lang="rus"><t pos="V">точить; тереть</t><t pos="V">потереть</t></tg></mg> </e>
+  <e><lg><l pos="V">човордамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">шовордамс</t></tg>
+<tg xml:lang="rus"><t pos="V">смешать</t><t pos="V">перемешать</t></tg></mg> </e>
+  <e><lg><l pos="V">човсемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">шовсемс</t></tg>
+<tg xml:lang="rus"><t pos="V">подтачивать</t><t pos="V">натирать</t></tg></mg> </e>
+  <e><lg><l pos="V">чоледемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">чильнямс</t></tg>
+<tg xml:lang="rus"><t pos="V">щебетать</t></tg></mg> </e>
+  <e><lg><l pos="V">чоледемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кайгомс</t><t pos="V">циннямс</t></tg>
+<tg xml:lang="rus"><t pos="V">звенеть</t></tg></mg> </e>
+  <e><lg><l pos="V">чольнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">жольнямс</t><t pos="V">горнямс</t></tg>
+<tg xml:lang="rus"><t pos="V">журчать</t></tg></mg> </e>
+  <e><lg><l pos="V">чопавтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">чёпафтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">нырнуть</t><t pos="V">окунуть</t><t pos="V">окунуться</t></tg></mg> </e>
+  <e><lg><l pos="V">чополгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">шобдалгодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">стемнеть</t><t pos="V">потемнеть</t></tg></mg> </e>
+  <e><lg><l pos="V">чочамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">пункстамс</t><t pos="V">шочамс</t></tg>
+<tg xml:lang="rus"><t pos="V">застегнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">чувомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">шувомс</t></tg>
+<tg xml:lang="rus"><t pos="V">копать</t><t pos="V">рыть</t></tg></mg> </e>
+  <e><lg><l pos="V">чувтомомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">шуфтомомс</t></tg>
+<tg xml:lang="rus"><t pos="V">одеревенеть</t><t pos="V">оцепенеть</t></tg></mg> </e>
+  <e><lg><l pos="V">чудемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">шудемс</t></tg>
+<tg xml:lang="rus"><t pos="V">течь</t><t pos="V">литься</t></tg></mg> </e>
+  <e><lg><l pos="V">чукадемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">шукадемс</t></tg>
+<tg xml:lang="rus"><t pos="V">встряхнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">чукамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">шукамс</t></tg>
+<tg xml:lang="rus"><t pos="V">трясти</t><t pos="V">выколотить; толочь</t><t pos="V">истолочь</t></tg></mg> </e>
+  <e><lg><l pos="V">чулгомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">шулгомс</t></tg>
+<tg xml:lang="rus"><t pos="V">расколоть</t><t pos="V">вынуть из скорлупы (орех, яйцо и т.д.)</t></tg></mg> </e>
+  <e><lg><l pos="V">чулксемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">шулгондомс</t></tg>
+<tg xml:lang="rus"><t pos="V">колоть</t><t pos="V">грызть (орехи и т.п.)</t></tg></mg> </e>
+  <e><lg><l pos="V">чумондомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">муворгофтомс</t><t pos="V">шумондамс</t></tg>
+<tg xml:lang="rus"><t pos="V">винить</t><t pos="V">обвинять</t><t pos="V">обвинить</t></tg></mg> </e>
+  <e><lg><l pos="V">чуролгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">шурокстомомс</t></tg>
+<tg xml:lang="rus"><t pos="V">поредеть</t></tg></mg> </e>
+  <e><lg><l pos="V">шалакадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">жалакодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">зашуметь</t><t pos="V">загалдеть</t></tg></mg> </e>
+  <e><lg><l pos="V">шалномс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">жалнамс</t></tg>
+<tg xml:lang="rus"><t pos="V">шуметь</t><t pos="V">галдеть</t></tg></mg> </e>
+  <e><lg><l pos="V">шаштомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">шаштомс</t></tg>
+<tg xml:lang="rus"><t pos="V">двигаться; пододвинуть</t><t pos="V">отодвинуть</t><t pos="V">отодвинуться</t></tg></mg> </e>
+  <e><lg><l pos="V">шержиямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">шаржиямс</t></tg>
+<tg xml:lang="rus"><t pos="V">седеть</t><t pos="V">поседеть</t></tg></mg> </e>
+  <e><lg><l pos="V">шкамс-трямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">шкамс-трямс</t></tg>
+<tg xml:lang="rus"><t pos="V">воспитывать</t></tg></mg> </e>
+  <e><lg><l pos="V">шлямс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to wash</t></tg>
+<tg xml:lang="mdf"><t pos="V">штамс</t></tg>
+<tg xml:lang="rus"><t pos="V">мыть</t></tg></mg> </e>
+  <e>
+    <lg>
+      <l pos="V">шлямс-нардамс</l>
+    </lg>
+    <mg>
+<tg xml:lang="mdf"><t pos="V">штамс-нардамс</t></tg>
+<tg xml:lang="rus"><t pos="V">мыть</t><t pos="V">помыть</t><t pos="V">мыться</t><t pos="V">помыться; убрать</t><t pos="V">привести в порядок</t></tg></mg>
+  </e>
+  <e><lg><l pos="V">шнамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">шнамс</t></tg>
+<tg xml:lang="rus"><t pos="V">хвалить</t><t pos="V">одобрить</t></tg></mg> </e>
+  <e><lg><l pos="V">шождалгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">тёждялгодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">сделаться легким</t></tg></mg> </e>
+  <e><lg><l pos="V">шольнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">жольнямс</t></tg>
+<tg xml:lang="rus"><t pos="V">шуметь (о воде)</t><t pos="V">журчать</t></tg></mg> </e>
+  <e><lg><l pos="V">штавтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">штафтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">обнажить</t><t pos="V">раскрыть</t></tg></mg> </e>
+  <e><lg><l pos="V">штапськадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">штадомс</t><t pos="V">галошкодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">оголиться</t></tg></mg> </e>
+  <e><lg><l pos="V">штапшкадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">штадомс</t><t pos="V">галошкодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">оголиться</t></tg></mg> </e>
+  <e><lg><l pos="V">штатомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">штадомс</t></tg>
+<tg xml:lang="rus"><t pos="V">обнажиться</t><t pos="V">раскрыться</t></tg></mg> </e>
+  <e><lg><l pos="V">штердемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">кштирдемс</t></tg>
+<tg xml:lang="rus"><t pos="V">прясть</t></tg></mg> </e>
+  <e><lg><l pos="V">штюпадемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">щупадемс</t></tg>
+<tg xml:lang="rus"><t pos="V">тронуть</t><t pos="V">прикоснуться</t></tg></mg> </e>
+  <e><lg><l pos="V">штюпамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">щупамс</t></tg>
+<tg xml:lang="rus"><t pos="V">трогать</t><t pos="V">щупать</t></tg></mg> </e>
+  <e><lg><l pos="V">шумбракстомс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to greet</t></tg>
+<tg xml:lang="mdf"><t pos="V">шумбракстомс</t></tg>
+<tg xml:lang="rus"><t pos="V">поздороваться</t></tg></mg> </e>
+  <e><lg><l pos="V">шумбралгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">шумбралгодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">выздороветь</t><t pos="V">поздороветь</t></tg></mg> </e>
+  <e><lg><l pos="V">эвкстамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">эфкстамс</t><t pos="V">навамс</t><t pos="V">тонгомс</t><t pos="V">эцемс</t></tg>
+<tg xml:lang="rus"><t pos="V">сунуть</t></tg></mg> </e>
+  <e><lg><l pos="V">эендамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">эендамс</t></tg>
+<tg xml:lang="rus"><t pos="V">обледенеть</t><t pos="V">сильно замерзнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">эендямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">эендамс</t></tg>
+<tg xml:lang="rus"><t pos="V">обледенеть</t><t pos="V">сильно замерзнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">эждемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">эждемс</t></tg>
+<tg xml:lang="rus"><t pos="V">греть</t><t pos="V">нагреть</t><t pos="V">согреть</t></tg></mg> </e>
+  <e><lg><l pos="V">эжемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">эжемс</t></tg>
+<tg xml:lang="rus"><t pos="V">греться</t><t pos="V">согреться</t><t pos="V">нагреться</t></tg></mg> </e>
+  <e><lg><l pos="V">эзь</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">эзь</t><t pos="V">изь</t></tg>
+<tg xml:lang="rus"><t pos="V">не</t></tg></mg> </e>
+  <e><lg><l pos="V">экшелгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">эшендямс</t></tg>
+<tg xml:lang="rus"><t pos="V">похолодать</t></tg></mg> </e>
+  <e><lg><l pos="V">экшелямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">эшелямс</t></tg>
+<tg xml:lang="rus"><t pos="V">купать</t><t pos="V">купаться</t></tg></mg> </e>
+  <e><lg><l pos="V">экшендемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">эшендямс</t></tg>
+<tg xml:lang="rus"><t pos="V">похолодать</t></tg></mg> </e>
+  <e><lg><l pos="V">экшендемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">эшендемс</t></tg>
+<tg xml:lang="rus"><t pos="V">освежиться</t><t pos="V">охладиться</t><t pos="V">остыть</t><t pos="V">проветриться</t></tg></mg> </e>
+  <e><lg><l pos="V">экшендямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">эшендемс</t></tg>
+<tg xml:lang="rus"><t pos="V">освежиться</t><t pos="V">охладиться</t><t pos="V">остыть</t><t pos="V">проветриться</t></tg></mg> </e>
+  <e><lg><l pos="V">энялгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">эняльгодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">взмолиться</t></tg></mg> </e>
+  <e><lg><l pos="V">энялдомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">эняльдемс</t></tg>
+<tg xml:lang="rus"><t pos="V">просить</t><t pos="V">умолять</t></tg></mg> </e>
+  <e><lg><l pos="V">эрсемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">эрсемс</t></tg>
+<tg xml:lang="rus"><t pos="V">поживать</t><t pos="V">бывать</t></tg></mg> </e>
+  <e><lg><l pos="V">эртемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">эрьхтемс</t></tg>
+<tg xml:lang="rus"><t pos="V">ударить</t><t pos="V">толкнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">эряви</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">эряви</t></tg>
+<tg xml:lang="rus"><t pos="V">надо</t><t pos="V">нужно</t><t pos="V">необходимо</t></tg></mg> </e>
+  <e><lg><l pos="V">эрявомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">эрявомс</t></tg>
+<tg xml:lang="rus"><t pos="V">быть нужным</t></tg></mg> </e>
+  <e><lg><l pos="V">эрязкадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">эряскодомс</t><t pos="V">кенордамс</t></tg>
+<tg xml:lang="rus"><t pos="V">спешить</t></tg></mg> </e>
+  <e><lg><l pos="V">эрямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">эрямс</t></tg>
+<tg xml:lang="rus"><t pos="V">жить</t></tg></mg> </e>
+  <e><lg><l pos="V">эскельдямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">аськолдамс</t></tg>
+<tg xml:lang="rus"><t pos="V">шагнуть</t><t pos="V">перешагнуть</t><t pos="V">идти</t></tg></mg> </e>
+  <e><lg><l pos="V">эскелямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">аськолямс</t></tg>
+<tg xml:lang="rus"><t pos="V">шагать</t></tg></mg> </e>
+  <e><lg><l pos="V">эцемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">эцемс</t></tg>
+<tg xml:lang="rus"><t pos="V">залезть</t><t pos="V">наступать</t><t pos="V">набить</t><t pos="V">забраться</t><t pos="V">вмешаться</t></tg></mg> </e>
+  <e><lg><l pos="V">эчкемемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">эчкомомс</t></tg>
+<tg xml:lang="rus"><t pos="V">толстеть</t><t pos="V">потолстеть</t></tg></mg> </e>
+  <e><lg><l pos="V">эшкемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">вачкодемс</t><t pos="V">цяподемс</t><t pos="V">ишколдамс</t></tg>
+<tg xml:lang="rus"><t pos="V">стукнуть</t><t pos="V">ударить</t></tg></mg> </e>
+  <e><lg><l pos="V">эшксемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">вачкиемс</t><t pos="V">цяпиемс</t><t pos="V">эрьхнемс</t><t pos="V">ишколямс</t></tg>
+<tg xml:lang="rus"><t pos="V">ударять</t></tg></mg> </e>
+  <e><lg><l pos="V">ювномс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">юрнамс</t><t pos="V">либордемс</t><t pos="V">шаромс</t><t pos="V">нулхтыемс</t></tg>
+<tg xml:lang="rus"><t pos="V">реять</t><t pos="V">веять</t><t pos="V">развеваться (о знамени); крутиться</t><t pos="V">вертеться; мотаться</t><t pos="V">болтаться (о чем-то свесившемся)</t></tg></mg> </e>
+  <e><lg><l pos="V">юводемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">понжафтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">отсеивать</t><t pos="V">веять (отделятьость, мякину от зерна)</t></tg></mg> </e>
+  <e><lg><l pos="V">юксемс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to untie</t></tg>
+<tg xml:lang="mdf"><t pos="V">юксомс</t></tg>
+<tg xml:lang="rus"><t pos="V">развязать</t><t pos="V">расстегнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">юкснемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">юкссемс</t><t pos="V">юксондомс</t></tg>
+<tg xml:lang="rus"><t pos="V">разуться; развязывать</t><t pos="V">расстегивать</t></tg></mg> </e>
+  <e><lg><l pos="V">юрномс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">шаромс</t></tg>
+<tg xml:lang="rus"><t pos="V">вертеться</t><t pos="V">кружиться</t><t pos="V">крутиться</t></tg></mg> </e>
+  <e><lg><l pos="V">ютавтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ётафтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">израсходовать</t><t pos="V">переправить (через что-л.); перевести с одного языка на другой</t></tg></mg> </e>
+  <e><lg><l pos="V">ютакшномс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ётнемс</t></tg>
+<tg xml:lang="rus"><t pos="V">переходить</t><t pos="V">переправляться</t></tg></mg> </e>
+  <e><lg><l pos="V">ютамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ётамс</t></tg>
+<tg xml:lang="rus"><t pos="V">пройти</t><t pos="V">переправиться</t></tg></mg> </e>
+  <e><lg><l pos="V">ютнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ётнемс</t></tg>
+<tg xml:lang="rus"><t pos="V">проходить</t><t pos="V">переправляться</t></tg></mg> </e>
+  <e><lg><l pos="V">юхадемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">яфодемс</t></tg>
+<tg xml:lang="rus"><t pos="V">махнуть (рукой); выбросить</t><t pos="V">отбросить</t><t pos="V">смахнуть; прыгнуть</t><t pos="V">перепрыгнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">юхаемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">яфиемс</t></tg>
+<tg xml:lang="rus"><t pos="V">махать (рукой); выбрасывать</t><t pos="V">отбрасывать</t><t pos="V">быстро ходить туда-сюда; прыгать</t></tg></mg> </e>
+  <e><lg><l pos="V">явавтомс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to bring to an even heat; to quench (one's thirst)</t></tg>
+<tg xml:lang="mdf"><t pos="V">явафтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">истопить; утолить (жажду)</t></tg></mg> </e>
+  <e><lg><l pos="V">явамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">явамс</t></tg>
+<tg xml:lang="rus"><t pos="V">истопиться; утолиться (о жажде)</t></tg></mg> </e>
+  <e><lg><l pos="V">явномс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">явондомс</t></tg>
+<tg xml:lang="rus"><t pos="V">раздавать</t><t pos="V">раздать</t><t pos="V">делить</t><t pos="V">разделить </t></tg></mg> </e>
+  <e><lg><l pos="V">яволявтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">азомс латта</t></tg>
+<tg xml:lang="rus"><t pos="V">сообщить</t><t pos="V">заявить</t><t pos="V">объявить</t></tg></mg> </e>
+  <e><lg><l pos="V">явомс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to split</t></tg>
+<tg xml:lang="mdf"><t pos="V">явомс</t></tg>
+<tg xml:lang="rus"><t pos="V">выделить</t><t pos="V">делить</t><t pos="V">отделить; развестись</t></tg></mg> </e>
+  <e><lg><l pos="V">явшемс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to distribute</t></tg>
+<tg xml:lang="mdf"><t pos="V">явондомс</t></tg>
+<tg xml:lang="rus"><t pos="V">раздать</t><t pos="V">разделить</t><t pos="V">распределить</t></tg></mg> </e>
+  <e><lg><l pos="V">яжавтомс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to grind</t></tg>
+<tg xml:lang="mdf"><t pos="V">яжафтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">молоть</t><t pos="V">смолоть; заставить разрушить</t><t pos="V">разломать</t></tg></mg> </e>
+  <e><lg><l pos="V">яжамс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">to crush</t></tg>
+<tg xml:lang="mdf"><t pos="V">яжамс</t></tg>
+<tg xml:lang="rus"><t pos="V">ломать</t><t pos="V">сломать; помолоть</t><t pos="V">размолоть</t></tg></mg> </e>
+  <e><lg><l pos="V">якавтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">якафтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">привести в состояние брожения; водить</t></tg></mg> </e>
+  <e><lg><l pos="V">якамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">якамс</t></tg>
+<tg xml:lang="rus"><t pos="V">ходить; бродить (о вине и т.п.)</t></tg></mg> </e>
+  <e><lg><l pos="V">якстерьгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">якстерьгодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">покраснеть</t></tg></mg> </e>
+  <e><lg><l pos="V">янгамс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">break</t></tg>
+<tg xml:lang="mdf"><t pos="V">тапамс</t></tg>
+<tg xml:lang="rus"><t pos="V">разрушить</t><t pos="V">помять</t><t pos="V">разбить</t></tg></mg> </e>
+  <e><lg><l pos="V">ярсамс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">eat</t></tg>
+<tg xml:lang="mdf"><t pos="V">ярхцамс</t></tg>
+<tg xml:lang="rus"><t pos="V">есть</t><t pos="V">поесть</t></tg></mg> </e>
+  <e><lg><l pos="V">ярсамс-симемс</l></lg><mg>
+<tg xml:lang="eng"><t pos="V">eat and drink</t></tg>
+<tg xml:lang="mdf"><t pos="V">ярхцамс-симомс</t></tg>
+<tg xml:lang="rus"><t pos="V">есть-пить</t><t pos="V">пировать</t></tg></mg> </e>
+  <e><lg><l pos="V">яходемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">яфодемс</t></tg>
+<tg xml:lang="rus"><t pos="V">махнуть</t><t pos="V">размахнуться</t></tg></mg> </e>
+  <e><lg><l pos="V">яхолемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">яфиемс</t></tg>
+<tg xml:lang="rus"><t pos="V">махать</t><t pos="V">размахивать</t></tg></mg> </e>
+  <e><lg><l pos="V">ёвкстамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">эфкстамс</t></tg>
+<tg xml:lang="rus"><t pos="V">сунуть</t><t pos="V">воткнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">ёвтамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">азомс</t><t pos="V">ёфтамс</t></tg>
+<tg xml:lang="rus"><t pos="V">сказать</t></tg></mg> </e>
+  <e><lg><l pos="V">ёвтнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">азондомс</t></tg>
+<tg xml:lang="rus"><t pos="V">рассказывать</t></tg></mg> </e>
+  <e><lg><l pos="V">ёжиямс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ёжиямс</t></tg>
+<tg xml:lang="rus"><t pos="V">прийти в сознание; стать смышлённым</t><t pos="V">сообразительным</t></tg></mg> </e>
+  <e><lg><l pos="V">ёжовгадомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ёжиямс</t><t pos="V">ёжелгодомс</t></tg>
+<tg xml:lang="rus"><t pos="V">сделаться хитрым</t></tg></mg> </e>
+  <e><lg><l pos="V">ёзамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">шовамс</t></tg>
+<tg xml:lang="rus"><t pos="V">тереть</t><t pos="V">потереть</t></tg></mg> </e>
+  <e><lg><l pos="V">ёзмолдомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ёзмолдомс</t><t pos="V">мянцевомс</t></tg>
+<tg xml:lang="rus"><t pos="V">извиваться</t></tg></mg> </e>
+  <e><lg><l pos="V">ёкномс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ёкнамс</t></tg>
+<tg xml:lang="rus"><t pos="V">биться неровно (о сердце)</t></tg></mg> </e>
+  <e><lg><l pos="V">ёколдомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ёколдомс</t><t pos="V">кокольдемс</t></tg>
+<tg xml:lang="rus"><t pos="V">ковылять</t><t pos="V">прихрамывать</t></tg></mg> </e>
+  <e><lg><l pos="V">ёмавтомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">юмафтомс</t></tg>
+<tg xml:lang="rus"><t pos="V">потерять</t></tg></mg> </e>
+  <e><lg><l pos="V">ёмамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">юмамс</t></tg>
+<tg xml:lang="rus"><t pos="V">пропасть</t><t pos="V">исчезнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">ёмамс-арамс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">юмамс-арамс</t></tg>
+<tg xml:lang="rus"><t pos="V">погибнуть; исчезнуть</t></tg></mg> </e>
+  <e><lg><l pos="V">ёмсемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">юмсемс</t></tg>
+<tg xml:lang="rus"><t pos="V">пропадать</t></tg></mg> </e>
+  <e><lg><l pos="V">ёрвалдомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">оргалдомс</t></tg>
+<tg xml:lang="rus"><t pos="V">полоскать</t><t pos="V">прополаскать</t></tg></mg> </e>
+  <e><lg><l pos="V">ёрвалемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">оргалямс</t></tg>
+<tg xml:lang="rus"><t pos="V">пропаласкивать</t></tg></mg> </e>
+  <e><lg><l pos="V">ёртнемс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ёрямс</t></tg>
+<tg xml:lang="rus"><t pos="V">бросать</t></tg></mg> </e>
+  <e><lg><l pos="V">ёртомс</l></lg><mg>
+<tg xml:lang="mdf"><t pos="V">ёрдамс</t></tg>
+<tg xml:lang="rus"><t pos="V">бросить</t><t pos="V">кинуть</t></tg></mg> </e>
+</r>
