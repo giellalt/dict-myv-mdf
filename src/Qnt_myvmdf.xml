@@ -1,0 +1,898 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xsi:noNamespaceSchemaLocation="../../../../gtcore/schemas/fiu-dict-schema.xsd"
+   xml:lang="myv" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+  <e>
+    <lg>
+      <l pos="Num">ведьгемень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Num">ведьгемонь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Num">пятьдесят</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">вейке</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Num">фкя</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Num">один</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">вейкень-вейкень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      
+
+      <tg xml:lang="mdf">
+        <t pos="Num">тифтень-тифтень</t>
+      </tg>
+
+       
+
+      <tg xml:lang="rus">
+        <t pos="Num">по одному</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">вейксэ</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      
+
+      <tg xml:lang="mdf">
+        <t pos="Num">вейхкса</t>
+      </tg>
+
+       
+
+      <tg xml:lang="rus">
+        <t pos="Num">девять</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">вейксэньгемень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      
+
+      <tg xml:lang="mdf">
+        <t pos="Num">вейхксоньгемонь</t>
+      </tg>
+
+       
+
+      <tg xml:lang="rus">
+        <t pos="Num">девяносто</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">вейксэце</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      
+
+      <tg xml:lang="mdf">
+        <t pos="Num">вейхксоце</t>
+      </tg>
+
+       
+
+      <tg xml:lang="rus">
+        <t pos="Num">девятый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">вете</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Num">вете</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Num">пять</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">кавксо</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      
+
+      <tg xml:lang="mdf">
+        <t pos="Num">кафкса</t>
+      </tg>
+
+       
+
+      <tg xml:lang="rus">
+        <t pos="Num">восемь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">кавксоньгемень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      
+
+      <tg xml:lang="mdf">
+        <t pos="Num">кафксогемонь</t>
+      </tg>
+
+       
+
+      <tg xml:lang="rus">
+        <t pos="Num">восемьдесять</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">кавксоце</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      
+
+      <tg xml:lang="mdf">
+        <t pos="Num">кафксоце</t>
+      </tg>
+
+       
+
+      <tg xml:lang="rus">
+        <t pos="Num">восьмой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">кавксть</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      
+
+      <tg xml:lang="mdf">
+        <t pos="Num">кафксть</t>
+      </tg>
+
+       
+
+      <tg xml:lang="rus">
+        <t pos="Num">дважды</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">кавонькирда</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      
+
+      <tg xml:lang="mdf">
+        <t pos="Num">кафтонькърда</t>
+      </tg>
+
+       
+
+      <tg xml:lang="rus">
+        <t pos="Num">дважды</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">кавто</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      
+
+      <tg xml:lang="mdf">
+        <t pos="Num">кафта</t>
+      </tg>
+
+       
+
+      <tg xml:lang="rus">
+        <t pos="Num">два</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">кавто-колмо</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Num">кафта-колма</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Num">два-три</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">кевейкее</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Num">кефкие</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Num">одиннадцать</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">кевейксэе</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Num">кевейхксые</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Num">девятнадцать</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">кеветее</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Num">кеветие</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Num">пятнадцать</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">кемгавксово</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Num">кемгафксува</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Num">восемнадцать</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">кемгавтово</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Num">кемгафтува</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Num">двенадцать</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">кемголмово</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Num">кемголмува</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Num">тринадцать</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">кемготово</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Num">кемготува</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Num">шестнадцать</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">кеменце</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Num">кемонце</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Num">десятый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">кемень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Num">кемонь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Num">десять</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">кемзисемге</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Num">кемзисемге</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Num">семнадцать</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">кемнилее</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Num">кемнилие</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Num">четырнадцать</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">кемнилееце</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Num">кемнилиеце</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Num">четырнадцатый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">кодгемень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Num">кодгемонь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Num">шестьдесят</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">колмо</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Num">колма</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Num">три</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">колмосядт</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Num">колма сятт</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Num">триста</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">колоньгемень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Num">колмогемонь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Num">тридцать</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">комсь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Num">комсь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Num">двадцать</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">кото</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Num">кота</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Num">шесть</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">миллион</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Num">миллион</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Num">миллион</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">ниле</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Num">ниле</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Num">четыре</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">ниленьгемень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Num">нильгемонь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Num">сорок</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">сизьгемень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="Num">seventy</t>
+      </tg>
+
+      <tg xml:lang="mdf">
+        <t pos="Num">сизьгемонь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Num">семьдесят</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">сисем</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="Num">seven</t>
+      </tg>
+
+      <tg xml:lang="mdf">
+        <t pos="Num">сисем</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Num">семь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">сисемеце</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="Num">seventh</t>
+      </tg>
+
+      <tg xml:lang="mdf">
+        <t pos="Num">сисемце</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Num">седьмой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">сядо</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Num">сяда</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Num">сто</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">весе</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Qnt">сембе</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Qnt">все</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">ламо</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Qnt">лама</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Qnt">много</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Qnt">пель</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Qnt">пяле</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Qnt">половина</t>
+      </tg>
+    </mg>
+  </e>
+</r>

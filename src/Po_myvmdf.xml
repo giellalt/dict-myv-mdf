@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xsi:noNamespaceSchemaLocation="../../../../gtcore/schemas/fiu-dict-schema.xsd"
+   xml:lang="myv" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+  <e>
+    <lg>
+      <l pos="Po">вакска</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Po">вакска</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Po">мимо</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">ваксс</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Po">ваксс</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Po">рядом (подойти, стать)</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">вакссо</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Po">ваксса</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Po">около</t>
+
+        <t pos="Po">рядом (находиться)</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">вакссто</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Po">ваксста</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Po">от</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">вельде</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Po">вельде</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Po">через</t>
+
+        <t pos="Po">посредством</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">велькска</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Po">вельхкска</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Po">над</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">видьс</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Po">видес</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Po">до</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">кондямо</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Po">кодяма</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Po">похожий на&amp;</t>
+
+        <t pos="Po">наподобие</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">лангсо</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Po">лангса</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Po">на поверхности</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">лангсто</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Po">лангста</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Po">с поверхности</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">марто</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Po">мархта</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Po">с</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">нучк</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Po">нучк</t>
+
+        <t pos="Po">туркс</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Po">поперек</t>
+
+        <t pos="Po">через; пополам</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">пачк</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Po">пачк</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Po">сквозь</t>
+
+        <t pos="Po">насквозь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">перть</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Po">перьф</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Po">кругом</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">эзга</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Po">эзга</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Po">по</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">юткова</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Po">ёткова</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Po">между</t>
+
+        <t pos="Po">среди (проходить)</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">ютксо</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Po">ёткса</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Po">между (находиться)</t>
+      </tg>
+    </mg>
+  </e>
+</r>

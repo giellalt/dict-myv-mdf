@@ -1,0 +1,7660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xsi:noNamespaceSchemaLocation="../../../../gtcore/schemas/fiu-dict-schema.xsd"
+   xml:lang="myv" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+  <e>
+    <lg>
+      <l pos="A">шожда прев</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Adv">тёждя пря</t>
+
+        <t pos="Adv">шары пря</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Adv">легкомысленный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">шожда пря</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Adv">тёждя пря</t>
+
+        <t pos="Adv">шары пря</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Adv">легкомысленный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">а ломанень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">аф ломанень</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">не человеческий</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">авань</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">авань</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">женский</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">аванькс</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="A">dirty</t>
+
+        <t pos="A">filthy</t>
+      </tg>
+
+      <tg xml:lang="mdf">
+        <t pos="A">ърдазу</t>
+
+        <t pos="A">аф ару</t>
+
+        <t pos="A">аф ванькс</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">грязный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">аварькс</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">аварькс</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">плаксивый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">автень курго</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">панжада курга</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">ротозей</t>
+
+        <t pos="A">разиня</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">аеркс</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">аеркс</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">противный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">аир</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">аера</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">холодный</t>
+
+        <t pos="A">пронзительный (ветер)</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">аксун</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кашан</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">капризный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">алашань</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">алашань</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">лошадиный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">алка</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="A">low; shallow</t>
+      </tg>
+
+      <tg xml:lang="mdf">
+        <t pos="A">алня</t>
+
+        <t pos="A">алана</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">низкий</t>
+
+        <t pos="A">невысокий</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">алкине</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">алняня</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">низкий</t>
+
+        <t pos="A">низенький</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">алкинька</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">алняня</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">низенький</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">алкуксонь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="A">real</t>
+      </tg>
+
+      <tg xml:lang="mdf">
+        <t pos="A">афкуксонь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">истинный</t>
+
+        <t pos="A">правдивый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">алце</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="A">lower</t>
+      </tg>
+
+      <tg xml:lang="mdf">
+        <t pos="A">алце</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">нижний</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">амазый</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">аф мазы</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">некрасивый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">анок</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">анок</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">готовый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">апаро</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">аф пара</t>
+
+        <t pos="A">кальдяв</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">плохой; неприятность; беда; нечистая сила</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">апаро ойме</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">аф пара вайме</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">недобрый</t>
+
+        <t pos="A">плохой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">аразень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">аш мезень</t>
+
+        <t pos="A">ёру</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">пустяковый; бессодержательный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">аржов</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">аржу</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">в зазубринах</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">атянь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">атянь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">стариковский</t>
+
+        <t pos="A">дедовский</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">ашназа</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">акшаза</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">беловатый</t>
+
+        <t pos="A">бледный</t>
+
+        <t pos="A">белесый; белизна</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">ашо</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">акша</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">белый; белок; бельмо</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">бабань</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">бабань</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">бабий</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">бедной</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">ашу</t>
+
+        <t pos="A">беднай</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">бедный</t>
+
+        <t pos="A">бедняк</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">безьгунов</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">пъзьгону</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">веснушчатый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">берянь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кальдяв</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">плохой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">благой</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">благой</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">сердитый</t>
+
+        <t pos="A">злой</t>
+
+        <t pos="A">озорной</t>
+
+        <t pos="A">дурной</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">бояронь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">баяронь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">барский</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">букань</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">букань</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">бычий</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">бутрав</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">бутрав</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">мутный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">вадря</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">цябярь</t>
+
+        <t pos="A">пара</t>
+
+        <t pos="A">вадря</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">хороший</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">вадяша</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">вадяв</t>
+
+        <t pos="A">вадяжа</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">гладкий</t>
+
+        <t pos="A">ровный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">вазов</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">вазу</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">стельная</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">вайгелев</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">вайгялю</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">голосистый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">вайгельтеме</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">вайгяльфтома</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">безголосый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">валаня</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">валазя</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">гладкий</t>
+
+        <t pos="A">скользкий</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">валдо</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">валда</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">свет; светлый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">валскень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">шобдавань</t>
+
+        <t pos="A">вандынь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">утренний; завтрашний</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">вандынь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">вандынь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">завтрашний</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">ванькс</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">ару</t>
+
+        <t pos="A">ванькс</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">чистый</t>
+
+        <t pos="A">опрятный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">вармав</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">вармав</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">ветреный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">варяв</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">варяв</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">дырявый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">васенце</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">васенце</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">первый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">васень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">васень</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">первый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">васолдонь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">ичкоздень</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">дальний</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">ведев</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">ведю</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">водянистый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">ведьалдонь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">ведь алдонь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">подводный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">ведьгеменце</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">ведьгемонце</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">пятидесятый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">веженсь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">веженцясь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">младший</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">вейкеть</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      
+
+      <tg xml:lang="mdf">
+        <t pos="A">фкат</t>
+      </tg>
+
+       
+
+      <tg xml:lang="rus">
+        <t pos="A">одинаковые</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">вейсэнь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">марстонь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">совместный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">велень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">велень</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">сельский</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">вень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">вень</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">ночной</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">верек</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">верок</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">сырой</t>
+
+        <t pos="A">невареный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">верце</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">вярце</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">верхний</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">верьгизэнь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">върьгазонь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">волчий</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">ветеце</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">ветеце</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">пятый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">вецана</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">веца</t>
+
+        <t pos="A">вецана</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">жидкий</t>
+
+        <t pos="A">не густой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">вечкевикс</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кельговикс</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">любимый</t>
+
+        <t pos="A">уважаемый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">виде</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">виде</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">прямой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">виев</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">вии</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">сильный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">визькстэме</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">визьксфтома</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">бесстыдный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">вийтеме</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">вийфтома</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">слабый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">вирень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">вирень</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">лесной</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">вить</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">види</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">правый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">вишка</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">ёмла</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">маленький</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">гайтев</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кайги</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">звучный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">горяв</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">пичефксу</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">печальный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">дока</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">дока</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">смелый</t>
+
+        <t pos="A">бойкий; умелый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">домка</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кърхка</t>
+
+        <t pos="A">сери</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">глубокий</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">дошлой</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">ушлай</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">хитрый</t>
+
+        <t pos="A">умелый</t>
+
+        <t pos="A">смышленый</t>
+
+        <t pos="A">ловкий</t>
+
+        <t pos="A">дошлый (разг.)</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">дёшова</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">уцез</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">дешевый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">жив</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">жив</t>
+
+        <t pos="A">живой</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">живой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">живой</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">жив</t>
+
+        <t pos="A">живой</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">живой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">жомка</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">цюкорня</t>
+
+        <t pos="A">прянька</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">пряник</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">идезь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">идеф</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">спасенный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">идем</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">идем</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">дикий</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">иень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кизонь (12 ковонь)</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">годовой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">икелень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">ингольдень</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">передний</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">икельце</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">ингольце</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">передний; предыдущий</t>
+
+        <t pos="A">передовой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">илев</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">или</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">прут</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">ине</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">оцю</t>
+
+        <t pos="A">инь оцю</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">большой</t>
+
+        <t pos="A">великий</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">иржаня</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">казяма</t>
+
+        <t pos="A">аржу</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">жесткий</t>
+
+        <t pos="A">грубый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">исень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">исяконь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">вчерашний</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">истямо</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">тяфтама</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">такой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">исяконь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">исяконь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">вчерашний</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">кадовикс</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">лядыкс</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">остаток</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">кажаня</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кажана</t>
+
+        <t pos="A">казяма</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">грубый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">казямо</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">казяма</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">жесткий</t>
+
+        <t pos="A">грубый</t>
+
+        <t pos="A">шероховатый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">каладозь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">калада</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">разрушенный</t>
+
+        <t pos="A">сломанный; изношенный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">калгодо</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">калгода</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">жесткий</t>
+
+        <t pos="A">твердый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">калонь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">калонь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">рыбий</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">каргоць</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">карьготьф</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">грязный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">каткань</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">катонь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">кошачий</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">каштан</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">каштан</t>
+
+        <t pos="A">прянь няи</t>
+
+        <t pos="A">прянь шнай</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">гордый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">кевев</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кеву</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">каменистый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">кевейкееце</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кефкиеце</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">одиннадцатый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">кевейксэеце</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кевейхксыеце</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">девятнадцатый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">кевень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кевонь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">каменный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">кеверь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кеворь</t>
+
+        <t pos="A">покаряв</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">круглый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">кеветееце</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кеветиеце</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">пятнадцатый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">кедень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кедень</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">кожаный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">кедий</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кеди</t>
+
+        <t pos="A">яровой</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">яровой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">кедтеме</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кядьфтема</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">безрукий</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">кежев</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кяжи</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">злой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">кежей</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кяжи</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">сердитый</t>
+
+        <t pos="A">злой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">кезэрень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кунардонь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">давнишний</t>
+
+        <t pos="A">древний</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">келей</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кели</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">широкий</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">кельме</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кельме</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">холод; холодный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">кельтеме</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кяльфтома</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">немой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">кемгавксовоце</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кемгафксувоце</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">восемнадцатый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">кемгавтовоце</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кемгафтувоце</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">двенадцатый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">кемголмовоце</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кемголмувоце</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">тринадцатый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">кемготовоце</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кемготувоце</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">шестнадцатый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">кеме</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кеме</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">крепкий</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">кемевикс</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">надёжнай</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">верный</t>
+
+        <t pos="A">надежный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">кемзисемгеце</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кемзисемгоце</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">семнадцатый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">керень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">керонь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">лубяной</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">керш</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кержи</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">левый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">кивень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кивиень</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">оловянный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">кизэнь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кизонь (3 ковонь)</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">летний</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">килеень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">келувонь</t>
+
+        <t pos="A">келунь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">березовый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">кирдевикс</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кирдемшка</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">терпимый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">кирдевтеме</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">аф кирдеви</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">безудержный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">киртязь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кирьфтаф</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">укороченный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">кискань</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">пинень</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">собачий</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">кичкере</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кичкор</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">кривой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">кодамо</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кодама</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">какой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">колмоце</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">колмоце</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">третий</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">колоньгеменце</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">колмогемонце</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">тридцатый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">комсеце</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">комозце</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">двадцатый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">конёвонь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кагодонь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">бумажный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">копордазь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">копордаф</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">выпивший</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">коськана</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">коськана</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">суховатый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">коськаня</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">коськана</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">суховатый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">коське</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">коське</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">сухой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">коськезь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">коськф</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">высохший</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">котоце</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">котоце</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">шестой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">коцтонь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">котфонь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">холщевый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">кувака</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кувака</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">длинный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">кудовтомо</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кудфтома</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">бездомный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">кудряв</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кудряв</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">кудрявый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">кузонь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кузонь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">еловый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">кулозь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кулоф</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">мертвый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">кшнинь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кшнинь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">железный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">лапужа</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">лапш</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">плоский</t>
+
+        <t pos="A">сплюснутый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">леень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">ляень</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">речной</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">лезэв</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">эрявикс</t>
+
+        <t pos="A">ярашты</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">полезный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">лембе</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">лямбе</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">тепло; тёплый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">лемтеме</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">лемфтема</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">безымянный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">ленгень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">ленгянь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">из лыка</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">летьке</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">летьке</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">влага; влажный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">липужа</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">лавжа</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">ценовная дощечка</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">лия</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">лия</t>
+
+        <t pos="A">иля</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">другой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">ловов</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">лову</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">снежный; в снегу</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">ловонь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">ловонь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">из снега</t>
+
+        <t pos="A">снежный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">ловсонь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">лофцонь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">молочный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">ломанень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">ломанень</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">человеческий</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">лопав</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">лопав</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">лиственный; с листвой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">мазы</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">мазы</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">красивый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">мазя</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">маця</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">мелкий</t>
+
+        <t pos="A">мелко</t>
+
+        <t pos="A">неглубоко</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">макшов</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">макшу</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">гнилой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">малавикс</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">малавикс</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">близкий</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">манынь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">манань</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">позапрошлогодний</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">мастор алгань</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">мастор алгань</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">подземный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">маштозь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">машфтф</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">убитый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">медев</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">медю</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">испачканный медом</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">медень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">медень</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">медовый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">меельце</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">мекольце</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">последний</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">мекшень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">мешень</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">пчелиный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">менелень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">менелень</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">небесный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">мень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">мезень</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">какой</t>
+
+        <t pos="A">что за</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">мештень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">мяштень</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">грудной</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">модав</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">модав</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">с землей</t>
+
+        <t pos="A">испачканный землей</t>
+
+        <t pos="A">засоренный землей</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">модань</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">модань</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">земляной</t>
+
+        <t pos="A">земной</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">модань-ведень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">модань-ведень</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">земноводный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">мокшонь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">мокшень</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">мокшанский</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">моргов</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">моргу</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">сучковатый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">мушконь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">мушконь</t>
+
+        <t pos="A">каньфонь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">конопляный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">наволо</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="A">slimy</t>
+      </tg>
+
+      <tg xml:lang="mdf">
+        <t pos="A">навла</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">скользкий</t>
+
+        <t pos="A">покрытый слизью; слизь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">нардев</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кеме</t>
+
+        <t pos="A">таза</t>
+
+        <t pos="A">вии</t>
+
+        <t pos="A">нарде</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">крепкий; сильный</t>
+
+        <t pos="A">выносливый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">нармунень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">нармонень</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">птичий</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">начко</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="A">wet</t>
+      </tg>
+
+      <tg xml:lang="mdf">
+        <t pos="A">начка</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">мокрота</t>
+
+        <t pos="A">сырость; мокрый</t>
+
+        <t pos="A">сырой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">наян</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">наян</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">кокетливый</t>
+
+        <t pos="A">озорной</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">неень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">тяниень</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">нынешний</t>
+
+        <t pos="A">теперешний</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">неявикс</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">няевикс</t>
+
+        <t pos="A">няеви</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">видный</t>
+
+        <t pos="A">известный; видимый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">ниленьгеменце</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">нильгемонце</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">сороковой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">нилеце</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">нилеце</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">четвертый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">новолезь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">новольф</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">опущенный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">нолажа</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">нолажа</t>
+
+        <t pos="A">валазя</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">скользкий</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">ношка</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">ношка</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">тупой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">нузяла</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">нола</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">с ленью</t>
+
+        <t pos="A">ленивый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">нумолонь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">нумолонь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">заячий</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">нурька</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">нюрьхкя</t>
+
+        <t pos="A">нюрьхкяня</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">короткий</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">нурькине</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">нюрьхкяня</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">короткий</t>
+
+        <t pos="A">коротенький</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">нусманя</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">нусманя</t>
+
+        <t pos="A">ризфу</t>
+
+        <t pos="A">седиень колай</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">печальный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">обуцяв</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">обуцяв</t>
+
+        <t pos="A">каштан</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">с характером</t>
+
+        <t pos="A">с норовом</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">овтонь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">офтонь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">медвежий</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">оев</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">ваи</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">масляный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">ожо</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">тюжя</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">желтый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">оланя</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">олаф</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">бледный</t>
+
+        <t pos="A">полинялый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">олгонь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">шужярень</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">соломенный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">омбо</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">омба</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">другой</t>
+
+        <t pos="A">иной</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">омбоце</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">омбоце</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">второй</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">опаня</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">опана</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">духота</t>
+
+        <t pos="A">душно</t>
+
+        <t pos="A">душный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">ордакш</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">ордаж</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">обидчивый</t>
+
+        <t pos="A">капризный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">ормав</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">урмав</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">больной</t>
+
+        <t pos="A">болезненный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">ошонь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">ошень</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">городской</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">оянь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">ялгань</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">дружеский</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">пазонь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">шкаень</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">божий</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">паксянь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">паксянь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">полевой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">пангонь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">пангонь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">грибной</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">пандов</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">панду</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">гористый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">паро</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">пара</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">хороший</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">парсеень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">парьхциень</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">шелковый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">певтеме</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">пефтома</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">бесконечный</t>
+
+        <t pos="A">беспредельный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">пеев</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">пею</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">зубастый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">пекев</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">пеки</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">беременная</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">пекшень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">пяшень</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">липовый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">пеляз</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">пяляз</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">бешеный</t>
+
+        <t pos="A">безумный</t>
+
+        <t pos="A">непутёвый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">пеляза</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">пяляз</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">бешеный</t>
+
+        <t pos="A">безумный</t>
+
+        <t pos="A">непутёвый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">пешксе</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">пяшксе</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">полный</t>
+
+        <t pos="A">много</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">пиезь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">пиф</t>
+
+        <t pos="A">пидеф</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">вареный</t>
+
+        <t pos="A">сваренный</t>
+
+        <t pos="A">печеный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">пиже</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">сянгяря</t>
+
+        <t pos="A">пиже</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">зеленый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">пингень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">пингонь-пингонь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">временами</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">письверек</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">пялес верок</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">недоваренный</t>
+
+        <t pos="A">всмятку</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">питнев</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">питни</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">дорогой</t>
+
+        <t pos="A">ценный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">питней</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">питни</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">дорогой</t>
+
+        <t pos="A">ценный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">пичень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">пичень</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">сосновый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">поень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">поювонь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">осиновый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">покш</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">оцю</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">большой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">полгаря</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">полдаш</t>
+
+        <t pos="A">полдорож</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">пучеглазый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">понав</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">понав</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">волосатый</t>
+
+        <t pos="A">лохматый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">понань</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">понань</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">шерстяной</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">поронь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">пуронь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">из мела</t>
+
+        <t pos="A">меловой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">потмонь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">потмонь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">внутренний</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">почаня</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">почана</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">рассыпчатый (картофель); черствый (о хлебе)</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">превев</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">ёню</t>
+
+        <t pos="A">пряви</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">умный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">превей</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">ёню</t>
+
+        <t pos="A">пряви</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">умный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">превтеме</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">ёньфтома</t>
+
+        <t pos="A">пряфтома</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">безумный</t>
+
+        <t pos="A">глупый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">пси</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">пси</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">жаркий</t>
+
+        <t pos="A">горячий; жарко</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">пшти</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">оржа</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">острый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">раужо</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">равжа</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">черный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">рашков</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">рашку</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">ветвистый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">ривезень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">келазень</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">лисий</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">ризксэв</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">ризфу</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">печальный</t>
+
+        <t pos="A">горестный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">рипаня</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">пужф</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">дряблый</t>
+
+        <t pos="A">вялый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">розень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">розень</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">ржаной</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">рудазов</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">ърдазу</t>
+
+        <t pos="A">пяндра</t>
+
+        <t pos="A">лебоню</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">грязный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">рузонь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">рузонь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">русский</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">салава</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">салава</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">тайно</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">салов</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">салу</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">соленый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">седеень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">седиень</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">сердечный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">седейтеме</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">седифтома</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">бессердечный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">седейшкава</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">седишкава</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">сердечно</t>
+
+        <t pos="A">искренне</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">сееде</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">сиде</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">частый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">сельмевтеме</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">сокор</t>
+
+        <t pos="A">сельмофтома</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">слепой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">сельмень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">сельмонь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">глазной</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">сеянь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">сявань</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">козлиный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">синдень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">синнеф</t>
+
+        <t pos="A">синтьф</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">сломанный</t>
+
+        <t pos="A">ломаный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">сиянь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">сиянь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">серебряный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">содавикс</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">содавикс</t>
+
+        <t pos="A">содаф</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">известный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">содов</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">соду</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">испачканный сажей</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">соков</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">соку</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">сочный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">сокор</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="A">blind</t>
+      </tg>
+
+      <tg xml:lang="mdf">
+        <t pos="A">сокор</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">слепой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">стазь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">стаф</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">сшитый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">стака</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="A">heavy; difficult</t>
+      </tg>
+
+      <tg xml:lang="mdf">
+        <t pos="A">стака</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">тяжелый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">стяконь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">стаконь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">обычный</t>
+
+        <t pos="A">привычный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">сумборя</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">сумбора</t>
+
+        <t pos="A">сюне</t>
+
+        <t pos="A">сюнера</t>
+
+        <t pos="A">сюнерь</t>
+
+        <t pos="A">сумбара</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">пасмурный</t>
+
+        <t pos="A">хмурый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">сыре</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">сире</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">старый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">сырнень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">сырнянь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">золотой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">сэпев</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">сяпи</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">горький</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">сэпей</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">сяпи</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">горький</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">сэрей</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">сери</t>
+
+        <t pos="A">кърхка</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">высокий; глубокий</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">сэтьме</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">сетьме</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">тишина</t>
+
+        <t pos="A">тихий</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">сюпав</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">козя</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">богатый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">сядоце</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">сядоце</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">сотый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">сёвонень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">сёвонень</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">глиняный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">сёксень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">сёксень</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">осенний</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">сёрмав</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="A">colored</t>
+      </tg>
+
+      <tg xml:lang="mdf">
+        <t pos="A">сёрмав</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">пестрый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">тавадозь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">таватф</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">покрытый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">тазов</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">тазу</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">шелудивый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">тансттеме</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">таньфтома</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">безвкусный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">тантей</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">танцти</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">вкусный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">тарадов</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">тараду</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">ветвистый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">ташто</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="A">old; former; dilapidated</t>
+      </tg>
+
+      <tg xml:lang="mdf">
+        <t pos="A">ташта</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">старый (о предметах)</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">тевев</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">теву</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">деловой</t>
+
+        <t pos="A">занятый делом</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">телень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">тялонь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">зимний</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">тестэнь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">тястонь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">здешний</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">тикшев</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">тиши</t>
+
+        <t pos="A">тишу</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">травянистый</t>
+
+        <t pos="A">с травой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">тиринь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">тядянь</t>
+
+        <t pos="A">тядянь-алянь</t>
+
+        <t pos="A">шачема</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">родной</t>
+
+        <t pos="A">материнский</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">товолдонь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">товолдонь</t>
+
+        <t pos="A">толдонь</t>
+
+        <t pos="A">толдоння</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">оттуда (родом и т.д.)</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">толов</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">толу</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">пламенный</t>
+
+        <t pos="A">огневой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">толонь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">толонь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">огненный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">томбака</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="A">deep</t>
+      </tg>
+
+      <tg xml:lang="mdf">
+        <t pos="A">сери</t>
+
+        <t pos="A">кърхка</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">глубокий</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">томбака</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">томба</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">топкое место</t>
+
+        <t pos="A">трясина</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">томбака</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">томба</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">глубокий</t>
+
+        <t pos="A">глубина</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">тортав</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">нюреню</t>
+
+        <t pos="A">торхтав</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">с осадком</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">тостонь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="A">from there</t>
+      </tg>
+
+      <tg xml:lang="mdf">
+        <t pos="A">тостонь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">оттуда (родом)</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">тундонь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">тундань</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">весенний</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">тусто</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="A">thick</t>
+      </tg>
+
+      <tg xml:lang="mdf">
+        <t pos="A">туста</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">густой</t>
+
+        <t pos="A">гуща</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">удалце</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="A">hind</t>
+      </tg>
+
+      <tg xml:lang="mdf">
+        <t pos="A">фталце</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">задний</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">улконь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">улхконь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">недавний</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">ульцянь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">ульцянь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">уличный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">умарень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">марень</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">яблочный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">умоконь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кунардонь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">давнишний</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">умонь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кунардонь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">давнишний</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">урозонь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">урозонь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">сиротский</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">усав</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">усав</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">усатый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">уцяскав</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">павазу</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">счастливый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">ушонь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">ушень</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">наружний</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">финнэнь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">финнонь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">финский</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">цецькав</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">панчфу</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">цветастый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">цецяв</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">панчфу</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">цветастый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">цецянь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">панчфонь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">цветочный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">чаво</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="A">empty</t>
+      </tg>
+
+      <tg xml:lang="mdf">
+        <t pos="A">шава</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">пустой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">чаво пря</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">шава пря</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">глупый</t>
+
+        <t pos="A">глупец</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">чавозь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">шавф</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">убитый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">чапамо</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="A">sour</t>
+      </tg>
+
+      <tg xml:lang="mdf">
+        <t pos="A">шапама</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">кислый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">чевте</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="A">soft</t>
+      </tg>
+
+      <tg xml:lang="mdf">
+        <t pos="A">шяфте</t>
+
+        <t pos="A">ляпе</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">мягкий</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">чеменев</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="A">rusty</t>
+      </tg>
+
+      <tg xml:lang="mdf">
+        <t pos="A">шямоню</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">ржавый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">чинев</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="A">smelly</t>
+      </tg>
+
+      <tg xml:lang="mdf">
+        <t pos="A">шини</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">пахнущий</t>
+
+        <t pos="A">пахучий</t>
+
+        <t pos="A">вонючий</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">чинь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">шинь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">дневной</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">чирь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">ширем</t>
+
+        <t pos="A">кичкор</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">кривой</t>
+
+        <t pos="A">косой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">чова</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">шуваня</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">тонкий</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">човань</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">шоваф</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">точёный</t>
+
+        <t pos="A">наточенный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">човине</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">шуваня</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">тоненький</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">човов</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">шову</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">пенистый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">чопода</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">шопода</t>
+
+        <t pos="A">шобда</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">темнота; тёмный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">чувтонь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">шуфтонь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">деревянный</t>
+
+        <t pos="A">древесный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">чумо</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">мувор</t>
+
+        <t pos="A">мувору</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">виновный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">чуро</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">шура</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">редкий</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">шабрань</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">шабрань</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">соседский</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">шерже</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">шаржа</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">седина</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">шержев</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="A">gray-haired</t>
+      </tg>
+
+      <tg xml:lang="mdf">
+        <t pos="A">шаржу</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">седой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">шожда</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="A">light; simple</t>
+
+        <t pos="A">easy</t>
+      </tg>
+
+      <tg xml:lang="mdf">
+        <t pos="A">тёждя</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">легкий</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">штань</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">штань</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">восковой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">шумбра</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="A">healthy</t>
+      </tg>
+
+      <tg xml:lang="mdf">
+        <t pos="A">шумбра</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">здоровый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">эев</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">эи</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">со льдом; обледенелый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">эень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">эень</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">ледяной</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">эйдень</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">идень</t>
+
+        <t pos="A">шабань</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">детский</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">эрек</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">эряза</t>
+
+        <t pos="A">эрек</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">проворный</t>
+
+        <t pos="A">живой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">эрзянь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">эрзянь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">эрзянский</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">эрьва</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="A">every</t>
+      </tg>
+
+      <tg xml:lang="mdf">
+        <t pos="A">эрь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">каждый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">эрьва кодамо</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">эрь кодама</t>
+
+        <t pos="A">кодама-повсь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">всякие</t>
+
+        <t pos="A">разные</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">эрьва чинь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">эрь шинь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">повседневный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">эрявикс</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="A">necessary</t>
+      </tg>
+
+      <tg xml:lang="mdf">
+        <t pos="A">эрявикс</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">нужный</t>
+
+        <t pos="A">необходимый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">эряза</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">эряза</t>
+
+        <t pos="A">эрек</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">проворный</t>
+
+        <t pos="A">живой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">эсь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">эсь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">свой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">ялгань</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="A">of a friend</t>
+
+        <t pos="A">friendly</t>
+      </tg>
+
+      <tg xml:lang="mdf">
+        <t pos="A">ялгань</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">дружеский</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">ярмаков</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="eng">
+        <t pos="A">rich</t>
+
+        <t pos="A">with plenty of money</t>
+      </tg>
+
+      <tg xml:lang="mdf">
+        <t pos="A">ярмаку</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">денежный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A" type="genAttr">ёвксонь</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">ёфксонь</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">сказочный</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">ёжов</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">ёжу</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">смышленный</t>
+
+        <t pos="A">хитрый</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">ёжовтомо</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">ёжефтема</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">без сознания</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">ёланя</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">мянцеви</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">гибкий</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">ёлка</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">кузня</t>
+
+        <t pos="A">ёлка</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">ёлка</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">ён</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="A">шире</t>
+
+        <t pos="A">ён</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="A">сторона</t>
+      </tg>
+    </mg>
+  </e>
+</r>
