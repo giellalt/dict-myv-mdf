@@ -145,9 +145,9 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t pos="Pcle">маряк</t>
-
         <t pos="Pcle">пади</t>
+
+        <t pos="Pcle">маряк</t>
 
         <t pos="Pcle">шять</t>
       </tg>
@@ -156,28 +156,6 @@
         <t pos="Pcle">может быть</t>
 
         <t pos="Pcle">возможно</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pcle">поди</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pcle">пади</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pcle">может</t>
-
-        <t pos="Pcle">может быть</t>
       </tg>
     </mg>
   </e>
