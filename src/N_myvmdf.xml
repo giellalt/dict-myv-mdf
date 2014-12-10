@@ -1462,6 +1462,28 @@
 
   <e>
     <lg>
+      <l pos="N">апаро</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="N">аф пара</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">неприятность</t>
+        <t pos="N">беда</t>
+        <t pos="N">нечистая сила</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">апарочи</l>
 
       <stg>
@@ -1590,7 +1612,7 @@
 
   <e>
     <lg>
-      <l pos="N">арднема</l>
+      <l pos="N">ардтнема</l>
 
       <stg>
         <st/>
@@ -2205,6 +2227,26 @@
         <t pos="N">моток</t>
 
         <t pos="N">сверток; обьятие; завертывание</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">алашо</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="N">алакша</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">белок; бельмо</t>
       </tg>
     </mg>
   </e>
