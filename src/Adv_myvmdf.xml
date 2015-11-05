@@ -620,12 +620,19 @@
     <mg>
       <tg xml:lang="mdf">
         <t pos="Adv">шобдава</t>
+      </tg>
 
+      <tg xml:lang="rus">
+        <t pos="Adv">утро; утром</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="mdf">
         <t pos="Adv">ванды</t>
       </tg>
 
       <tg xml:lang="rus">
-        <t pos="Adv">утро; утром; завтра</t>
+        <t pos="Adv">завтра</t>
       </tg>
     </mg>
   </e>
@@ -638,28 +645,15 @@
         <st/>
       </stg>
     </lg>
-
     <mg>
       <tg xml:lang="mdf">
         <t pos="Adv">шобдавас</t>
-
-        <t pos="Adv">ванды</t>
       </tg>
 
       <tg xml:lang="rus">
-        <t pos="Adv">до утра; до завтра</t>
+        <t pos="Adv">до утра</t>
       </tg>
     </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">вандыс</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
 
     <mg>
       <tg xml:lang="mdf">
@@ -5550,7 +5544,7 @@
 
   <e>
     <lg>
-      <l pos="Adv">ёнов</l>
+      <l pos="Po">ёнов</l>
 
       <stg>
         <st/>
@@ -5559,13 +5553,13 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t pos="Adv">шири</t>
+        <t pos="Po">шири</t>
       </tg>
 
       <tg xml:lang="rus">
-        <t pos="Adv">в сторону</t>
+        <t pos="Pr">в сторону</t>
 
-        <t pos="Adv">по направлению</t>
+        <t pos="Pr">по направлению</t>
       </tg>
     </mg>
   </e>
@@ -5581,13 +5575,21 @@
 
     <mg>
       <tg xml:lang="mdf">
-        <t pos="Adv">ёнюста</t>
-
         <t pos="Adv">цебярьста</t>
       </tg>
 
       <tg xml:lang="rus">
-        <t pos="Adv">умно; хорошо</t>
+        <t pos="Adv">хорошо</t>
+      </tg>
+    </mg>
+  </e>
+    <mg>
+      <tg xml:lang="mdf">
+        <t pos="Adv">ёнюста</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Adv">умно</t>
       </tg>
     </mg>
   </e>

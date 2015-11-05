@@ -122,6 +122,19 @@
         <t pos="N">женщина</t>
       </tg>
     </mg>
+     <mg>
+      <tg xml:lang="eng">
+        <t pos="N">mother</t>
+      </tg>
+
+      <tg xml:lang="mdf">
+        <t pos="N">тядя</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="N">мать</t>
+      </tg>
+    </mg>
   </e>
 
   <e>
