@@ -201,7 +201,7 @@
       </tg>
 
       <tg xml:lang="rus">
-        <t pos="Pron">сколько; примерно</t>
+        <t pos="Pron">сколько, примерно</t>
 
         <t pos="Pron">несколько</t>
       </tg>
@@ -303,7 +303,7 @@
       </tg>
 
       <tg xml:lang="rus">
-        <t pos="Pron">кому-то; никому</t>
+        <t pos="Pron">кому-то, никому</t>
       </tg>
     </mg>
   </e>
@@ -471,7 +471,7 @@
       <tg xml:lang="rus">
         <t pos="Pron">какой-нибудь</t>
 
-        <t pos="Pron">какой-либо; никакой</t>
+        <t pos="Pron">какой-либо, никакой</t>
       </tg>
     </mg>
   </e>
@@ -491,7 +491,7 @@
       </tg>
 
       <tg xml:lang="rus">
-        <t pos="Pron">как-нибудь; никак</t>
+        <t pos="Pron">как-нибудь, никак</t>
       </tg>
     </mg>
   </e>
@@ -691,7 +691,7 @@
       </tg>
 
       <tg xml:lang="rus">
-        <t pos="Pron">кто-то из&amp;</t>
+        <t pos="Pron">кто-то из&amp,</t>
 
         <t pos="Pron">какой-то</t>
       </tg>
@@ -915,7 +915,7 @@
       </tg>
 
       <tg xml:lang="rus">
-        <t pos="Pron">что-нибудь; ничего</t>
+        <t pos="Pron">что-нибудь, ничего</t>
       </tg>
     </mg>
   </e>
@@ -1315,7 +1315,7 @@
       </tg>
 
       <tg xml:lang="rus">
-        <t pos="Pron">единственный; этот</t>
+        <t pos="Pron">единственный, этот</t>
 
         <t pos="Pron">этот же</t>
       </tg>

@@ -163,7 +163,7 @@
       </tg>
 
       <tg xml:lang="rus">
-        <t pos="Po">похожий на&amp;</t>
+        <t pos="Po">похожий на&amp,</t>
 
         <t pos="Po">наподобие</t>
       </tg>
@@ -249,7 +249,7 @@
       <tg xml:lang="rus">
         <t pos="Po">поперек</t>
 
-        <t pos="Po">через; пополам</t>
+        <t pos="Po">через, пополам</t>
       </tg>
     </mg>
   </e>

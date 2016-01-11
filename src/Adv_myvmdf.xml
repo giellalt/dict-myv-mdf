@@ -363,7 +363,7 @@
 
     <mg>
       <tg xml:lang="eng">
-        <t pos="Adv">below; under</t>
+        <t pos="Adv">below, under</t>
       </tg>
 
       <tg xml:lang="mdf">
@@ -455,7 +455,7 @@
       <tg xml:lang="rus">
         <t pos="Adv">чисто</t>
 
-        <t pos="Adv">бело; начисто</t>
+        <t pos="Adv">бело, начисто</t>
 
         <t pos="Adv">набело</t>
       </tg>
@@ -623,7 +623,7 @@
       </tg>
 
       <tg xml:lang="rus">
-        <t pos="Adv">утро; утром</t>
+        <t pos="Adv">утро, утром</t>
       </tg>
     </mg>
     <mg>
@@ -1383,7 +1383,7 @@
       </tg>
 
       <tg xml:lang="rus">
-        <t pos="Adv">дыбом; на дыбы</t>
+        <t pos="Adv">дыбом, на дыбы</t>
       </tg>
     </mg>
   </e>
@@ -1593,7 +1593,7 @@
       </tg>
 
       <tg xml:lang="rus">
-        <t pos="Adv">впереди; раньше</t>
+        <t pos="Adv">впереди, раньше</t>
       </tg>
     </mg>
   </e>
@@ -1737,7 +1737,7 @@
       </tg>
 
       <tg xml:lang="rus">
-        <t pos="Adv">без всего; бесплатно</t>
+        <t pos="Adv">без всего, бесплатно</t>
       </tg>
     </mg>
   </e>
@@ -3453,7 +3453,7 @@
       <tg xml:lang="rus">
         <t pos="Adv">горячо</t>
 
-        <t pos="Adv">жарко; в горячем виде</t>
+        <t pos="Adv">жарко, в горячем виде</t>
       </tg>
     </mg>
   </e>
@@ -3695,7 +3695,7 @@
       <tg xml:lang="rus">
         <t pos="Adv">тут же</t>
 
-        <t pos="Adv">сразу же; на том же месте</t>
+        <t pos="Adv">сразу же, на том же месте</t>
       </tg>
     </mg>
   </e>
@@ -3715,7 +3715,7 @@
       </tg>
 
       <tg xml:lang="rus">
-        <t pos="Adv">тогда; оттуда</t>
+        <t pos="Adv">тогда, оттуда</t>
       </tg>
     </mg>
   </e>
@@ -3859,7 +3859,7 @@
       <tg xml:lang="rus">
         <t pos="Adv">зря</t>
 
-        <t pos="Adv">ни за что; бесплатно</t>
+        <t pos="Adv">ни за что, бесплатно</t>
       </tg>
     </mg>
   </e>
@@ -4001,7 +4001,7 @@
       </tg>
 
       <tg xml:lang="rus">
-        <t pos="Adv">поздний; долго</t>
+        <t pos="Adv">поздний, долго</t>
 
         <t pos="Adv">довольно долго</t>
 
@@ -4569,7 +4569,7 @@
       </tg>
 
       <tg xml:lang="rus">
-        <t pos="Adv">поперечина; поперечный</t>
+        <t pos="Adv">поперечина, поперечный</t>
 
         <t pos="Adv">поперек</t>
       </tg>
@@ -4681,7 +4681,7 @@
       <tg xml:lang="rus">
         <t pos="Adv">позади</t>
 
-        <t pos="Adv">сзади (двигаться и т.д.); за</t>
+        <t pos="Adv">сзади (двигаться и т.д.), за</t>
       </tg>
     </mg>
   </e>
@@ -5347,7 +5347,7 @@
       <tg xml:lang="rus">
         <t pos="Adv">обнаженный</t>
 
-        <t pos="Adv">голый; обнаженно</t>
+        <t pos="Adv">голый, обнаженно</t>
 
         <t pos="Adv">открыто</t>
       </tg>
