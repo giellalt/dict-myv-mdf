@@ -1,1454 +1,844 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<r xsi:noNamespaceSchemaLocation="../../../../gtcore/schemas/fiu-dict-schema.xsd"
-   xml:lang="myv" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
-   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-  <e>
-    <lg>
-      <l pos="Pron">зняро</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">мъзяра</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">сколько</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">зняроце</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">мъзяроце</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">который (по порядку)</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">зярдо</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">мъзярда</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">когда</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">зярдояк</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">мъзярдовок</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">когда-нибудь</t>
-
-        <t pos="Pron">никогда</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">зярдыя</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">кунара</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">давно</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">зяро</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">мъзяра</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">сколько</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">зяро-бути</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">мъзяра-бъди</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">сколько-то</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">зяроце</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">мъзяроце</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">который</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">зярояк</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">мъзяровок</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">сколько-нибудь</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">зярыя</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">мъзярошка</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">сколько, примерно</t>
-
-        <t pos="Pron">несколько</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">ки</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">кие</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">кто</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">кие</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">кие</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">кто</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">кие-бути</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">кие-бъди</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">кто-то</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">кие-кие</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">кие-кие</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">кто-нибудь</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">киненьгак</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">киндивок</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">кому-то, никому</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">китькак</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">кивок</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">кто-нибудь</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">китькак а (арасть)</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">кивок</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">никто не</t>
-
-        <t pos="Pron">никого нет</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">кияк</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">кивок</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">кто-то</t>
-
-        <t pos="Pron">кто-нибудь</t>
-
-        <t pos="Pron">никто</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">ков-бути</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">ков-бъди</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">куда-нибудь</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">коволдо</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">коволда</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">откуда</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">кода</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">кода</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">как</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">кодамо-бути</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">кодама-бъди</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">какой-то</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">кодамояк</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">кодамовок</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">какой-нибудь</t>
-
-        <t pos="Pron">какой-либо, никакой</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">кодаяк</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">кодавок</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">как-нибудь, никак</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">козо</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">коза</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">куда</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">козонь</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">коза</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">куда</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">кой-зярдо</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">кой-мъзярда</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">иногда</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">кой-зяро</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">кой-мъзяра</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">немного</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">кой-кода</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">кой-кода</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">кое-как</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">кой-кона</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">кой-кона</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">некоторый</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">кой-косо</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">кой-коса</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">кое-где</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">кой-косто</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">кой-коста</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">иногда</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">кона</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">кона</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">который</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">кона-бути</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">кона-бъди</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">кто-то из&amp,</t>
-
-        <t pos="Pron">какой-то</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">косо</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">коса</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">где</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">косо-бути</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">коса-бъди</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">где-то</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">кува</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">куваня</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">где</t>
-
-        <t pos="Pron">по какому месту</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">кува понгсь</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">куваня пови</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">где попало</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">мезде</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">мезьда</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">за сколько? за что? по какой цене?</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">мезе</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">мезе</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">что</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">мезе-бути</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">мезе-бъди</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">что-то</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">мезекс</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">мес</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">зачем</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">мезень кис</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">мезенкса</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">за чем? за что? из-за чего?</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">мезень-бути</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">мезень-бъди</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">какой-то</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">мезеяк</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">мезевок</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">что-нибудь, ничего</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">мейс</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">мес</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">зачем</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">мейс</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">мес</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">почему</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">мейстэ</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">мезьста</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">из чего</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">мейсэ</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">мезьса</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">чем</t>
-
-        <t pos="Pron">в чем</t>
-
-        <t pos="Pron">на чем</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">мейсэ-бути</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">мезьса-бъди</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">чем-то</t>
-
-        <t pos="Pron">в чем-то</t>
-
-        <t pos="Pron">на чем-то</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">мекс</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">мес</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">почему</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">мекс</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">мес</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">почему</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">мекс-бути</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">мес-бъди</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">почему-то</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">минек</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">минь</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">наш</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">минь</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">минь</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">мы</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">мон</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">мон</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">я</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">не</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">ня</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">эти</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">неке</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">тяка</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">единственный</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">се</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="eng">
-        <t pos="Pron">that</t>
-      </tg>
-
-      <tg xml:lang="mdf">
-        <t pos="Pron">ся</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">тот</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">секе</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">сяка</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">тот же</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">сон</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="eng">
-        <t pos="Pron">he/she/it</t>
-      </tg>
-
-      <tg xml:lang="mdf">
-        <t pos="Pron">сон</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">он</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">сонсь</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">сонць</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">он сам</t>
-
-        <t pos="Pron">она сама</t>
-
-        <t pos="Pron">оно само</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">сынь</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">синь</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">они</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">теке</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">тяка</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">единственный, этот</t>
-
-        <t pos="Pron">этот же</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">тон</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">тон</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">ты</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">тона</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">тона</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">тот</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">тынк</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">тинь</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">ваш</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">тынь</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="eng">
-        <t pos="Pron">you (pl.)</t>
-      </tg>
-
-      <tg xml:lang="mdf">
-        <t pos="Pron">тинь</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">вы</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">эрьва косо</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">эрь коса</t>
-
-        <t pos="Pron">коса кельк</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">везде</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">эрьва мезе</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mdf">
-        <t pos="Pron">эрь мезе</t>
-
-        <t pos="Pron">мезе кельк</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Pron">всё</t>
-
-        <t pos="Pron">что угодно</t>
-      </tg>
-    </mg>
-  </e>
-</r>
+<?xml version="1.0" encoding="UTF-8"?> <r xsi:noNamespaceSchemaLocation="../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="myv" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<e>
+   <lg>
+     <l pos="Pron">зняро</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">мъзяра</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">зняроце</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">мъзяроце</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">зярдо</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">мъзярда</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">зярдояк</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">мъзярдовок</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">зярдыя</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">кунара</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">зяро</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">мъзяра</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">зяро-бути</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">мъзяра-бъди</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">зяроце</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">мъзяроце</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">зярояк</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">мъзяровок</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">зярыя</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">мъзярошка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ки</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">кие</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кие</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">кие</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кие-бути</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">кие-бъди</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кие-кие</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">кие-кие</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">киненьгак</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">киндивок</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">китькак</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">кивок</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">китькак а (арасть)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">кивок</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кияк</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">кивок</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ков-бути</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">ков-бъди</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">коволдо</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">коволда</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кода</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">кода</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кодамо-бути</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">кодама-бъди</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кодамояк</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">кодамовок</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кодаяк</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">кодавок</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">козо</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">коза</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">козонь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">коза</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кой-зярдо</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">кой-мъзярда</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кой-зяро</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">кой-мъзяра</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кой-кода</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">кой-кода</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кой-кона</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">кой-кона</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кой-косо</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">кой-коса</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кой-косто</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">кой-коста</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кона</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">кона</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кона-бути</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">кона-бъди</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">косо</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">коса</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">косо-бути</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">коса-бъди</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кува</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">куваня</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кува понгсь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">куваня пови</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мезде</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">мезьда</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мезе</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">мезе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мезе-бути</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">мезе-бъди</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мезекс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">мес</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мезень кис</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">мезенкса</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мезень-бути</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">мезень-бъди</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мезеяк</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">мезевок</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мейс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">мес</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мейс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">мес</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мейстэ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">мезьста</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мейсэ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">мезьса</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мейсэ-бути</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">мезьса-бъди</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мекс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">мес</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мекс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">мес</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мекс-бути</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">мес-бъди</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">минек</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">минь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">минь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">минь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мон</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">мон</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">не</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">ня</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">неке</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">тяка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">се</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">ся</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">секе</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">сяка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">сон</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">сон</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">сонсь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">сонць</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">сынь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">синь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">теке</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">тяка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тон</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">тон</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тона</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">тона</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тынк</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">тинь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тынь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">тинь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">эрьва косо</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">эрь коса</t>
+       <t pos="Pron">коса кельк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">эрьва мезе</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Pron">эрь мезе</t>
+       <t pos="Pron">мезе кельк</t>
+     </tg>
+   </mg>
+</e>
+</r> 

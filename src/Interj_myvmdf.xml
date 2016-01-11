@@ -1,80 +1,281 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="myv">
-  <e><lg><l pos="Interj">ага</l><stg><st/></stg></lg><mg>
-<tg xml:lang="eng"><t pos="Interj">uhuh</t></tg>
-<tg xml:lang="mdf"><t pos="Interj">ага</t></tg>
-<tg xml:lang="rus"><t pos="Interj">ага</t></tg></mg> </e>
-  <e><lg><l pos="Interj">адя</l><stg><st/></stg></lg><mg>
-<tg xml:lang="eng"><t pos="Interj">let's go (spoken to one)</t></tg>
-<tg xml:lang="mdf"><t pos="Interj">аде</t></tg>
-<tg xml:lang="rus"><t pos="Interj">пошли</t><t pos="Interj">пойдём</t></tg></mg> </e>
-  <e><lg><l pos="Interj">адядо</l><stg><st/></stg></lg><mg>
-<tg xml:lang="eng"><t pos="Interj">let's go (spoken to more than one)</t></tg>
-<tg xml:lang="mdf"><t pos="Interj">адяда</t><t pos="Interj">аряда</t></tg>
-<tg xml:lang="rus"><t pos="Interj">пойдемте</t></tg></mg> </e>
-  <e><lg><l pos="Interj">азё</l><stg><st/></stg></lg><mg>
-<tg xml:lang="eng"><t pos="Interj">get going! (when speaking to one)</t></tg>
-<tg xml:lang="mdf"><t pos="Interj">архт</t></tg>
-<tg xml:lang="rus"><t pos="Interj">иди</t></tg></mg> </e>
-  <e><lg><l pos="Interj">азёдо</l><stg><st/></stg></lg><mg>
-<tg xml:lang="eng"><t pos="Interj">get going! (when speaking to many)</t></tg>
-<tg xml:lang="mdf"><t pos="Interj">арда</t></tg>
-<tg xml:lang="rus"><t pos="Interj">идите</t></tg></mg> </e>
-  <e><lg><l pos="Interj">аютко</l><stg><st/></stg></lg><mg>
-<tg xml:lang="mdf"><t pos="Interj">аш пинге</t></tg>
-<tg xml:lang="rus"><t pos="Interj">нет времени</t></tg></mg> </e>
-  <e><lg><l pos="Interj">вага</l><stg><st/></stg></lg><mg>
-<tg xml:lang="mdf"><t pos="Interj">вага</t></tg>
-<tg xml:lang="rus"><t pos="Interj">вот</t></tg></mg> </e>
-  <e><lg><l pos="Interj">вай!</l><stg><st/></stg></lg><mg>
-<tg xml:lang="mdf"><t pos="Interj">вай!</t></tg>
-<tg xml:lang="rus"><t pos="Interj">ой! ах!</t></tg></mg> </e>
-  <e><lg><l pos="Interj">вана</l><stg><st/></stg></lg><mg>
-<tg xml:lang="mdf"><t pos="Interj">вана</t><t pos="Interj">вага</t></tg>
-<tg xml:lang="rus"><t pos="Interj">вот</t></tg></mg> </e>
-  <e><lg><l pos="Interj">да</l><stg><st/></stg></lg><mg>
-<tg xml:lang="mdf"><t pos="Interj">да</t></tg>
-<tg xml:lang="rus"><t pos="Interj">да</t></tg></mg> </e>
-  <e><lg><l pos="Interj">инеськеть</l><stg><st/></stg></lg><mg>
-<tg xml:lang="mdf"><t pos="Interj">эсь</t></tg>
-<tg xml:lang="rus"><t pos="Interj">родной</t></tg></mg> </e>
-  <e><lg><l pos="Interj">на</l><stg><st/></stg></lg><mg>
-<tg xml:lang="eng"><t pos="Interj">here (take it)</t></tg>
-<tg xml:lang="mdf"><t pos="Interj">на</t></tg>
-<tg xml:lang="rus"><t pos="Interj">на</t></tg></mg> </e>
-  <e><lg><l pos="Interj">оргодть</l><stg><st/></stg></lg><mg>
-<tg xml:lang="mdf"><t pos="Interj">ворьть</t></tg>
-<tg xml:lang="rus"><t pos="Interj">уйди</t></tg></mg> </e>
-  <e><lg><l pos="Interj">пандя!</l><stg><st/></stg></lg><mg>
-<tg xml:lang="mdf"><t pos="Interj">пандя!</t><t pos="Interj">саты!</t></tg>
-<tg xml:lang="rus"><t pos="Interj">довольно! хватит!</t></tg></mg> </e>
-  <e><lg><l pos="Interj">саты</l><stg><st/></stg></lg><mg>
-<tg xml:lang="mdf"><t pos="Interj">саты</t></tg>
-<tg xml:lang="rus"><t pos="Interj">хватит</t><t pos="Interj">довольно</t></tg></mg> </e>
-  <e><lg><l pos="Interj">ужо</l><stg><st/></stg></lg><mg>
-<tg xml:lang="eng"><t pos="Interj">wait! (one addressee)</t></tg>
-<tg xml:lang="mdf"><t pos="Interj">ожу</t></tg>
-<tg xml:lang="rus"><t pos="Interj">погоди</t><t pos="Interj">обожди</t><t pos="Interj">подожди</t></tg></mg> </e>
-  <e><lg><l pos="Interj">ужодо</l><stg><st/></stg></lg><mg>
-<tg xml:lang="eng"><t pos="Interj">wait! (more than one addressee)</t></tg>
-<tg xml:lang="mdf"><t pos="Interj">ожуда</t></tg>
-<tg xml:lang="rus"><t pos="Interj">погодите</t><t pos="Interj">обождите</t><t pos="Interj">стойте</t></tg></mg> </e>
-  <e><lg><l pos="Interj">уледе шумбрат!</l><stg><st/></stg></lg><mg>
-<tg xml:lang="mdf"><t pos="Interj">уледа шумбрат!</t></tg>
-<tg xml:lang="rus"><t pos="Interj">будьте здоровы!</t></tg></mg> </e>
-  <e><lg><l pos="Interj">ульть шумбра!</l><stg><st/></stg></lg><mg>
-<tg xml:lang="mdf"><t pos="Interj">ульхть шумбра!</t></tg>
-<tg xml:lang="rus"><t pos="Interj">будь здоров!</t></tg></mg> </e>
-  <e><lg><l pos="Interj">шумбрат!</l><stg><st/></stg></lg><mg>
-<tg xml:lang="mdf"><t pos="Interj">шумбрат!</t></tg>
-<tg xml:lang="rus"><t pos="Interj">здравствуй!</t></tg></mg> </e>
-  <e><lg><l pos="Interj">шумбратадо!</l><stg><st/></stg></lg><mg>
-<tg xml:lang="mdf"><t pos="Interj">шумбратада!</t></tg>
-<tg xml:lang="rus"><t pos="Interj">здравствуйте!</t></tg></mg> </e>
-  <e><lg><l pos="Interj">шумбрачи!</l><stg><st/></stg></lg><mg>
-<tg xml:lang="mdf"><t pos="Interj">шумбраши!</t></tg>
-<tg xml:lang="rus"><t pos="Interj">доброго здоровья!</t></tg></mg> </e>
-  <e><lg><l pos="Interj">эрь</l><stg><st/></stg></lg><mg>
-<tg xml:lang="mdf"><t pos="Interj">эрь</t></tg>
-<tg xml:lang="rus"><t pos="Interj">ну</t></tg></mg> </e>
-</r>
+<?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="myv">
+<e>
+   <lg>
+     <l pos="Interj">ага</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Interj">ага</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">адя</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Interj">аде</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">адядо</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Interj">адяда</t>
+       <t pos="Interj">аряда</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">азё</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Interj">архт</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">азёдо</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Interj">арда</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">аютко</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Interj">аш пинге</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">вага</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Interj">вага</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">вай!</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Interj">вай!</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">вана</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Interj">вана</t>
+       <t pos="Interj">вага</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">да</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Interj">да</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">инеськеть</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Interj">эсь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">на</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Interj">на</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">оргодть</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Interj">ворьть</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">пандя!</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Interj">пандя!</t>
+       <t pos="Interj">саты!</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">саты</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Interj">саты</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ужо</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Interj">ожу</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ужодо</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Interj">ожуда</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">уледе шумбрат!</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Interj">уледа шумбрат!</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ульть шумбра!</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Interj">ульхть шумбра!</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">шумбрат!</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Interj">шумбрат!</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">шумбратадо!</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Interj">шумбратада!</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">шумбрачи!</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Interj">шумбраши!</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">эрь</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Interj">эрь</t>
+     </tg>
+   </mg>
+</e>
+</r> 
