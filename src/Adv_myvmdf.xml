@@ -348,18 +348,30 @@
 </e>
 <e>
    <lg>
-     <l pos="Adv">валськес</l>
+     <l pos="Adv">валскес</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="mdf">
-       <t pos="Adv">шобдавас</t>
+       <t pos="Adv">вандыс</t>
      </tg>
    </mg>
    <mg>
      <tg xml:lang="mdf">
-       <t pos="Adv">вандыс</t>
+       <t pos="Adv">шобдавас</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ванды</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Adv">ванды</t>
      </tg>
    </mg>
 </e>

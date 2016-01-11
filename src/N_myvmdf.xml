@@ -1832,6 +1832,18 @@
 </e>
 <e>
    <lg>
+     <l pos="N">валдо</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="N">валда</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="N">валдо киве</l>
      <stg> <st/>
      </stg>
@@ -1904,6 +1916,23 @@
    <mg>
      <tg xml:lang="mdf">
        <t pos="N">валрисьме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">валске</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="N">шобдава</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="N">ванды</t>
      </tg>
    </mg>
 </e>
