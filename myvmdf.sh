@@ -33,6 +33,7 @@ echo ""
 echo "LEXICON Root" > bin/myvmdf.lexc
 cat src/*_myvmdf.xml | \
 grep '^ *<[lt][ >]'  | \
+tr ':' '='           | \
 sed 's/^ *//g;'      | \
 sed 's/<l /™/g;'     | \
 tr '\n' '£'          | \
@@ -41,7 +42,7 @@ tr '€' '\n'          | \
 tr '<' '>'           | \
 cut -d'>' -f2,6      | \
 tr '>' ':'           | \
-tr '[ :]' '_'           | \
+tr '[ ]' '_'           | \
 sed 's/$/ # ;/g;'    >> bin/myvmdf.lexc        
 
 #xfst -e "read lexc < bin/myvmdf.lexc"
