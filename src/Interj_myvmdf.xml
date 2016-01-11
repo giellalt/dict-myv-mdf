@@ -74,25 +74,13 @@
 </e>
 <e>
    <lg>
-     <l pos="Interj">вага</l>
+     <l pos="Interj">вай</l>
      <stg><st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="mdf">
-       <t pos="Interj">вага</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">вай!</l>
-     <stg><st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="mdf">
-       <t pos="Interj">вай!</t>
+       <t pos="Interj">вай</t>
      </tg>
    </mg>
 </e>
@@ -104,7 +92,6 @@
    </lg>
    <mg>
      <tg xml:lang="mdf">
-       <t pos="Interj">вана</t>
        <t pos="Interj">вага</t>
      </tg>
    </mg>
@@ -159,14 +146,14 @@
 </e>
 <e>
    <lg>
-     <l pos="Interj">пандя!</l>
+     <l pos="Interj">пандя</l>
      <stg><st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="mdf">
-       <t pos="Interj">пандя!</t>
-       <t pos="Interj">саты!</t>
+       <t pos="Interj">пандя</t>
+       <t pos="Interj">саты</t>
      </tg>
    </mg>
 </e>
@@ -208,61 +195,61 @@
 </e>
 <e>
    <lg>
-     <l pos="Interj">уледе шумбрат!</l>
+     <l pos="Interj">уледе шумбрат</l>
      <stg><st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="mdf">
-       <t pos="Interj">уледа шумбрат!</t>
+       <t pos="Interj">уледа шумбрат</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Interj">ульть шумбра!</l>
+     <l pos="Interj">ульть шумбра</l>
      <stg><st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="mdf">
-       <t pos="Interj">ульхть шумбра!</t>
+       <t pos="Interj">ульхть шумбра</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Interj">шумбрат!</l>
+     <l pos="Interj">шумбрат</l>
      <stg><st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="mdf">
-       <t pos="Interj">шумбрат!</t>
+       <t pos="Interj">шумбрат</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Interj">шумбратадо!</l>
+     <l pos="Interj">шумбратадо</l>
      <stg><st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="mdf">
-       <t pos="Interj">шумбратада!</t>
+       <t pos="Interj">шумбратада</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Interj">шумбрачи!</l>
+     <l pos="Interj">шумбрачи</l>
      <stg><st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="mdf">
-       <t pos="Interj">шумбраши!</t>
+       <t pos="Interj">шумбраши</t>
      </tg>
    </mg>
 </e>
