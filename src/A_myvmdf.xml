@@ -159,6 +159,11 @@
        <t pos="A">алняня</t>
      </tg>
    </mg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="A">маця</t>
+     </tg>
+   </mg>
 </e>
 <e>
    <lg>
@@ -1979,6 +1984,7 @@
    </lg>
    <mg>
      <tg xml:lang="mdf">
+       <t pos="A">цябярь</t>
        <t pos="A">мазы</t>
      </tg>
    </mg>
