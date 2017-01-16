@@ -182,6 +182,18 @@
 </e>
 <e>
    <lg>
+     <l pos="Po">ёнов</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="mdf">
+       <t pos="Po">шири</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="Po">юткова</l>
      <stg> <st/>
      </stg>

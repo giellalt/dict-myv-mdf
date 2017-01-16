@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?> <r xsi:noNamespaceSchemaLocation="../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="myv" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
 <e>
    <lg>
-     <l pos="Ad-A">алойшть</l>
+     <l pos="Adv" type="Grade">алойшть</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="mdf">
-       <t pos="Ad-A">пяк</t>
+       <t pos="Adv" type="Grade">пяк</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Ad-A">пек</l>
+     <l pos="Adv" type="Grade">пек</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="mdf">
-       <t pos="Ad-A">пяк</t>
+       <t pos="Adv" type="Grade">пяк</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Ad-A">тунь</l>
+     <l pos="Adv" type="Grade">тунь</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="mdf">
-       <t pos="Ad-A">ёфси</t>
-       <t pos="Ad-A">прокс</t>
+       <t pos="Adv" type="Grade">ёфси</t>
+       <t pos="Adv" type="Grade">прокс</t>
      </tg>
    </mg>
 </e>
@@ -93,8 +93,7 @@
    </lg>
    <mg>
      <tg xml:lang="mdf">
-       <t pos="Adv">аф ламнянь</t>
-       <t pos="Adv">аф ламонь</t>
+       <t pos="Adv">валом-валом</t>
      </tg>
    </mg>
 </e>
@@ -601,18 +600,6 @@
    <mg>
      <tg xml:lang="mdf">
        <t pos="Adv">сембоц</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Adv">весть</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="mdf">
-       <t pos="Adv">весть</t>
      </tg>
    </mg>
 </e>
@@ -1400,8 +1387,8 @@
    </lg>
    <mg>
      <tg xml:lang="mdf">
-       <t pos="Adv">лиякс</t>
        <t pos="Adv">илякс</t>
+       <t pos="Adv">лиякс</t>
      </tg>
    </mg>
 </e>
@@ -1413,8 +1400,8 @@
    </lg>
    <mg>
      <tg xml:lang="mdf">
-       <t pos="Adv">лияста</t>
        <t pos="Adv">иляста</t>
+       <t pos="Adv">лияста</t>
      </tg>
    </mg>
 </e>
@@ -1426,6 +1413,7 @@
    </lg>
    <mg>
      <tg xml:lang="mdf">
+       <t pos="Adv">цебярьста</t>
        <t pos="Adv">мазыста</t>
      </tg>
    </mg>
@@ -2564,18 +2552,6 @@
 </e>
 <e>
    <lg>
-     <l pos="Adv">тоск</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="mdf">
-       <t pos="Adv">тозк</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="Adv">тоско</l>
      <stg> <st/>
      </stg>
@@ -2710,19 +2686,6 @@
 </e>
 <e>
    <lg>
-     <l pos="Adv">улко</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="mdf">
-       <t pos="Adv">улхка</t>
-       <t pos="Adv">улхкомба</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="Adv">улкоть</l>
      <stg> <st/>
      </stg>
@@ -2730,6 +2693,7 @@
    <mg>
      <tg xml:lang="mdf">
        <t pos="Adv">улхка</t>
+       <t pos="Adv">улхкомба</t>
      </tg>
    </mg>
 </e>
@@ -2934,7 +2898,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Adv">чокшнэ</l>
+     <l pos="Adv">чокшне</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -3125,19 +3089,8 @@
    </lg>
    <mg>
      <tg xml:lang="mdf">
+       <t pos="Adv">ёнюста</t>
        <t pos="Adv">ёжуста</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po">ёнов</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="mdf">
-       <t pos="Po">шири</t>
      </tg>
    </mg>
 </e>
@@ -3150,12 +3103,6 @@
    <mg>
      <tg xml:lang="mdf">
        <t pos="Adv">цебярьста</t>
-     </tg>
-   </mg>
-</e>
-   <mg>
-     <tg xml:lang="mdf">
-       <t pos="Adv">ёнюста</t>
      </tg>
    </mg>
 </e>
